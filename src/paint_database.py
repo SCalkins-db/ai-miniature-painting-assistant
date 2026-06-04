@@ -48,3 +48,27 @@ class PaintDatabase:
             self.paints["brand"]
             .str.lower() == brand.lower()
         ]
+
+    def search_by_color_family(self, color_family):
+        """
+        Search paints by color family.
+        """
+        if self.paints is None:
+            self.load_paints()
+
+        return self.paints[
+            self.paints["color_family"]
+            .str.lower() == color_family.lower()
+            ]
+
+    def search_by_paint_type(self, paint_type):
+        """
+        Search paints by paint type.
+        """
+        if self.paints is None:
+            self.load_paints()
+
+        return self.paints[
+            self.paints["paint_type"]
+            .str.lower() == paint_type.lower()
+            ]

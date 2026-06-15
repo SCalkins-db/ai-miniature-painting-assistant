@@ -1,19 +1,30 @@
 from src.paint_database import PaintDatabase
 
 
-db = PaintDatabase("data/paints.csv")
+db = PaintDatabase("data/registries_csv")
 
-print("ALL PAINTS")
+print(db.master_df.shape)
+print(db.master_df.columns)
+print(db.master_df.head())
+
+print("\nALL PAINTS")
 print(db.get_all_paints())
 
-print("\nSEARCH: blue")
-print(db.search_by_color_family("blue"))
+print("\nSEARCH PAINT NAME: blue")
+print(db.search_by_paint_name("blue"))
 
-print("\nSEARCH: Citadel")
+print("\nSEARCH COMPANY: Games Workshop")
+print(db.search_by_company("Games Workshop"))
+
+print("\nSEARCH BRAND: Citadel")
 print(db.search_by_brand("Citadel"))
 
-print("\nSEARCH: Blue Color Family")
-print(db.search_by_color_family("Blue"))
+print("\nSEARCH PRODUCT LINE: Base")
+print(db.search_by_product_line("Base"))
 
-print("\nSEARCH: Base Paints")
-print(db.search_by_paint_type("Base"))
+print("\nSEARCH PAINT TYPE: Contrast")
+print(db.search_by_paint_type("Contrast"))
+
+print("\nSEARCH STATUS: Active")
+print(db.search_by_status("Active"))
+

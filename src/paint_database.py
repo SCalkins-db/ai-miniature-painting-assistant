@@ -1,74 +1,59 @@
-import pandas as pd
+from src.registry_loader import load_registries
+
 
 class PaintDatabase:
-    """
-    Handles loading and searching paint data.
-    """
-
-    def __init__(self, file_path):
-        self.file_path = file_path
-        self.paints = None
-
-    def load_paints(self):
-        """
-        Loads paint data from CSV.
-        """
-        self.paints = pd.read_csv(self.file_path)
-        return self.paints
+    def __init__(self, registry_folder="data/registries_csv"):
+        self.master_df = load_registries(registry_folder)
 
     def get_all_paints(self):
-        """
-        Returns all paints.
-        """
-        if self.paints is None:
-            self.load_paints()
+        return self.master_df
 
-        return self.paints
+    def search_by_paint_name(self, paint_name):
+        return self.master_df[
+            self.master_df["Paint_Name"].str.contains(paint_name, case=False, na=False)
+        ]
 
-    def search_by_name(self, search_term):
-        """
-        Search paint names.
-        """
-        if self.paints is None:
-            self.load_paints()
-
-        return self.paints[
-            self.paints["paint_name"]
-            .str.contains(search_term, case=False, na=False)
+    def search_by_company(self, company):
+        return self.master_df[
+            self.master_df["Company"].str.contains(company, case=False, na=False)
         ]
 
     def search_by_brand(self, brand):
-        """
-        Search paints by brand.
-        """
-        if self.paints is None:
-            self.load_paints()
-
-        return self.paints[
-            self.paints["brand"]
-            .str.lower() == brand.lower()
+        return self.master_df[
+            self.master_df["Brand"].str.contains(brand, case=False, na=False)
         ]
 
-    def search_by_color_family(self, color_family):
-        """
-        Search paints by color family.
-        """
-        if self.paints is None:
-            self.load_paints()
-
-        return self.paints[
-            self.paints["color_family"]
-            .str.lower() == color_family.lower()
-            ]
+    def search_by_product_line(self, product_line):
+        return self.master_df[
+            self.master_df["Product_Line"].str.contains(product_line, case=False, na=False)
+        ]
 
     def search_by_paint_type(self, paint_type):
-        """
-        Search paints by paint type.
-        """
-        if self.paints is None:
-            self.load_paints()
+        return self.master_df[
+            self.master_df["Paint_Type"].str.contains(paint_type, case=False, na=False)
+        ]
 
-        return self.paints[
-            self.paints["paint_type"]
-            .str.lower() == paint_type.lower()
+    def search_by_status(self, status):
+        return self.master_df[
+            self.master_df["Status"].str.contains(status, case=False, na=False)
+        ]
+
+    def get_total_paints(self):
+        return len(self.master_df)
+
+    def get_company_counts(self):
+        return self.master_df["Company"].value_counts()
+
+    def get_missing_hex(self):
+        return self.master_df[
+            self.master_df["Hex"].isna() |
+            (self.master_df["Hex"].astype(str).str.strip() == "")
             ]
+
+    def get_missing_hex_count(self):
+        return len(
+            self.master_df[
+                self.master_df["Hex"].isna() |
+                (self.master_df["Hex"].astype(str).str.strip() == "")
+                ]
+        )

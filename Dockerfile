@@ -9,10 +9,3 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 CMD ["python", "main.py"]
-
-#### WHY Dockerfile is used #####
-    Docker ecosystem
-    Docker Desktop
-    Most tutorials
-    Most employers
-#################################

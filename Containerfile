@@ -9,10 +9,3 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 CMD ["python", "main.py"]
-
-#### WHY Containerfile is used #####
-    Podman ecosystem
-    Red Hat/OpenShift
-    Rootless containers
-    Linux enterprise environments
-####################################

@@ -1,0 +1,754 @@
+
+
+--- PAGE 1 ---
+
+Paint Comparison Chart 
+Unable to find a paint that you used to use? Has something been discontinued? Want to find the equivalent paint in a different range? Here is the ultimate painting matrix, comparing the games workshop Citadel
+paints with every known equivalent. Please note, hex codes are all approximate - double check before you get a batch of paint made up to match that colour! 
+Colour
+Citadel 
+Vallejo Game Color 
+Vallejo Model Color 
+Rackham 
+Reaper Master 
+Coat D'arms*** 
+Hex Code 
+  
+Skull White 
+Dead White (001) 
+White (951) 
+Eternal White (1) 
+Pure White (9039) 
+White (101) 
+FFFFFF 
+  
+Smelly Primer* 
+White Primer (002) 
+Foundation White (919) 
+  
+Brush-on Primer (9108) 
+Grey Primer (141) 
+FFFFFF 
+  
+Pallid Flesh* 
+Pale Flesh (003) 
+Light Flesh (928) 
+Pearly Flesh (31) 
+Rosy Highlight (9069) 
+Flesh (213) 
+EEC8C7 
+  
+Elf Flesh 
+Elf Skintone (004) 
+Flat Flesh (955) 
+Craggy Skin (30) 
+Rosy Highlight ** (9069) 
+Elven Flesh (123) 
+F7BD7B 
+  
+Bad Moon Yellow* 
+Bald Moon Yellow (005) 
+Lemon Yellow (952) 
+  
+Clear Yellow (9095) 
+Dusky Yellow (146) 
+FFF700 
+  
+Sunburst Yellow 
+Sunblast Yellow (006) 
+Deep Yellow (915) 
+Lahn Yellow (40) 
+Sun Yellow (9008) 
+Sun Yellow (103) 
+FFE700 
+  
+Golden Yellow 
+Gold Yellow (007) 
+Golden Yellow (948) 
+Royal Yellow (39) 
+Marigold Yellow (9007) 
+Golden Yellow (159) 
+FFCE00 
+  
+Desert Yellow 
+Desert Yellow (063) 
+  
+  
+Faded Khaki (9129) 
+  
+9C8855 
+  
+Fiery Orange * 
+Orange Fire (008) 
+Light Orange (911) 
+Merin's Fire (38) 
+Fire Orange (9006) 
+Flame Orange (105) 
+FF7B00 
+  
+Blazing Orange 
+Hot Orange (009) 
+Scarlet (817) 
+Fusion Red (37) 
+Phoenix Red (9005) 
+Burnt Orange (147) 
+FF3108 
+  
+Blood Red 
+Bloody Red (010) 
+Vermillion (909) 
+Rackham Red (36) 
+Clear Red (9094) 
+Blood Red (104) 
+CE0018 
+  
+Red Gore 
+Gory Red (011) 
+Cavalry Brown (982) 
+Natural Leather (34) 
+Carnage Red (9135) 
+Vampire Red (129) 
+940008 
+  
+Scab Red 
+Scarlett Red (012) 
+Carmine Red (908) 
+Arcavia Red (35) 
+Deep Red (9002) 
+  
+990033 
+  
+Terracotta* 
+Terracotta (065) 
+  
+  
+Clotted Red (9134) 
+  
+793721 
+  
+Tentacle Pink* 
+Squid Pink (013) 
+Pink (958) 
+Friend Flesh (33) 
+Pale Violet ** (9027) 
+Shocking Pink (144) 
+EF9CB5 
+  
+Warlock Purple 
+Warlord Purple (014) 
+Magenta (945) 
+Celestial Pink (46) 
+Pale Violet Red (9027) 
+Warlock Purple (157) 
+9C004A 
+  
+Liche Purple 
+Hexed Lichen (015) 
+Royal Purple (810) 
+Divine Purple (6) 
+Clear Plum (9132) 
+Poison Purple (118) 
+5A005A 
+  
+Imperial Purple* 
+Royal Purple (016) 
+Royal Purple (810) 
+  
+Deep Amethyst (9079) 
+Amethest Purple (160) 
+562F7E 
+  
+Nauseating Blue * 
+Sick Blue (017) 
+Violet ** (960) 
+  
+Clear Purple (9099) 
+Nauseous Blue (162) 
+412A7A 
+  
+Storm Blue * 
+Stormy Blue (018) 
+Blue (925) 
+Migol Blue (5) 
+Ritterlich Blue ** (9115) 
+  
+27357E 
+  
+Midnight Blue* 
+Night Blue (019) 
+Dark Prussian Blue (899) 
+Abyssal Blue (3) 
+Ultramarine Shadow (9187) 
+  
+000031 
+  
+Regal Blue 
+Imperial Blue (020) 
+Royal Blue (809) 
+  
+Brilliant Blue (9116) 
+Royal Blue (110) 
+08085A 
+  
+Enchanted Blue 
+Magic Blue (021) 
+Dark Blue (930) 
+Ephren Blue (4) 
+Cyan Blue ** (9117) 
+Wizard Blue (114) 
+31639C 
+  
+Ultramarine Blue 
+Ultra Marine Blue (022) 
+Ultramarine (839) 
+Wizard Blue ** (7) 
+Ultramarine Highlight ** (9189) 
+Marine Blue (148) 
+29397B 
+
+
+
+--- PAGE 2 ---
+
+  
+Ice Blue 
+Ice Blue (095) 
+Azure ** (902) 
+Glacier Blue (9) 
+  
+  
+6B9CCE 
+  
+Lightning Bolt Blue * 
+Electric Blue (023) 
+Sky Blue (961) 
+Sacred Blue ** (8) 
+Sky Blue ** (9018) 
+High Elf Blue (117) 
+8BB9DD 
+  
+Hawk Turquoise 
+Falcon Turquoise (024) 
+Light Turquoise (840) 
+Precious Blue (12) 
+Marine Teal (9077) 
+Aquamarine (132) 
+006B5A 
+  
+Vile Green * 
+Foul Green (025) 
+Park Green Flat (969) 
+Antique Green (13) 
+  
+  
+82C59C 
+  
+Jade Green* 
+Jade Green (026) 
+Light Turquoise (840) 
+  
+Reptilian Greens Triad ** (9184/9185/9186) 
+Jade Green** (158) 
+069B7D 
+  
+Scaly Green * 
+Scurf Green (027) 
+Emerald (838) 
+Chitin Green (19) 
+Clear Viridian (9131) 
+  
+026B67 
+  
+Dark Angels Green 
+Dark Green (028) 
+Deep Green (970) 
+Diisha Green (18) 
+Pine Green ** (9010) 
+Dark Elf Green (111) 
+005221 
+  
+Snot Green 
+Sick Green (029) 
+Intermediate Green (891) 
+Avagddu Green (17) 
+Clear Green (9096) 
+Bogey Green (121) 
+106B21 
+  
+Goblin Green 
+Goblin Green (030) 
+Pastel Green (885) 
+Chasm Green (16) 
+Field Green ** (9167) 
+Goblin Green (108) 
+63B521 
+  
+Camo Green 
+Camouflage Green (031) 
+Olive Green (967) 
+  
+Camoflage Green ** (9177) 
+  
+A5A542 
+  
+Scorpion Green 
+Scorpy Green (032) 
+Light Green (942) 
+Quithayran Green (14) 
+Pale Green (9012) 
+Scorpion Green (152) 
+A5D610 
+  
+Bilious Green * 
+Livery Green (033) 
+Yellow Green ** (954) 
+Mystic Green (15) 
+Spring Green ** (9146) 
+  
+A9D171 
+  
+Catachan Green 
+Cayman Green (067) 
+  
+  
+Muddy Olive (9034) 
+  
+455440 
+  
+Bleached Bone 
+Bonewhite (034) 
+Pale Sand (837) 
+Wildcat Gray ** (42) 
+Yellowed Bone (9143) 
+Bone (112) 
+EFD9A8 
+  
+Rotting Flesh 
+Dead Flesh (035) 
+German Yellow ** (806) 
+Dead Flesh (11) 
+Pale Olive (9036) 
+Putrid Green (125) 
+E7EFC6 
+  
+Bronzed Flesh * 
+Bronze Flesh (036) 
+Dark Flesh (927) 
+  
+Burnt Orange ** (9111) 
+Tanned Flesh (115) 
+F7944A 
+  
+Vomit Brown 
+Filthy Brown (037) 
+Beige Red (804) 
+Tanned Skin (29) 
+Tanned Leather (9031) 
+Bilious Brown (130) 
+DE9408 
+  
+Leprous Brown* 
+Scrofulous Brown (038) 
+Gold Brown (877) 
+  
+Saffron Sunset ** (9182) 
+Leprous Brown (156) 
+D88E2D 
+  
+Bubonic Brown 
+Plague Brown (039) 
+Yellow Ochre (913) 
+Forgotten Gold (25) 
+Palomino Gold (9074) 
+Festering Brown (126) 
+C68400 
+  
+Snakebite Leather 
+Cobra Leather (040) 
+Brown Sand (876) 
+Kalliene Yellow (23) 
+Chestnut Gold (9073) 
+Barbarian Leather (116) 
+9C6B08 
+  
+Dwarf Flesh 
+Dwarf Skin (041) 
+Brown Rose (803) 
+  
+Rosy Skin (9068) 
+Dwarven Flesh (124) 
+F78C5A 
+  
+Vermin Brown 
+Parasite Brown (042) 
+Orange Brown (981) 
+Syhar Soil (24) 
+Chestnut Brown ** (9071) 
+Rat Brown (119) 
+843910 
+  
+Bestial Brown 
+Beasty Brown (043) 
+Flat Brown (984) 
+Soil of Avagddu (22) 
+Intense Brown (9138) 
+Hairy Brown (120) 
+663300 
+  
+Graveyard Earth 
+Earth (062) 
+  
+  
+Uniform Brown (9127) 
+  
+655138 
+  
+Kommando Khaki 
+Khaki (061) 
+  
+  
+Terran Khaki (9122) 
+  
+9B8C7B 
+  
+Dark Flesh 
+Dark Fleshtone (044) 
+Mahogany Brown (846) 
+Beastly Flesh (21) 
+Chestnut Brown (9071) 
+  
+630808 
+  
+Tanned Flesh * 
+Tan (066) 
+  
+  
+Antique Rose (9139) 
+  
+A95C3E 
+  
+Scorched Brown 
+Charred Brown (045) 
+Hull Red (985) 
+Dirty Leather (20) 
+Muddy Brown (9028) 
+  
+390008 
+
+
+
+--- PAGE 3 ---
+
+  
+Ghostly Grey * 
+Ghost Grey (046) 
+Flat Aluminum (993) 
+  
+Ghost White (9063) 
+  
+C3C6CD 
+  
+Space Wolves Grey 
+Wolf Grey (047) 
+Pale Greyblue (907) 
+  
+Snow Shadow (9021) 
+Lupin Grey (151) 
+CEDEE7 
+  
+Shadow Grey 
+Sombre Grey (048) 
+Oxford Blue (807) 
+  
+Twilight Blue (9020) 
+Shadow Grey (150) 
+4E5067 
+  
+Fortress Grey 
+Stonewall Grey (049) 
+Pale Grey Blue (907) 
+Sharp Gray (43) 
+Weathered Stone (9087) 
+  
+B5B5B5 
+  
+Codex Grey 
+Cold Grey (050) 
+Basalt Grey (869) 
+Gray of Darkness (45) 
+Rainy Grey (9038) 
+  
+999999 
+  
+Chaos Black 
+Chaos Black (051) 
+Black (950) 
+Accursed Black (2) 
+Pure Black (9037) 
+Black (102) 
+000000 
+  
+Mithril Silver 
+Mithril Silver (052) 
+Silver (997) 
+Polished Silver (49) 
+Polished Silver (9054) 
+Enchanted Silver (106) 
+B5B5BD 
+  
+Chainmail 
+Chain Mail (053) 
+Natural Steel (864) 
+  
+Honed Steel (9053) 
+Chainmail (109) 
+7B737B 
+  
+Boltgun Metal 
+Gunmetal (054) 
+Gunmetal Grey (863) 
+  
+Shadowed Steel (9052) 
+Gun Metal (142) 
+393939 
+  
+Burnished Gold 
+Polished Gold (055) 
+Gold (996) 
+  
+New Gold (9051) 
+  
+E7BD42 
+  
+Shining Gold 
+Glorious Gold (056) 
+Old Gold (878) 
+  
+Antique Gold (9050) 
+Bright Gold (107) 
+CCCC33 
+  
+Dwarf Bronze 
+Bright Bronze (057) 
+Bronze (998) 
+  
+Ancient Bronze (9049) 
+Dwarven Bronze (143) 
+9C5221 
+  
+Brazen Brass * 
+Brassy Brass (058) 
+Brass (801) 
+  
+Tarnished Brass ** (9198) 
+Brass (131) 
+735A21 
+  
+Beaten Copper * 
+Hammered Copper (059) 
+Copper (999) 
+  
+Coppery Orange (9102) 
+  
+73372D 
+  
+Tin Bitz 
+Tinny Tin (060) 
+  
+  
+Scorched Metal (9125) 
+Magic Metal (113) 
+393121 
+  
+Black Ink * 
+Black Ink (94) 
+  
+  
+  
+  
+000000 
+  
+Dark Green Ink * 
+Green Ink (89) 
+  
+  
+  
+  
+108473 
+  
+Flesh Wash * 
+  
+  
+  
+  
+Ink Wash - Flesh (133) 
+CE8C42 
+  
+Magenta Ink * 
+  
+  
+  
+  
+  
+513D3C 
+  
+Purple Ink * 
+Violet Ink (87) 
+  
+  
+  
+  
+513D3C 
+  
+Adeptus Battlegrey 
+Heavy Grey (145) 
+Russian Uniform (924) 
+  
+Military Green (9176) 
+  
+7C8286 
+  
+Astronomicon Grey 
+Heavy Bluegrey (144) 
+Pale Blue Grey (905) 
+  
+Weathered Stone (9087) 
+  
+96A5A9 
+  
+Calthan Brown 
+Heavy Siena (154) 
+Flat Brown (984) 
+  
+Dark Highlight (9042) 
+  
+6D5044 
+  
+Charadon Granite 
+Heavy Charcoal (155) 
+German Grey (995) 
+  
+Pure Black (9103) 
+  
+4D4A4A 
+  
+Dheneb Stone 
+Heavy Warmgrey (148) 
+  
+  
+Ruddy Leather (9109) 
+  
+B9ADA1 
+  
+Fenris Grey 
+  
+  
+  
+  
+  
+365462 
+  
+Gretchin Green 
+Heavy Khaki (149) 
+Middlestone (882) 
+  
+Worn Olive (9159) 
+  
+6A6445 
+  
+Hormagaunt Purple 
+Heavy Violet (142) 
+Violet (960) 
+  
+Nightshade Purple (9022) 
+  
+4F566C 
+
+
+
+--- PAGE 4 ---
+
+  
+Iyanden Darksun 
+Heavy Goldbrown (151) 
+Goldbrown (877) 
+  
+Green Ochre (9128) 
+  
+9C8A53 
+  
+Khemri Brown 
+Heavy Brown (153) 
+Us Field Drab (873) 
+  
+Woodstain Brown (9160) 
+  
+705E48 
+  
+Knarloc Green 
+Heavy Green (146) 
+Luftwaffe Ca. Green (823) 
+  
+Olive Drab (9158) 
+  
+434F38 
+  
+Macharius Solar Orange 
+Heavy Orange (152) 
+German Orange (805) 
+  
+Phoenix Red (9005) 
+  
+A4593D 
+  
+Mechrite Red 
+Heavy Red (141) 
+Red (926) 
+  
+Clotted Red (9134) 
+  
+793638 
+  
+Mordian Blue 
+Heavy Blue (143) 
+Prussian Blue (965) 
+  
+Breonne Blue (9055) 
+  
+2D567C 
+  
+Necron Abyss 
+  
+  
+  
+  
+  
+273E51 
+  
+Orkhide Shade 
+Heavy Blackgreen (147) 
+Black Green (980) 
+  
+Jungle Moss (9082) 
+  
+384E49 
+  
+Tausept Ochre 
+Heavy Ochre (150) 
+Ochre Brown (856) 
+  
+Half Orc Highlight (9204) 
+  
+976F3C 
+  
+Tallarn Flesh 
+Heavy Skintone (140) 
+Brown Sand (876) 
+  
+Leather Brown (9030) 
+  
+8D736C 
+ 
+(* = discontinued, ** = approximate, *** = coat d'arms match the OLD citadel colours so there might be some difference. Shining gold has the most noticeable difference, 
+**** P3 Paints do not really match very closely with the GW range, but a detailed explanation of each paint can be found here: http://www.brushthralls.com/pre-painting-prep/color-theory-10p3.html ) 
+ 

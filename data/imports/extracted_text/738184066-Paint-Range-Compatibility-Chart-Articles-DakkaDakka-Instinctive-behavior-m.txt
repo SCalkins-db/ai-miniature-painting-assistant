@@ -1,0 +1,2013 @@
+
+
+--- PAGE 1 ---
+
+Paint Comparison Chart
+Unable to find a paint that you used to use? Has something been discontinued? Want to find the equivalent paint in a different range? Here is the ultimate painting matrix, comparing the games workshop Citadel paints with every known equivalent. Please
+note, hex codes are all approximate - double check before you get a batch of paint made up to match that colour!
+Colour
+New Citadel 5
+Old Citadel
+Vallejo Game Color
+Vallejo Model Color
+INSTAR 6
+INSTAR
+Vintage
+Rackham
+Reaper Master
+Privateer
+Press P3 4
+Coat D'arms 3
+Army Painter
+Scale 75
+Two Thin
+Coats8
+Hex
+Code
+ 
+White Scar
+Skull White 1
+Dead White (001)
+White (951)
+Arctic
+White
+ 
+Eternal White
+(1)
+Pure White (9039)
+Morrow white
+White (101)
+Matt White (WP1102)
+White Matt
+White Star
+FFFFFF
+ 
+Ceramite White
+Smelly Primer 1
+White Primer (002)
+Foundation White
+(919)
+Arctic
+White
+ 
+ 
+Brush-on Primer (9108)
+Morrow white
+Grey Primer
+(141)
+ 
+ 
+FFFFFF
+ 
+Kislev flesh
+Pallid Flesh 1
+Pale Flesh (003)
+Light Flesh (928)
+Caramel
+ 
+Pearly Flesh
+(31)
+Rosy Highlight (9069)
+Ryn Flesh
+Flesh (213)
+Kobold Skin
+Pale Skin
+Matt
+Elven Skin
+EEC8C7
+ 
+Bestigor Flesh
+Elf Flesh 1
+Elf Skintone (004)
+Flat Flesh (955)
+ 
+ 
+Craggy Skin
+(30)
+Rosy Highlight 2 (9069)
+ 
+Elven Flesh
+(123)
+ 
+F7BD7B
+ 
+Dorn yellow 2
+Bad Moon
+Yellow 1
+Bad Moon Yellow (005)
+Lemon Yellow (952)
+ 
+ 
+ 
+Clear Yellow (9095)
+ 
+Dusky Yellow
+(146)
+ 
+FFF700
+ 
+Flash Gitz Yellow
+Sunburst Yellow
+1
+Sunblast Yellow (006)
+Flat Yellow
+Brilliant
+Yellow
+IV-29 7
+Lahn Yellow
+(40)
+Sun Yellow (9008)
+ 
+Sun Yellow
+(103)
+Demonic Yelow (WP1107)
+Yellow Flame
+FFE700
+ 
+Yriel Yellow
+Golden Yellow 1
+Gold Yellow (007)
+Golden Yellow (948)
+ 
+ 
+Royal Yellow
+(39)
+Marigold Yellow (9007)
+Heartfire
+Golden Yellow
+(159)
+ 
+Sol Yellow
+Matt
+Skulker
+Yellow
+FFCE00
+ 
+Tallarn Sand
+Desert Yellow 1
+Desert Yellow (063)
+Dark Yellow (978)
+ 
+IV-30 7
+ 
+Faded Khaki (9129)
+ 
+ 
+Desert Yellow (WP1121)
+Sahara Yellow
+Matt
+9C8855
+ 
+Jokaero Orange
+Macharius Solar
+Orange 1
+Heavy Orange (152)
+German Orange
+(805)
+Sunset
+Orange
+IV-17
+Phoenix Red
+(9005)
+ 
+ 
+ 
+ 
+EE3823
+ 
+Fire Dragon Bright
+Fiery Orange 1
+Orange Fire (008)
+Light Orange (911)
+ 
+ 
+Merin's Fire
+(38)
+Fire Orange (9006)
+ 
+Flame Orange
+(105)
+Prison Jumpsuit (WP1211
+Zombiecide)
+Orange Flare
+FF8552
+ 
+Troll Slayer
+Orange
+Blazing Orange 1
+Hot Orange (009)
+Scarlet (817)
+ 
+ 
+Fusion Red
+(37)
+Phoenix Red (9005)
+ 
+Burnt Orange
+(147)
+Mythical Orange
+(WP1442)
+Fanatic
+Orange
+F46C2E
+ 
+Mephiston Red
+Mechrite Red 1
+Heavy Red (141)
+Red (926)
+Crimson
+Red
+IV-07
+ 
+Clotted Red (9134)
+ 
+ 
+Vampire Red (WP1460)
+Sanguine
+Scarlet
+991115
+ 
+Evil Sunz Scarlet
+Blood Red 1
+Bloody Red (010)
+Vermillion (909)
+Burnt Red
+IV-27 7
+Rackham Red
+(36)
+Clear Red (9094)
+ 
+Blood Red
+(104)
+Pure Red (WP1104)
+Antares Red
+Demon Red
+C21920
+ 
+Wild Rider Red
+ 
+ 
+ 
+Racing Red
+ 
+ 
+ 
+ 
+ 
+Mars Red (WP1436)
+EB2E28
+ 
+Wazdakka Red
+Red Gore 1
+Gory Red (011)
+Cavalry Brown (982)
+ 
+ 
+Natural
+Leather (34)
+Carnage Red (9135)
+ 
+Vampire Red
+(129)
+Dragon Red (WP1105)
+Indian
+Shadow
+Evil Eye Red
+940008
+ 
+Khorne Red
+Scab Red 1
+Scarlett Red (012)
+Carmine Red (908)
+Wine Red
+IV-01
+Arcavia Red
+(35)
+Deep Red (9002)
+ 
+ 
+Chaotic Red (WP1142)
+(too dark/brown)
+Deep Red
+Matt
+Asmodeus
+Red
+6A0002
+ 
+Word Bearers Red
+Chaotic Red
+Berserker Red
+620104
+ 
+Emperor's
+Children
+Tentacle Pink 1
+Squid Pink (013)
+Pink (958)
+Dark Pink
+ 
+Friend Flesh
+(33)
+Pale Violet 2 (9027)
+Carnal Pink
+Shocking Pink
+(144)
+ 
+Hot Pink
+EF9CB5
+ 
+Screamer Pink
+Warlock Purple 1
+Warlord Purple (014)
+Magenta (945)
+Dark
+Maroon
+ 
+Celestial Pink
+(46)
+Pale Violet Red (9027)
+Murderous
+Magenta
+Warlock Purple
+(157)
+ 
+Fuchsia Matt
+Sword Hilt
+Burgundy
+9C004A
+ 
+Barak-Nar
+Burgundy
+Crusted Sore
+Royal Cloak
+451636
+ 
+Gal Vorbak Red
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Crusted Sore
+ 
+Dread Red
+4B213C
+ 
+Xereus Purple
+Liche Purple 1
+Hexed Lichen (015)
+Royal Purple (810)
+ 
+IV-34 7
+Divine Purple
+(6)
+Clear Plum (9132)
+Beaten Purple
+Poison Purple
+(118)
+Alien Purple (WP1128)
+Amethyst
+Rayne
+5A005A
+ 
+Naggaroth Night
+Imperial Purple 1
+Royal Purple (016)
+Royal Purple (810)
+Dark
+Purple
+ 
+ 
+Deep Amethyst (9079)
+ 
+Amethest
+Purple (160)
+ 
+562F7E
+ 
+ 
+Nauseating Blue
+1
+Sick Blue (017)
+Violet 2 (960)
+ 
+ 
+ 
+Clear Purple (9099)
+Bad Bruise
+Nauseous Blue
+(162)
+ 
+412A7A
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+26/03/2024 00:22
+Pagina 1 van 5
+
+
+
+--- PAGE 2 ---
+
+ 
+ 
+Storm Blue 1
+Stormy Blue (018)
+Blue (925)
+ 
+ 
+Migol Blue (5)
+Ritterlich Blue 2 (9115)
+ 
+ 
+ 
+27357E
+ 
+ 
+Midnight Blue 1
+Night Blue (019)
+Dark sea blue
+ 
+ 
+Abyssal Blue
+(3)
+Ultramarine Shadow (9187)
+ 
+ 
+ 
+000031
+ 
+Kantor Blue
+Regal Blue 1
+Imperial Blue (020)
+Dark Prussian blue
+Marianas
+Blue
+ 
+ 
+Brilliant Blue (9116)
+ 
+Royal Blue (110)
+Deep Blue (WP1116)
+Abyss Blue
+08085A
+ 
+Altdorf Guard
+Blue
+Ultramarine Blue
+Ultra Marine Blue (022)
+Ultramarine (839)
+ 
+IV-28 7
+Wizard Blue 2
+(7)
+Ultramarine Highlight 2
+(9189)
+ 
+Marine Blue
+(148)
+Ultramarine Blue
+(WP1115)
+29397B
+ 
+Macragge Blue
+Mordian Blue 1
+Heavy Blue (143)
+Prussian Blue (965)
+Deep
+Water Blue
+ 
+ 
+Breonne Blue (9055)
+ 
+ 
+Dark Sky
+Navy Blue
+Matt
+Marine Blue
+2D567C
+ 
+Caledor Sky
+Enchanted Blue
+1
+Magic Blue (021)
+Dark Blue (930)
+Sapphire
+Blue
+ 
+Ephren Blue
+(4)
+Cyan Blue 2 (9117)
+Cygnar Blue
+Highlight
+Wizard Blue
+(114)
+Crystal Blue
+Witching
+Hour Blue
+31639C
+ 
+Hoeth Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Voidshield Blue
+ 
+Leviathan
+Blue
+4C78AF
+ 
+Lothern Blue
+Ice Blue
+Ice Blue (095)
+Azure 2 (902)/ Deep
+Sky Blue
+ 
+ 
+Glacier Blue
+(9)
+ 
+ 
+ 
+Voidshield Blue (WP1452)
+Sky Blue
+6B9CCE
+ 
+Teclis Blue
+Lightning Bolt
+Blue 1
+Electric Blue (023)
+Sky Blue (961)
+Bright Blue
+ 
+Sacred Blue 2
+(8)
+Sky Blue 2 (9018)
+ 
+High Elf Blue
+(117)
+Electric Blue (WP1113)
+8BB9DD
+ 
+Thousand Sons
+Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hydra Turquoise
+ 
+Sentient
+Turquoise
+00506F
+ 
+Ahriman Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Royal Cloak
+ 
+Cursed Blue
+00708A
+ 
+Sotek Green
+Hawk Turquoise
+Falcon Turquoise (024)
+Light Turquoise
+(840)
+ 
+ 
+Precious Blue
+(12)
+Marine Teal (9077)
+Meredius Blue
+Aquamarine
+(132)
+Hydra Turquoise (WP1141)
+Adriatic Blue
+Matt
+006B5A
+ 
+Sybarite Green
+Vile Green 1
+Foul Green (025)
+Park Green Flat
+(969)
+ 
+ 
+Antique Green
+(13)
+ 
+ 
+ 
+ 
+Ghoul Green
+82C59C
+ 
+Kabalite Green
+Jade Green 1
+Jade Green (026)
+Emerald (838)
+ 
+ 
+ 
+Reptilian Greens Triad 2
+(9184/9185/9186)
+Eldritch
+Jade Green 2
+(158)
+ 
+Jade Green
+069B7D
+ 
+ 
+Scaly Green 1
+Scurf/Scurvey Green
+(027)
+Emerald (838)
+ 
+ 
+Chitin Green
+(19)
+Clear Viridian (9131)
+ 
+ 
+ 
+026B67
+ 
+Incubi Darkness
+ 
+ 
+Dark Sea Blue (898)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hydra Green
+082E32
+ 
+Caliban Green
+Dark Angels
+Green 1
+Dark Green (028)
+Deep Green (970)
+Military
+Green
+IV-15 7
+Diisha Green
+(18)
+Pine Green 2 (9010)
+Gnarls Green 2
+Dark Elf Green
+(111)
+Angel Green (WP1112)
+Wyvern
+Green
+005221
+ 
+Warpstone Glow
+Snot Green 1
+Sick Green (029)
+Intermediate Green
+(891)
+Grass
+Green
+ 
+Avagddu
+Green (17)
+Clear Green (9096)
+Ioson Green
+Bogey Green
+(121)
+ 
+Irati Green
+Emerald
+Green
+106B21
+ 
+Warboss Green
+Goblin Green 1
+Goblin Green (030)
+Pastel Green (885)
+ 
+IV-13 7
+Chasm Green
+(16)
+Field Green 2 (9167)
+ 
+Goblin Green
+(108)
+Goblin Green (WP1109)
+Goblinoid
+Green
+63B521
+ 
+Elysian Green
+Camo Green 1
+Camouflage Green
+(031)
+Olive Green (967)
+ 
+ 
+ 
+Camouflage Green 2 (9177)
+ 
+ 
+ 
+Ardennes
+Green Matt
+A5A542
+ 
+Moot Green
+Scorpion Green
+1
+Scorpy Green (032)
+Light Green (942)
+Lime Green
+ 
+Quithayran
+Green (14)
+Pale Green (9012)
+Necrotite
+Green
+Scorpion Green
+(152)
+ 
+Spring Green
+Ethereal
+Green
+A5D610
+ 
+ 
+Bilious Green 1
+Livery Green (033)
+Yellow Green 2 (954)
+ 
+ 
+Mystic Green
+(15)
+Spring Green 2 (9146)
+ 
+ 
+ 
+A9D171
+ 
+Castellan Green
+Catachan Green
+1
+Cayman Green (067)
+Olive Grey (888)
+Jungle
+Green
+ 
+ 
+Muddy Olive (9034)
+ 
+ 
+ 
+Boreal Green
+Matt
+Fury Green
+455440
+ 
+Waaagh! Flesh
+Orkhide Shade 1
+Heavy Blackgreen (147)
+Black Green (980)
+Pine Green
+IV-10
+ 
+Jungle Moss (9082)
+ 
+ 
+ 
+Black
+Orc Hide
+384E49
+ 
+Loren Forest
+Knarloc Green 1
+Heavy Green (146)
+Luftwaffe Ca. Green
+(823)
+ 
+IV-22
+ 
+Olive Drab (9158)
+ 
+ 
+Army Green (WP1110)
+Gung-Ho
+Green
+434F38
+ 
+Deathworld Forest
+Gretchin Green 1
+Heavy Khaki (149)
+Russian Uniform
+WW2 (70.924)
+Savannah
+Green
+IV-25
+ 
+Worn Olive (9159)
+ 
+ 
+Venom Wyrm (WP1461)
+5D6732
+ 
+Straken Green
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Green Beret
+628026
+ 
+Nurgling Green
+Rotting Flesh 1
+Dead Flesh (035)
+Green sky
+ 
+ 
+Dead Flesh
+(11)
+Pale Olive (9036)
+Jack Bone
+Putrid Green
+(125)
+Necrotic Flesh
+849B63|
+ 
+Ushabti Bone
+Bleached Bone 1
+Bonewhite (034)
+Buff (976)
+Dust
+Brown
+IV-38 7
+Wildcat Gray 2
+(42)
+Yellowed Bone (9143)
+Menoth White
+Base
+Bone (112)
+Skeleton Bone (WP1125)
+Golden Skin
+Matt
+Skeleton
+Legion
+EFD9A8
+ 
+Zandri Dust
+Kommando
+Khaki 1
+Khaki (061)
+G. Cam.Beige (821)
+Golden
+Brown
+ 
+ 
+Terran Khaki (9122)
+ 
+ 
+ 
+Thar Brown
+Matt
+Dragon Fang
+9E915C
+ 
+Pallid Wych Flesh
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ivory Tusk
+CDCEBE
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+26/03/2024 00:22
+Pagina 2 van 5
+
+
+
+--- PAGE 3 ---
+
+ 
+Screaming Skull
+ 
+ 
+Ivory (918)
+ 
+ 
+ 
+ 
+Menoth White
+Highlight
+ 
+ 
+White Sands
+Matt
+Vampire Fang
+F0F1CE
+ 
+Bronzed Flesh 1
+Bronze Flesh (036)
+Dark Flesh (927)
+ 
+ 
+ 
+Burnt Orange 2 (9111)
+ 
+Tanned Flesh
+(115)
+ 
+F7944A
+ 
+Tau Light Ochre
+Vomit Brown 1
+Filthy Brown (037)
+Beige Red 2
+ 
+IV-11
+IV-12 7
+Tanned Skin
+(29)
+Tanned Leather (9031)
+Rucksack Tan
+Bilious Brown
+(130)
+ 
+Manticore
+Ochre
+DE9408
+ 
+Ratskin Flesh
+Dwarf Flesh 1
+Dwarf Skin (041)
+Brown Sand
+Bronzed
+Flesh
+ 
+ 
+Rosy Skin (9068)
+ 
+Dwarven Flesh
+(124)
+Barbarian Flesh (WP1126)
+F78C5A
+ 
+Bugman's Glow
+Tanned Flesh 1
+Tan (066)
+ 
+Sunburnt
+Flesh
+ 
+ 
+Antique Rose (9139)
+Khardic Flesh
+ 
+Tanned Flesh (WP1127 )
+Kalahari
+Orange Matt
+Barbarian
+Brawn
+A95C3E
+ 
+ 
+Leprous Brown 1
+Scrofulous Brown (038)
+Gold Brown (877)
+ 
+ 
+ 
+Saffron Sunset 2 (9182)
+ 
+Leprous Brown
+(156)
+ 
+D88E2D
+ 
+Zamesi Desert
+Bubonic Brown 1
+Plague Brown (039)
+Yellow Ochre (913)
+Mustard
+Yellow
+IV-32 7
+Forgotten
+Gold (25)
+Palomino Gold (9074)
+Moldy Ochre
+Festering
+Brown (126)
+ 
+Iroko Matt
+C68400
+ 
+Balor Brown
+Snakebite
+Leather 1
+Cobra Leather /Leather
+Brown (040)
+Brown Sand (876)
+ 
+IV-31 7
+Kalliene
+Yellow (23)
+Chestnut Gold (9073)
+ 
+Barbarian
+Leather (116)2
+ 
+9C6B08
+ 
+Balor Brown
+Tausept Ochre 1
+Heavy Ochre (150)
+Ochre Brown (856)
+ 
+IV-21
+ 
+Half Orc Highlight (9204)
+ 
+ 
+ 
+976F3C
+ 
+Skrag Brown
+Vermin Brown 1
+Parasite Brown (042)
+Orange Brown (981)
+ 
+IV-14 7
+Syhar Soil
+(24)
+Chestnut Brown 2 (9071)
+ 
+Rat Brown (119)
+ 
+Mars Orange
+Matt
+Dry Rust
+Brown
+843910
+ 
+Rhinox Hide
+Scorched Brown
+1
+Charred Brown (045)
+Burnt Umber (941) 2
+Chocolate
+Brown
+IV-37 7
+Dirty Leather
+(20)
+Muddy Brown (9028)
+Umbral
+Umber2
+ 
+ 
+Black Leather
+Matt
+Cuirass
+Leather
+390008
+ 
+Doombull Brown
+Dark Flesh 1
+Dark Fleshtone (044)
+Mahogany Brown
+(846)
+ 
+ 
+Beastly Flesh
+(21)
+Chestnut Brown (9071)
+ 
+ 
+ 
+Boar Hide
+630808
+ 
+Dryad Bark
+Oak Brown
+Scorched
+Earth
+2b2a24
+ 
+Gorthor Brown
+Werewolf Fur
+Ancient
+Forest
+5f463f
+ 
+Baneblade Brown
+Khemri Brown 1
+Heavy Brown (153)
+Green Brown
+Bark Brown
+IV-20
+ 
+Woodstain Brown (9160)
+ 
+ 
+ 
+Arabic
+Shadow Matt
+Wasteland
+Brown
+705E48
+ 
+Mournfang Brown
+Bestial Brown 1
+Beasty Brown (043)
+Flat Brown (984)
+Red Brown
+ 
+Soil of
+Avagddu (22)
+Intense Brown (9138)
+Bloodtracker
+Brown
+Hairy Brown
+(120)
+ 
+Noble Steed
+Brown
+663300
+ 
+Mournfang Brown
+Calthan Brown 1
+Heavy Siena (154)
+Flat Brown (984)
+Red Brown
+IV-03
+ 
+Dark Highlight (9042)
+ 
+ 
+ 
+6D5044
+ 
+XV-88
+Terracotta 1
+Terracotta (065)
+ 
+Sandstone
+Brown
+ 
+ 
+Clotted Red (9134)
+ 
+ 
+ 
+Gyzmo Fur
+793721
+ 
+Steel Legion Drab
+Graveyard Earth
+1
+Earth (062)
+US field drab
+Mud Brown
+IV-36 7
+ 
+Uniform Brown (9127)
+Gun Corps
+Brown
+ 
+Leather Brown (WP1123)
+Gobi Brown
+Matt
+Dust Bowl
+655138
+ 
+Karak Stone
+Kommando
+Khaki 1
+Khaki (061)
+German Cam. Beige
+WWII (821)
+Dirt Brown
+ 
+ 
+Terran Khaki (9122)
+Hammerfall
+Khaki
+Horse Tone
+Roan (222)
+ 
+Temple Stone
+9B8C7B
+ 
+Ulthuan grey
+Ghostly Grey 1
+Ghost Grey (046)
+Flat Aluminum (993)
+ 
+ 
+ 
+Ghost White (9063)
+ 
+ 
+ 
+C3C6CD
+ 
+Fenrisian Grey
+Space Wolves
+Grey 1
+Wolf Grey (047)
+Pale Greyblue (907)
+Blue Steel
+IV-05 7
+ 
+Snow Shadow (9021)
+Frostbite
+Lupin Grey
+(151)
+ 
+Bering Blue
+Matt
+Gravestone
+Blue
+CEDEE7
+ 
+The Fang
+Shadow Grey 1
+Sombre Grey (048)
+Oxford Blue (807)
+Grey Blue
+IV-04
+ 
+Twilight Blue (9020)
+ 
+Shadow Grey
+(150)
+Wolf Grey (WP1119)
+Cold Corpse
+Blue
+4E5067
+ 
+Administratum
+Grey
+Fortress Grey 1
+Stonewall Grey (049)
+Pale Grey Blue (907)
+ 
+IV-35 7
+Sharp Gray
+(43)
+Weathered Stone (9087)
+ 
+ 
+Ash Grey (WP1117)
+Nacar Matt
+Carcharodon
+Grey
+B5B5B5
+ 
+Dawnstone
+Codex Grey 1
+Cold Grey (050)
+Basalt Grey (869)
+Moon Grey
+ 
+Gray of
+Darkness (45)
+Rainy Grey (9038)
+ 
+ 
+Uniform Grey (WP1118)
+Artic Blue
+Matt
+Wizard Grey
+999999
+ 
+Mechanicus
+Standard Grey
+Adeptus
+Battlegrey 1
+Heavy Grey 2
+Russian Unif. (924)
+Steel Grey
+IV-18
+ 
+Military Green 2
+Great Coat
+Grey
+ 
+ 
+Dungeon
+Stone Grey
+7C8286
+ 
+Celestra Grey
+Astronomicon
+Grey 1
+Heavy Bluegrey (144)
+Pale Blue Grey (905)
+Cool Grey
+IV-24
+ 
+Weathered Stone (9087)
+Underbelly
+Blue
+ 
+ 
+96A5A9
+ 
+Abaddon Black
+Chaos Black 1
+Chaos Black / Black
+(051)
+Black (950)
+Obsidian
+Black
+ 
+Accursed
+Black (2)
+Pure Black (9037)
+Thamar Black
+Black (102)
+Matt Black (WP1101)
+Doom Death
+Black
+000000
+ 
+Corvus Black
+Necromancer Cloak
+Death Reaper
+171314
+ 
+Runefang Steel
+Mithril Silver 1
+Mithril Silver / Silver
+(052)
+Silver (997)
+ 
+ 
+Polished
+Silver (49)
+Polished Silver (9054)
+Quicksilver
+Enchanted
+Silver (106)
+Shining Silver (WP1129)
+B5B5BD
+Polished
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+26/03/2024 00:22
+Pagina 3 van 5
+
+
+
+--- PAGE 4 ---
+
+ 
+Ironbreaker
+Chainmail 1
+Chain Mail (053)
+Natural Steel (864)
+Steel
+ 
+ 
+Honed Steel (9053)
+Cold steel
+Chainmail (109)
+Plate Mail Metal (WP1130)
+7B737B
+ 
+Leadbelcher
+Boltgun Metal 1
+Gunmetal / Gunmetal
+Metal (054)
+Gunmetal Grey
+(863)
+ 
+ 
+ 
+Shadowed Steel (9052)
+Pig Iron
+Gun Metal
+(142)
+Machinegun Metal
+(WP1221)
+Petroleum
+Grey
+Sir Coates
+Silver
+393939
+ 
+Auric Armour Gold
+Burnished Gold 1
+Glorious Gold (056)
+Gold (996)
+Royal Gold
+ 
+ 
+Antique Gold (9050)
+Brass Balls 2
+ 
+Bright Gold (WP1231)
+Dwarven
+Gold
+E7BD42
+ 
+Gehenna's Gold
+Shining Gold 1
+Polished Gold (055)
+Old Gold (878)
+ 
+ 
+ 
+New Gold (9051)
+Solid Gold
+Bright Gold
+(107)
+Greedy Gold (WP1132)
+Elven Gold
+CCCC33
+ 
+Hashut Copper
+Dwarf Bronze 1
+Bright Bronze (057)
+Bronze (998)
+ 
+ 
+ 
+Ancient Bronze (9049)
+Molten bronze
+Dwarven
+Bronze (143)
+Weapon Bronze (WP1133)
+9C5221
+ 
+Runelord brass
+Brazen Brass 1
+Brassy Brass (058)
+Brass (801)
+ 
+ 
+ 
+Tarnished Brass 2 (9198)
+ 
+Brass (131)
+ 
+Viking Gold
+Battle Axe
+Brass
+735A21
+ 
+Brass scorpion
+Beaten Copper 1
+Hammered Copper
+(059)
+Copper (999)
+ 
+ 
+ 
+Coppery Orange (9102)
+ 
+ 
+ 
+73372D
+ 
+Warplock Bronze
+Tin Bitz 1
+Tinny Tin (060)
+ 
+ 
+ 
+ 
+Scorched Metal (9125)
+Deathless
+Metal
+Magic Metal
+(113)
+ 
+Necro Gold
+393121
+ 
+ 
+Black Ink 1
+Black Ink (94)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+000000
+ 
+ 
+Dark Green Ink 1
+Green Ink (89)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108473
+ 
+ 
+Flesh Wash 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ink Wash -
+Flesh (133)
+ 
+CE8C42
+ 
+ 
+Magenta Ink 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+513D3C
+ 
+ 
+Purple Ink 1
+Violet Ink (87)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+842994
+ 
+Eshin Grey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Necromancer Cloak
+ 
+Ashen Grey
+484B4E
+ 
+Skavenblight
+Dinge
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hardened Carapace
+ 
+Eidolon Grey
+45413B
+ 
+Stormvermin Fur
+Charadon
+Granite 1
+Heavy Charcoal (155)
+German Grey (995)
+ 
+IV-02
+ 
+Pure Black (9103) 2
+Bastion grey
+ 
+ 
+Anthartic
+Grey Matt
+Rodent Grey
+4D4A4A
+ 
+Rakarth Flesh
+Dheneb Stone 1
+Heavy Warmgrey
+2(148)
+ 
+Pale Grey
+IV-06
+ 
+Vampiric Shadow (9274)
+ 
+ 
+Drake Tooth (WP1417)?
+Griffon Claw
+B9ADA1
+ 
+Daemonette Hide
+Hormagaunt
+Purple 1
+Heavy Violet (142)
+Violet (960)
+Light
+Purple
+IV-26
+ 
+Nightshade Purple (9022)
+ 
+ 
+ 
+Violet Blue
+Matt
+4F566C
+ 
+Averland Sunset
+Iyanden Darksun
+1
+Heavy Goldbrown (151)
+Goldbrown (877)
+Warm
+Yellow
+IV-16
+ 
+Green Ochre (9128)
+Sulferic yellow
+ 
+ 
+Dark Sun
+Yellow
+9C8A53
+ 
+Cadian Fleshtone
+Tallarn Flesh 1
+Heavy Skintone (140)
+Brown Rose
+ 
+IV-19
+ 
+Leather Brown (9030)
+ 
+ 
+ 
+Dwarven Skin
+8D736C
+ 
+Drakenhof
+Nightshade
+Asurmen Blue
+Wash 1
+Blue Shade Wash
+(73207)
+ 
+Blue
+Blue
+ 
+ 
+ 
+ 
+Blue Tone Ink (WP1139)
+Tempest Blue
+Wash
+273E51
+ 
+Carroburg
+Crimson
+Baal Red Wash 1
+Red Shade Wash
+(73206)
+ 
+Red
+Red
+ 
+ 
+ 
+ 
+Red Tone Ink (WP1138)
+Hellion Red
+Wash
+630808
+ 
+Nuln Oil
+Badab Black
+Wash 1
+Black Wash (73201)
+ 
+Black
+Black
+ 
+ 
+Armor Wash
+ 
+Dark Tone Ink (WP1136)
+Oblivion Black
+Wash
+000000
+ 
+Agrax Earthshade
+Devlan Mud
+Wash 1
+Umber Shade Wash
+(73203)
+ 
+Brown
+Brown
+ 
+ 
+Muddy Wash
+ 
+Strong Tone Wash
+(WP1135)
+Battle Mud
+Wash
+393121
+ 
+Seraphim Sepia
+Gryphonne
+Sepia Wash 1
+Sepia Wash (73200)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Soft Tone Ink (WP1134)
+Archaic Seipa
+Wash
+843910
+ 
+Druchii Violet
+Leviathan Purple
+Wash 1
+4 Pale Grey Shade
+Wash (73202)
+ 
+Purple
+ 
+ 
+ 
+ 
+ 
+Purple Tone Ink (WP1140)
+Magi Purple
+Wash
+842994
+ 
+Reikland
+Fleshshade
+Ogryn Flesh
+Wash 1
+Fleshtone Shade Wash
+(73204)
+ 
+Flesh
+ 
+ 
+ 
+ 
+ 
+Flesh Wash (WP1143)
+Flesh Wash
+CE8C42
+ 
+Biel-Tan Green
+ 
+Green Wash
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Green Tone Wash
+(WP1137)
+Orc Flesh
+Wash
+547757
+ 
+Athonian
+Camoshade
+Military Shade
+Necrosis
+Green Wash
+8b8b66
+ 
+Baharroth Blue
+Edge (Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arcane Blue
+ 
+Toxic Mist (WP1437)
+Ray Gun Glow
+59C1CE
+ 
+Gauss Blaster
+Green (Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+84C2A9
+Dorn Yellow
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+26/03/2024 00:22
+Pagina 4 van 5
+
+
+
+--- PAGE 5 ---
+
+ 
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FFF685
+ 
+Fulgrim Pink
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neo Pink
+F5AECC
+ 
+Flayed One Flesh
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CDC586
+ 
+Dechala Lilac
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oozing Purple (WP1445)
+B69FCD
+ 
+Kreig Khaki
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Necrotic Flesh (WP1108)
+Kobold Grey
+BFBD82
+ 
+Blue Horror
+(Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gorgon Hide (WP1428)
+Celestial Blue
+A4BAD2
+ 
+Lugganath
+Orange (Edge)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Centaur Skin (WP1408)
+F89E86
+( 1) discontinued,
+( 2) approximate,
+( 3) Coat D'Arms match the OLD citadel colours (pre-1992) so there might be some difference. Shining gold has the most noticeable difference,
+( 4) Most P3 Paints do not match closely with the old GW range, but a detailed explanation of each paint can be found here: http://www.brushthralls.com/pre-painting-prep/color-theory-10p3.html
+( 5) GW's new range matches with the old range are the matches claimed by GW. However, many of the paints do not match very closely at all and some mixing will be required to get close to the original colours. If you are trying to match old GW with new
+GW, you'd be better just getting Vallejo game color or coat d'arms for the closest match )
+(color name) after testing does not match GW color (really far)
+( 6) 98-99% colour matches, masstone only
+( 7) 3rd-5th Edition Replicas, same 98-99% matching criteria, masstone only
+( 8) According to provided conversion chart
+References
+This table has been compiled using data from the following sources: http://home.att.net/~katamaran/vallejo.html
+http://myminiaturepainting.com/conversion/citadelgame.html
+http://www.nugaming.com/html/vallejo_paints.html#CitadelVallajoConversionTable
+http://www.ttfxmedia.com/vallejo/cgi-bin/_modelis_carta.asp?p1=ing&p2=modelcolor&p3=1&p4=0
+http://www.ttfxmedia.com/vallejo/cgi-bin/_modelis_info.asp?p1=ing&p2=modelcolor&p3=1#modelcolorinfo
+http://www.ttfxmedia.com/vallejo/cgi-bin/_modelis_carta.asp?p1=ing&p2=gamecolor
+http://www.ttfxmedia.com/vallejo/cgi-bin/_modelis_info.asp?p1=ing&p2=gamecolor&p3=1#gamecolorinfo
+http://uk.games-workshop.com/storefront/store.uk?do=List_Models&code=300952&orignav=300810
+http://colors.silicon-dragons.com/full_line.php
+http://www.balagan.org.uk/war/paint.htm
+http://www.reapermini.com/forum/index.php?s=c770bc029dd218be5d17fff14fecefeb&showtopic=17678&st=0&p=266494&#entry266494
+http://www.dakkadakka.com/s/i/at/at2/2010/4/8/d08819ffe37e45c97ce2e5b4770e92a7_4435.jpeg
+http://www.acrylicosvallejo.com/en_US/media/e588d28183cec31ffd6dcee6d3718fc3.cms/equivalencias-rev05.pdf
+https://shop.instarpaint.com
+https://redgrimm.github.io/paint-conversion/p3.html
+https://convertingcolors.com/rgb-color-84_119_87.html
+http://www.wargamesfoundry.com - also do a range of similar to Citadel paints, will update when can get chance.
+http://cdn.acrylicosvallejo.com/0049261608364909a238add9b4a53745/CC073-rev05.pdf has an equivalency chart for Vallejo Game Colour, Vallejo Model Colour and Reaper Master Series paints to the new Citadel paint line.
+https://www.dakkadakka.com/wiki/en/Paint_Range_Compatibility_Chart
+26/03/2024 00:22
+Pagina 5 van 5

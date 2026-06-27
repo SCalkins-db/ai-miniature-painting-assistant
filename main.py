@@ -1,4 +1,4 @@
-from src.paint_database import PaintDatabase
+from src.core.paint_database import PaintDatabase
 
 
 db = PaintDatabase("data/registries_csv")

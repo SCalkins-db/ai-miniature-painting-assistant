@@ -1,0 +1,36 @@
+{
+    "report_name": "Enrichment Diagnostic Summary",
+    "registries_checked": 5,
+    "total_registry_rows": 1987,
+    "missing_rows_checked": 337,
+    "auto_fill_same_company": 0,
+    "auto_fill_equivalency": 0,
+    "needs_review_or_manual": 337,
+    "status_counts": {
+        "MANUAL_RESEARCH": 301,
+        "EQUIVALENCY_TARGET_MISSING_COLOR": 2,
+        "UNSUPPORTED_EQUIVALENCY_COMPANY": 2,
+        "SAME_COMPANY_MATCH_MISSING_COLOR": 32
+    },
+    "missing_by_company": {
+        "Army Painter": 300,
+        "Games Workshop": 4,
+        "Vallejo": 33
+    },
+    "missing_by_product_line": {
+        "Speedpaint": 17,
+        "Air": 98,
+        "Fanatic": 186,
+        "Technical": 2,
+        "Spray": 1,
+        "Game Color Auxiliary": 2,
+        "Game Color Metallic": 1,
+        "Game Color Special FX": 4,
+        "Model Air": 2,
+        "Model Color": 20,
+        "Model Color Related": 3,
+        "Xpress Color": 1
+    },
+    "output_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\enrichment_diagnostic.csv",
+    "output_markdown": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\enrichment_analysis.md"
+}

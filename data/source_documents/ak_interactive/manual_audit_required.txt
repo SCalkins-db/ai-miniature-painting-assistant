@@ -1,0 +1,56 @@
+MASTER PAINT ROWS: 2599
+EXACT DUPLICATE BRAND/LINE/NAME ROWS: 449
+ROWS WITH AUDIT ISSUES: 2144
+EQUIVALENCES REQUIRING MANUAL REVIEW: 628
+
+TOP DUPLICATES:
+AK Interactive | 3rd Gen | Basalt Grey
+AK Interactive | 3rd Gen | Basalt Grey
+AK Interactive | 3rd Gen | Beige Red
+AK Interactive | 3rd Gen | Beige Red
+AK Interactive | 3rd Gen | Black
+AK Interactive | 3rd Gen | Black
+AK Interactive | 3rd Gen | Blood Red
+AK Interactive | 3rd Gen | Blood Red
+AK Interactive | 3rd Gen | Blue Violet
+AK Interactive | 3rd Gen | Blue Violet
+AK Interactive | 3rd Gen | Brass
+AK Interactive | 3rd Gen | Brass
+AK Interactive | 3rd Gen | Brick Red
+AK Interactive | 3rd Gen | Brick Red
+AK Interactive | 3rd Gen | Brown Rose
+AK Interactive | 3rd Gen | Brown Rose
+AK Interactive | 3rd Gen | Buff
+AK Interactive | 3rd Gen | Buff
+AK Interactive | 3rd Gen | Burnt Umber
+AK Interactive | 3rd Gen | Burnt Umber
+AK Interactive | 3rd Gen | Dark Flesh
+AK Interactive | 3rd Gen | Dark Flesh
+AK Interactive | 3rd Gen | Dark Green
+AK Interactive | 3rd Gen | Dark Green
+AK Interactive | 3rd Gen | Dark Prussian Blue
+AK Interactive | 3rd Gen | Dark Prussian Blue
+AK Interactive | 3rd Gen | Deep Green
+AK Interactive | 3rd Gen | Deep Green
+AK Interactive | 3rd Gen | Deep Sky Blue
+AK Interactive | 3rd Gen | Deep Sky Blue
+AK Interactive | 3rd Gen | Dirty Red
+AK Interactive | 3rd Gen | Dirty Red
+AK Interactive | 3rd Gen | Emerald
+AK Interactive | 3rd Gen | Emerald
+AK Interactive | 3rd Gen | English Grey
+AK Interactive | 3rd Gen | English Grey
+AK Interactive | 3rd Gen | French Blue
+AK Interactive | 3rd Gen | French Blue
+AK Interactive | 3rd Gen | Golden Brown
+AK Interactive | 3rd Gen | Golden Brown
+AK Interactive | 3rd Gen | Golden Yellow
+AK Interactive | 3rd Gen | Golden Yellow
+AK Interactive | 3rd Gen | Green Sky
+AK Interactive | 3rd Gen | Green Sky
+AK Interactive | 3rd Gen | Grey-Blue
+AK Interactive | 3rd Gen | Grey-Blue
+AK Interactive | 3rd Gen | Gun Metal
+AK Interactive | 3rd Gen | Gun Metal
+AK Interactive | 3rd Gen | Intense Pink
+AK Interactive | 3rd Gen | Intense Pink

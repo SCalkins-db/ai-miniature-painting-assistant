@@ -1,0 +1,194 @@
+Paint_ID,Paint_Name,Product_Line,Paint_Type,Match_Source,Match_Company,Match_Paint_ID,Match_Paint_Name,Match_Product_Line,Match_Paint_Type,Match_Hex,Match_RGB,Confidence
+AP_SPEEDPAINT_AZTEC_GOLD,Aztec Gold,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_BRAZEN_COPPER,Brazen Copper,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_BROADSWORD_SILVER,Broadsword Silver,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_CARIBBEAN_OCEAN,Caribbean Ocean,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_CARMINE_DRAGON,Carmine Dragon,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_ENCHANTED_STEEL,Enchanted Steel,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_FOREST_SPRITE,Forest Sprite,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_GLITTERING_LOOT,Glittering Loot,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_GOLDEN_ARMOUR,Golden Armour,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_HOARD_BRONZE,Hoard Bronze,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_HOPLITE_GOLD,Hoplite Gold,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_PASTEL_LAVENDER,Pastel Lavender,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_PLASMATIC_BOLT,Plasmatic Bolt,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_POLISHED_SILVER,Polished Silver,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_PURPLE_SWARM,Purple Swarm,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_SPEEDPAINT_MEDIUM,Speedpaint Medium,Speedpaint,Speedpaint,No Match Found,,,,,,,,Review
+AP_SPEEDPAINT_TALOS_BRONZE,Talos Bronze,Speedpaint,Speedpaint Metallic,No Match Found,,,,,,,,Review
+AP_AIR_AIRBRUSH_CLEANER,Airbrush Cleaner,Air,Auxiliary,No Match Found,,,,,,,,Review
+AP_AIR_AIRBRUSH_MEDIUM,Airbrush Medium,Air,Auxiliary,No Match Found,,,,,,,,Review
+AP_AIR_ARCHANGEL_RED,Archangel Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_AZURE_MAGIC,Azure Magic,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_BARREN_YELLOW,Barren Yellow,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_BLUE_FLUX,Blue Flux,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_BOGEY_GREEN,Bogey Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_BRETHIL_BLUSH,Brethil Blush,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_BROODMOTHER_PURPLE,Broodmother Purple,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_BULLWHACK_BROWN,Bullwhack Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CADRE_GREY,Cadre Grey,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CANOPY_GREEN,Canopy Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CHARRED_BONE,Charred Bone,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CHIMERA_RED,Chimera Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CONSUL_BLUE,Consul Blue,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_COSMIC_DUST,Cosmic Dust,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_COVEN_PURPLE,Coven Purple,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CROW_HUE,Crow Hue,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_CYPRESS_BROWN,Cypress Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_DRAB_GREEN,Drab Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_ELVEN_ARMOUR,Elven Armour,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_ENCARMINE_RED,Encarmine Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_EVIL_CHROME,Evil Chrome,Air,Air,Crossref_Audit,Games Workshop,GW_LAYER_SYCORAX_BRONZE,Sycorax Bronze,Layer,Layer,#CBB394,"203, 179, 148",High
+AP_AIR_EXILE_GREEN,Exile Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_FAIRY_DUST,Fairy Dust,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_FAIRY_PINK,Fairy Pink,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_FERAL_GREEN,Feral Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_FEY_PINK,Fey Pink,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_FEYWILD_GLOW,Feywild Glow,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_GAUSS_GREEN,Gauss Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_GEMSTONE_RED,Gemstone Red,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_GLITTERING_GREEN,Glittering Green,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_GLOSS_VARNISH,Gloss Varnish,Air,Auxiliary,No Match Found,,,,,,,,Review
+AP_AIR_GNOME_CHEEKS,Gnome Cheeks,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_GREEDY_GOLD,Greedy Gold,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_BASE_RETRIBUTOR_ARMOUR,Retributor Armour,Base,Base,#C39E81,"195, 158, 129",High
+AP_AIR_GREEDY_GOLD,Greedy Gold,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_SPRAY_RETRIBUTOR_ARMOUR,Retributor Armour,Spray,Spray,#C39E81,"195, 158, 129",High
+AP_AIR_GREEDY_GOLD,Greedy Gold,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_BASE_RETRIBUTOR_ARMOUR,Retributor Armour,Base,Base,#C39E81,"195, 158, 129",High
+AP_AIR_GREEDY_GOLD,Greedy Gold,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_SPRAY_RETRIBUTOR_ARMOUR,Retributor Armour,Spray,Spray,#C39E81,"195, 158, 129",High
+AP_AIR_GREMLIN_GREEN,Gremlin Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_HAZARDOUS_SMOG,Hazardous Smog,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_HOBGOBLIN_HUE,Hobgoblin Hue,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_HOT_PINK,Hot Pink,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_HUSK_BROWN,Husk Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_IMP_YELLOW,Imp Yellow,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_INCURSION_ORANGE,Incursion Orange,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_IONIC_BLUE,Ionic Blue,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_IRON_WOLF,Iron Wolf,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_LEVIATHAN_LIGHT,Leviathan Light,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_MAGNOLIA_BROWN,Magnolia Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_MAJESTIC_FORTRESS,Majestic Fortress,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_MATT_BLACK_PRIMER,Matt Black Primer,Air,Primer,No Match Found,,,,,,,,Review
+AP_AIR_MATT_GREY_PRIMER,Matt Grey Primer,Air,Primer,No Match Found,,,,,,,,Review
+AP_AIR_MATT_VARNISH,Matt Varnish,Air,Auxiliary,No Match Found,,,,,,,,Review
+AP_AIR_MATT_WHITE_PRIMER,Matt White Primer,Air,Primer,No Match Found,,,,,,,,Review
+AP_AIR_METEOR_ROCK,Meteor Rock,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_MILITIA_GREEN,Militia Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_MOLTEN_ORANGE,Molten Orange,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_NEON_YELLOW,Neon Yellow,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_NIGHT_SCALES,Night Scales,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_NOMAD_FLESH,Nomad Flesh,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_OCEAN_DEPTHS,Ocean Depths,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_ORANGE_MAGMA,Orange Magma,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_PESTILENT_FLESH,Pestilent Flesh,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_PHANTASMAL_BLUE,Phantasmal Blue,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_PLATE_MAIL_METAL,Plate Mail Metal,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_POTION_GREEN,Potion Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_PSYCHIC_SHOCK,Psychic Shock,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_RAVEN_BLACK,Raven Black,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_RAWHIDE_BROWN,Rawhide Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_REBEL_RED,Rebel Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_REGIMENT_GREY,Regiment Grey,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_ROUGH_IRON,Rough Iron,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_RUINOUS_SPELL,Ruinous Spell,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_SAFETY_ORANGE,Safety Orange,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_SAPPHIRE_GEM,Sapphire Gem,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_SATIN_VARNISH,Satin Varnish,Air,Auxiliary,No Match Found,,,,,,,,Review
+AP_AIR_SAVAGE_GREEN,Savage Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_SHARK_WHITE,Shark White,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_SHINING_SILVER,Shining Silver,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_LAYER_RUNEFANG_STEEL,Runefang Steel,Layer,Layer,#C3CACE,"195, 202, 206",High
+AP_AIR_SHINING_SILVER,Shining Silver,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_AIR_RUNEFANG_STEEL,Runefang Steel,Air,Air,#A0A7AB,"160, 167, 171",High
+AP_AIR_SHINING_SILVER,Shining Silver,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_LAYER_RUNEFANG_STEEL,Runefang Steel,Layer,Layer,#C3CACE,"195, 202, 206",High
+AP_AIR_SHINING_SILVER,Shining Silver,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_AIR_RUNEFANG_STEEL,Runefang Steel,Air,Air,#A0A7AB,"160, 167, 171",High
+AP_AIR_STORM_WOLF,Storm Wolf,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_TAINTED_GOLD,Tainted Gold,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_TALISMAN_PURPLE,Talisman Purple,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_THUNDER_STORM,Thunder Storm,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_TRAITOR_RED,Traitor Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_TRUE_COPPER,True Copper,Air,Air Metallic/Effect,No Match Found,,,,,,,,Review
+AP_AIR_TWILIGHT_SKY,Twilight Sky,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_UNDERGROWTH_GREEN,Undergrowth Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_UNFORGIVEN_GREEN,Unforgiven Green,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_VIOLET_VOLT,Violet Volt,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_VIPER_BROWN,Viper Brown,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_WEAPON_BRONZE,Weapon Bronze,Air,Air Metallic/Effect,Crossref_Audit,Games Workshop,GW_LAYER_BRASS_SCORPION,Brass Scorpion,Layer,Layer,#B7885F,"183, 136, 95",High
+AP_AIR_WILDLING_FLESH,Wildling Flesh,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_WITCHBANE_PLUM,Witchbane Plum,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_WYRMLING_RED,Wyrmling Red,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_YELLOW_DUNE,Yellow Dune,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_YETI_WHITE,Yeti White,Air,Air,No Match Found,,,,,,,,Review
+AP_AIR_ZEPHYR_PINK,Zephyr Pink,Air,Air,No Match Found,,,,,,,,Review
+AP_FANATIC_ABYSSAL_BLUE,Abyssal Blue,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_AEGIS_AQUA,Aegis Aqua,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_AFTERGLOW,Afterglow,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_AMULET_AQUA,Amulet Aqua,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_ANCIENT_STONE,Ancient Stone,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_AQUA_ALCHEMY,Aqua Alchemy,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_AUTUMN_SAGE,Autumn Sage,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_BARON_BLUE,Baron Blue,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_BASILISK_RED,Basilisk Red,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_BLOOD_CHALICE,Blood Chalice,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_BOOTSTRAP_BROWN,Bootstrap Brown,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_BRIGHT_SAPPHIRE,Bright Sapphire,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_BRUSH_ON_PRIMER,Brush-On Primer,Fanatic,Auxiliary,No Match Found,,,,,,,,Review
+AP_FANATIC_DARK_SKIN_SHADE,Dark Skin Shade,Fanatic,Wash/Shade,No Match Found,,,,,,,,Review
+AP_FANATIC_DATA_SYSTEM_GLOW,Data System Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_DEATH_METAL,Death Metal,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_DIVINER_LIGHT,Diviner Light,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_DOOMFIRE_DRAB,Doomfire Drab,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_DRY_BLOOD,Dry Blood,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_ELDER_FLOWER,Elder Flower,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_ELECTRIC_LIME,Electric Lime,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_EMERALD_FOREST,Emerald Forest,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_ENCHANTED_PINK,Enchanted Pink,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_FLICKERING_FLAME,Flickering Flame,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_FOREST_FAUN,Forest Faun,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_FROST_BLUE,Frost Blue,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_GEMSTONE_RED,Gemstone Red,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_GLITTERING_GREEN,Glittering Green,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_GLOSS_VARNISH,Gloss Varnish,Fanatic,Auxiliary,No Match Found,,,,,,,,Review
+AP_FANATIC_GREAT_HALL_GREY,Great Hall Grey,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_GREY_CASTLE,Grey Castle,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_GUARDIAN_GREEN,Guardian Green,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_IMPERIAL_NAVY,Imperial Navy,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_IMPISH_ROUGE,Impish Rouge,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_JASPER_SKIN,Jasper Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_KRAKEN_LAVENDER,Kraken Lavender,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_LENS_FLARE_GLOW,Lens Flare Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_LEOPARD_STONE_SKIN,Leopard Stone Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_LIGHT_TONE,Light Tone,Fanatic,Wash/Shade,No Match Found,,,,,,,,Review
+AP_FANATIC_MAGECAST_MAGENTA,Magecast Magenta,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_MARINE_MIST,Marine Mist,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_MATT_VARNISH,Matt Varnish,Fanatic,Auxiliary,No Match Found,,,,,,,,Review
+AP_FANATIC_MEDIEVAL_FOREST,Medieval Forest,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_MOLTEN_LAVA,Molten Lava,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_MOONSTONE_SKIN,Moonstone Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_NEPTUNE_GLOW,Neptune Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_OIL_STAINS,Oil Stains,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_OOZING_VOMIT,Oozing Vomit,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_OPAL_SKIN,Opal Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_PEARL_SKIN,Pearl Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_PHALANX_BLUE,Phalanx Blue,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_PHARAOH_GUARD,Pharaoh Guard,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_PINK_POTION,Pink Potion,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_PLASMA_COIL_GLOW,Plasma Coil Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_PLATE_MAIL_METAL,Plate Mail Metal,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_POWER_NODE_GLOW,Power Node Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_QUARTZ_SKIN,Quartz Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_RADIATION_GLOW,Radiation Glow,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_RAGING_ROSE,Raging Rose,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_ROUGH_IRON,Rough Iron,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_RUBY_SKIN,Ruby Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_RUST_TONE,Rust Tone,Fanatic,Effect,No Match Found,,,,,,,,Review
+AP_FANATIC_SACRED_SCARLET,Sacred Scarlet,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_SOFT_TONE,Soft Tone,Fanatic,Wash/Shade,No Match Found,,,,,,,,Review
+AP_FANATIC_STRATOS_BLUE,Stratos Blue,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_STRONG_SKIN_SHADE,Strong Skin Shade,Fanatic,Wash/Shade,No Match Found,,,,,,,,Review
+AP_FANATIC_TAINTED_GOLD,Tainted Gold,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_TOPAZ_SKIN,Topaz Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_TOURMALINE_SKIN,Tourmaline Skin,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_TRUE_COPPER,True Copper,Fanatic,Metallic,No Match Found,,,,,,,,Review
+AP_FANATIC_VIVID_VOLT,Vivid Volt,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_WARPAINTS_RETARDER,Warpaints Retarder,Fanatic,Auxiliary,No Match Found,,,,,,,,Review
+AP_FANATIC_WARPAINTS_STABILIZER,Warpaints Stabilizer,Fanatic,Auxiliary,No Match Found,,,,,,,,Review
+AP_FANATIC_WASH_MEDIUM,Wash Medium,Fanatic,Wash/Shade,No Match Found,,,,,,,,Review
+AP_FANATIC_WILD_GREEN,Wild Green,Fanatic,Acrylic,No Match Found,,,,,,,,Review
+AP_FANATIC_WILTED_ROSE,Wilted Rose,Fanatic,Acrylic,No Match Found,,,,,,,,Review

@@ -1,0 +1,20 @@
+{
+    "report_name": "Missing Color Cluster Report",
+    "total_registry_rows": 1987,
+    "total_clusters": 1776,
+    "complete_clusters": 1455,
+    "can_propagate_clusters": 0,
+    "entire_cluster_missing": 321,
+    "total_rows_missing_color": 337,
+    "status_counts": {
+        "COMPLETE": 1455,
+        "ENTIRE_CLUSTER_MISSING": 321
+    },
+    "missing_rows_by_company": {
+        "Army Painter": 300,
+        "Games Workshop": 4,
+        "Vallejo": 33
+    },
+    "output_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\missing_color_clusters.csv",
+    "output_markdown": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\missing_color_clusters.md"
+}

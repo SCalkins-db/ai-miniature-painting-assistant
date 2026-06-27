@@ -1,0 +1,8 @@
+{
+    "report_name": "Equivalency Enrichment Opportunities",
+    "missing_color_rows_checked": 437,
+    "enrichment_opportunities_found": 0,
+    "remaining_without_equivalency_match": 437,
+    "output_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\equivalency_enrichment_opportunities.csv",
+    "opportunities": []
+}

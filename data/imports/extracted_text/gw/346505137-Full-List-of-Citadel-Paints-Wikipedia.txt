@@ -1,0 +1,616 @@
+
+
+--- PAGE 1 ---
+
+29/3/2017
+Full list of Citadel Paints ­ Wikipedia
+https://en.wikipedia.org/wiki/Full_list_of_Citadel_Paints
+2/7
+Paint Name
+Range
+HEX Color
+Abaddon Black
+Base
+#231F20
+Averland Sunset
+Base
+#FDB825
+Balthasar Gold (Metal)
+Base
+#A47552
+Bugmans Glow
+Base
+#834F44
+Caledor Sky
+Base
+#396E9E
+Caliban Green
+Base
+#00401F
+Castellan Green
+Base
+#314821
+Celestra Grey
+Base
+#90A8A8
+Ceramite White
+Base
+#FFFFFF
+Daemonette Hide
+Base
+#696684
+Death World Forest
+Base
+#5C6730
+Dryad Bark
+Base
+#33312D
+Incubi Darkness
+Base
+#0B474A
+Jokaero Orange
+Base
+#EE3823
+Kantor Blue
+Base
+#002151
+Khorne Red
+Base
+#6A0001
+Leadbelcher (Metal)
+Base
+#888D8F
+Macragge Blue
+Base
+#0D407F
+Mechanicus Standard Grey
+Base
+#3D4B4D
+Mephiston Red
+Base
+#9A1115
+Mournfang Brown
+Base
+#640909
+Naggaroth Night
+Base
+#3D3354
+Rakarth Flesh
+Base
+#A29E91
+Ratskin Flesh
+Base
+#AD6B4C
+Retributor Armour (Metal)
+Base
+#C39E81
+Rhinox Hide
+Base
+#493435
+Screamer Pink
+Base
+#7C1645
+Screaming Bell (Metal)
+Base
+#C16F45
+Steel Legion Drab
+Base
+#5E5134
+Stegadon Scale Green
+Base
+#074863
+The Fang Grey
+Base
+#436174
+Waaagh! Flesh
+Base
+#1F5429
+Warplock Bronze (Metal)
+Base
+#927D7B
+XV­88
+Base
+#72491E
+Zandri Dust
+Base
+#9E915C
+Administratum Grey
+Layer
+#949B95
+Alaitoc Blue
+Layer
+#8E8C97
+Altdorf Guard Blue
+Layer
+#1F56A7
+Auric Armour Gold(Metal)
+Layer
+#E8BC6D
+Balor Brown
+Layer
+#8B5910
+
+
+
+--- PAGE 2 ---
+
+29/3/2017
+Full list of Citadel Paints ­ Wikipedia
+https://en.wikipedia.org/wiki/Full_list_of_Citadel_Paints
+3/7
+Baneblade Brown
+Layer
+#937F6D
+Bestigor Flesh
+Layer
+#D38A57
+Brass Scorpion(Metal)
+Layer
+#B7885F
+Cadian Fleshtone
+Layer
+#C77958
+Calgar Blue
+Layer
+#4272B8
+Dark Reaper
+Layer
+#3B5150
+Dawnstone
+Layer
+#70756E
+Deathclaw Brown
+Layer
+#B36853
+Doombull Brown
+Layer
+#5D0009
+Elysian Green
+Layer
+#748F39
+Emperors Children
+Layer
+#B94278
+Eshin Grey
+Layer
+#4A4F52
+Evil Sunz Scarlet
+Layer
+#C2191F
+Fenrisian Grey
+Layer
+#719BB7
+Fire Dragon Bright
+Layer
+#F58652
+Flash Gitz Yellow
+Layer
+#FFF200
+Flayed One Flesh
+Layer
+#FCFCDE
+Fulgurite Copper (Metal)
+Layer
+#E6B77E
+Gehenna's Gold (Metal)
+Layer
+#DBA674
+Genestealer Purple
+Layer
+#7761AB
+Gorthor Brown
+Layer
+#654741
+Hashut Copper (Metal)
+Layer
+#B77647
+Hoeth Blue
+Layer
+#4C7FB4
+Ironbreaker (Metal)
+Layer
+#A1A6A9
+Kabalite Green
+Layer
+#038C67
+Karak Stone
+Layer
+#BB9662
+Kislev Flesh
+Layer
+#D6A875
+Liberator Gold (Metal)
+Layer
+#D3B587
+Loren Forest
+Layer
+#50702D
+Lothern Blue
+Layer
+#34A2CF
+Moot Green
+Layer
+#52B244
+Nurgling Green
+Layer
+#849C63
+Ogryn Camo
+Layer
+#9DA94B
+Pallid Wych Flesh
+Layer
+#CDCEBE
+Pink Horror
+Layer
+#90305D
+Runefang Steel (Metal)
+Layer
+#C3CACE
+Runelord Brass(Metal)
+Layer
+#B6A89A
+Russ Grey
+Layer
+#547588
+Screaming Skull
+Layer
+#D2D4A2
+Skarsnik Green
+Layer
+#5F9370
+Skavenblight Dinge
+Layer
+#47413B
+
+
+
+--- PAGE 3 ---
+
+29/3/2017
+Full list of Citadel Paints ­ Wikipedia
+https://en.wikipedia.org/wiki/Full_list_of_Citadel_Paints
+4/7
+Skrag Brown
+Layer
+#90490F
+Skullcrusher Brass (Metal)
+Layer
+#F1C78E
+Slaanesh Grey
+Layer
+#8E8C97
+Sotek Green
+Layer
+#0B6974
+Squig Orange
+Layer
+#AA4F44
+Stormhost Silver (Metal)
+Layer
+#BBC6C9
+Stormvermin Fur
+Layer
+#736B65
+Straken Green
+Layer
+#628126
+Sybarite Green
+Layer
+#30A56C
+Sycorax Bronze(Metal)
+Layer
+#CBB394
+Tallarn Sand
+Layer
+#A67610
+Tau Light Ochre
+Layer
+#BF6E1D
+Teclis Blue
+Layer
+#317EC1
+Temple Guard Blue
+Layer
+#339A8D
+Thunderhawk Blue
+Layer
+#417074
+Troll Slayer Orange
+Layer
+#F36D2D
+Tuskigor Fur
+Layer
+#883636
+Ulthuan Grey
+Layer
+#C7E0D9
+Ungor Flesh
+Layer
+#D6A766
+Ushabti Bone
+Layer
+#BBBB7F
+Warboss Green
+Layer
+#3E805D
+Warpfiend Grey
+Layer
+#6B6A74
+Warpstone Glow
+Layer
+#1E7331
+Wazdakka Red
+Layer
+#8C0A0C
+White Scar
+Layer
+#FFFFFF
+Wild Rider Red
+Layer
+#EA2F28
+Xereus Purple
+Layer
+#471F5F
+Yriel Yellow
+Layer
+#FFDA00
+Zamesi Desert
+Layer
+#DDA026
+Agrax Earthshade (Devlan Mud) Shade
+#5A573F
+Agrax Earthshade (Gloss)
+Shade
+#5A573F
+Athonian Camoshade
+Shade
+#6D8E44
+Biel­Tan Green
+Shade
+#1BA169
+Carroburg Crimson
+Shade
+#A82A70
+Casandora Yellow
+Shade
+#FECE5A
+Coelia Greenshade
+Shade
+#0E7F78
+Drakenhof Nightshade
+Shade
+#125899
+Druchii Violet
+Shade
+#7A468C
+Fuegan Orange
+Shade
+#C77E4D
+Nuln Oil
+Shade
+#14100E
+Nuln Oil (Gloss)
+Shade
+#14100E
+
+
+
+--- PAGE 4 ---
+
+29/3/2017
+Full list of Citadel Paints ­ Wikipedia
+https://en.wikipedia.org/wiki/Full_list_of_Citadel_Paints
+5/7
+Reikland Fleshshade
+Shade
+#CA6C4D
+Reikland Fleshshade (Gloss)
+Shade
+#CA6C4D
+Seraphim Sepia
+Shade
+#D7824B
+Astorath Red
+Dry
+#DD482B
+Changeling Pink
+Dry
+#F4AFCD
+Chronus Blue
+Dry
+#72A8D1
+Dawnstone
+Dry
+#919C9F
+Eldar Flesh
+Dry
+#ECC083
+Etherium Blue
+Dry
+#A2BAD2
+Golden Griffon (Metal)
+Dry
+#A99058
+Golgfag Brown
+Dry
+#C2804F
+Hellion Green
+Dry
+#84C3AA
+Hexos Palesun
+Dry
+#FFF200
+Hoeth Blue
+Dry
+#57A9D4
+Imrik Blue
+Dry
+#67AED0
+Kindleflame
+Dry
+#F79E86
+Longbeard Grey
+Dry
+#CECEAF
+Lucius Lilac
+Dry
+#B69FCC
+Necron Compound (Metal)
+Dry
+#828B8E
+Niblit Green
+Dry
+#7DC734
+Nurgling Green
+Dry
+#B8CC82
+Praxeti White
+Dry
+#FFFFFF
+Ryza Dust
+Dry
+#EC631A
+Sigmarite
+Dry
+#CAAD76
+Skink Blue
+Dry
+#58C1CD
+Slaanesh Grey
+Dry
+#DBD5E6
+Stormfang
+Dry
+#80A7C1
+Sylvaneth Bark
+Dry
+#AC8262
+Terminatus Stone
+Dry
+#BDB192
+Thunderhawk Blue
+Dry
+#509BA9
+Tyrant Skull
+Dry
+#CDC586
+Underhive Ash
+Dry
+#C0BD81
+Verminlord Hide
+Dry
+#A16954
+Wrack White
+Dry
+#FCFBFA
+Baharroth Blue
+Edge
+#58C1CD
+Blue Horror
+Edge
+#A2BAD2
+Dechala Lilac
+Edge
+#B69FCC
+Dorn Yellow
+Edge
+#FFF200
+Fulgrim Pink
+Edge
+#F4AFCD
+Gauss Blaster Green
+Edge
+#84C3AA
+Krieg Khaki
+Edge
+#C0BD81
+
+
+
+--- PAGE 5 ---
+
+29/3/2017
+Full list of Citadel Paints ­ Wikipedia
+https://en.wikipedia.org/wiki/Full_list_of_Citadel_Paints
+6/7
+Lugganath Orange
+Edge
+#F79E86
+Bloodletter
+Glaze
+#F37355
+Guilliman Blue
+Glaze
+#2F9AD6
+Lamenters Yellow
+Glaze
+#FFF56B
+Waywatcher Green
+Glaze
+#6DC066
+Agrellan Badland
+Texture
+Agrellan Earth
+Texture
+Armageddon Dust
+Texture
+#D3A907
+Armageddon Dunes
+Texture
+Astrogranite
+Texture
+#757679
+Astrogranite Debris
+Texture
+Blackfire Eath
+Texture
+#A75820
+Lustrian Undergrowth
+Texture
+#415A09
+Martian Ironcrust
+Texture
+Martian Ironearth
+Texture
+Mourn Mountain Snow
+Texture
+#E9EAEB
+Stirland Battlemire
+Texture
+Stirland Mud
+Texture
+#492B00
+Valhallan Blizzard
+Texture
+'Ardcoat
+Technical #E2DEDF
+Agrellan Earth
+Technical #9A816B
+Blood for the Blood God
+Technical #67080B
+Imperial Primer
+Technical #231F20
+Lahmian Medium
+Technical #F5EDE2
+Liquid Green Stuff
+Technical #3B7A5F
+Martian Ironearth
+Technical #C15A4B
+Nihilakh Oxide
+Technical #6CB79E
+Nurgle's Rot
+Technical #9B8F22
+Soulstone Blue
+Technical #004EFA
+Spiritstone Red
+Technical #FF4B24
+Typhus Corrosion Green
+Technical #463D2B
+Waystone Green
+Technical #00C000
+References
+1. Games Workshop Webstore: Painting & Modelling (https://www.games­workshop.com/en­US/Painting­Modelling?_r
+equestid=1399508) . accessed 5 November 2016.
+See also
+Games Workshop topics
+Lists of colors

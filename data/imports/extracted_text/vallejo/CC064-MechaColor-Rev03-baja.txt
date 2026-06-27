@@ -1,0 +1,663 @@
+
+
+--- PAGE 1 ---
+
+69.001
+Pure White
+69.033
+Sand Yellow
+70.640
+White
+69.017
+Sky Blue
+69.817
+Petrol Spills (Gloss)
+69.009
+SZ Red
+69.041
+Dark Grey Green
+69.505
+Light Rust Wash
+69.025
+Light Green
+69.062
+Bronze
+69.701
+Mecha Gloss Varnish
+69.005
+Light Flesh
+69.037
+Grey
+70.644
+Sand
+69.021
+Dark Blue
+69.058
+Gunmetal
+69.013
+Titan Blue
+69.054
+Yellow Fluorescent
+69.521
+Oiled Earth Wash
+69.029
+Deep Green
+69.066
+Metallic Red
+71.262
+Flow Improver
+69.002
+White Grey
+69.034
+Brown
+70.641
+Grey
+69.018
+Deep Blue
+69.818
+Brown Eng. Soot (Matt)
+69.010
+Magenta
+69.042
+Pure Black
+69.507
+Dark Rust Wash
+69.026
+Green
+69.063
+Steel
+69.702
+Mecha Matt Varnish
+69.006
+Pink
+69.038
+Medium Grey
+69.022
+Titan Dark Blue
+69.059
+Gold
+69.014
+Grey Green
+69.055
+Orange Fluorescent
+69.522
+Desert Dust Wash
+69.030
+Dark Green
+69.067
+Metallic Blue
+73.212
+Decal Softener
+69.003
+Off-White
+69.035
+Chipping Brown
+70.642
+Black
+69.019
+Blue
+69.821
+Rust Texture (Matt)
+69.011
+Dark Red
+69.515
+Light Grey Wash
+69.027
+Green Blue
+69.064
+Light Steel
+69.703
+Mecha Satin Varnish
+69.007
+Orange
+69.039
+Grey Z
+69.023
+Turquoise
+69.060
+Old Gold
+69.015
+Blue Grey
+69.056
+Magenta Fluorescent
+69.813
+Oil Stains (Gloss)
+69.031
+Grey Sand
+69.068
+Metallic Green
+73.214
+Chipping Medium
+69.004
+Yellow
+69.036
+Light Grey
+70.643
+Ivory
+69.020
+Electric Blue
+69.012
+Purple
+69.518
+Black Wash
+69.028
+Olive Green
+69.065
+Dark Steel
+71.261
+Airbrush Thinner
+69.008
+Red
+69.040
+Phantom Grey
+69.024
+Stone Grey
+69.061
+Copper
+69.016
+Light Blue
+69.057
+Green Fluorescent
+69.814
+Fuel Stains (Gloss)
+69.032
+Yellow Ochre
+WATER BASED ACRYLIC AIRBRUSH
+COLORS FOR PAINTING MECHA’S
+MECHA COLOR	
+17 ml
+MECHA COLOR	
+17 ml
+MECHA primer	
+17 ml / 60 ml / 200 ml
+MECHA fluorescent	
+17 ml
+MECHA weathering	
+17 ml
+MECHA metallic	
+17 ml
+MECHA AUXILIARIES	
+17 ml / 60 ml / 200 ml
+Equivalences
+Mecha 
+Ref.
+Mecha 
+Name
+Vallejo
+Ref.
+Mr. 
+Color
+69.001 Pure White
+70.951
+-
+69.002 White Grey
+70.313
+UG01
+69.003 Offwhite
+70.820
+C69
+69.004 Yellow
+70.953
+UG03
+69.005 Light Flesh
+70.928
+-
+69.006 Pink
+70.805
+UG10
+69.007 Orange
+70.851
+-
+69.008 Red
+70.817
+UG04
+69.009 SZ Red
+70.947
+UG12
+69.010 Magenta
+70.945
+-
+69.011 Dark Red
+70.926
+UG11
+69.012 Purple
+-
+UG08
+69.013 Titan Blue
+70.807
+UG17
+69.014 Grey Green
+70.904
+C337
+69.015 Blue Grey
+70.901
+C74
+69.016 Light Blue
+70.902
+UG14
+69.017 Sky Blue
+70.961
+C323
+69.018 Deep Blue
+70.841
+C72
+69.019 Blue
+70.962
+UG02
+69.020 Electric Blue
+70.736
+UG13
+69.021 Dark Blue
+70.965
+C322
+69.022 Titan Dark Blue
+70.898
+UG16
+69.023 Turquoise
+70.966
+C72*
+69.024 Stone Grey
+70.973
+C308
+69.025 Light Green
+70.832
+C314
+69.026 Green
+70.885
+UG06
+69.027 Green Blue
+70.974
+CG24
+69.028 Olive Green
+70.967
+C304
+69.029 Deep Green
+70.330
+UG07
+69.030 Dark Green
+70.894
+CG23
+69.031 Grey Sand
+70.821
+-
+69.032 Yellow Ochre
+70.834
+C109
+69.033 Sand Yellow
+70.916
+C39
+69.034 Brown
+70.873
+C310
+69.035 Chipping Brown
+70.822
+-
+69.036 Light Grey
+70.989
+C338*
+69.037 Grey
+71.120
+-
+Mecha 
+Ref.
+Mecha 
+Name
+Vallejo
+Ref.
+Mr. 
+Color
+69.038 Medium Grey
+70.870
+C335
+69.039 Grey Z
+70.991
+UG09
+69.040 Phantom Grey
+70.868
+UG15
+69.041 Dark Grey Green
+70.862 CG100
+69.042 Pure Black
+70.950
+92
+69.054 Yellow Fluorescent
+-
+-
+69.055 Orange Fluorescent
+-
+-
+69.056 Magenta Fluorescent
+-
+-
+69.057 Green Fluorescent
+-
+-
+69.058 Gunmetal
+72.054
+UG05
+69.059 Gold
+70.793
+-
+69.060 Old Gold
+70.878
+-
+69.061 Copper
+70.999
+-
+69.062 Bronze
+70.998
+-
+69.063 Steel
+70.864
+-
+69.064 Light Steel
+70.997
+-
+69.065 Dark Steel
+70.865
+-
+69.066 Metallic Red
+71.070
+-
+69.067 Metallic Blue
+71.071
+-
+69.068 Metallic Green
+-
+-
+69.507 Dark Rust Wash
+76.507
+-
+69.505 Light Rust Wash
+76.505
+-
+69.518 Black Wash
+76.518
+-
+69.522 Desert Dust Wash
+76.522
+-
+69.521 Oiled Earth Wash
+76.521
+-
+69.515 Light Grey Wash
+76.515
+-
+69.821 Rust Texture (Matt)
+73.821
+-
+69.813 Oil Stains (Gloss)
+73.813
+-
+69.817 Petrol Spills (Gloss)
+73.817
+-
+69.814 Fuel Stains (Gloss)
+73.814
+-
+69.818 Brown Eng. Soot (Matt) 73.818
+-
+70.640 White
+70.600
+-
+70.641 Grey
+70.601
+-
+70.642 Black
+70.602
+-
+70.643 Ivory
+70.918
+-
+70.644 Sand
+70.613
+-
+* Approximate match. / Indica equivalencias aproximadas.
+
+
+
+--- PAGE 2 ---
+
+CC064 - Rev. 03
+ACRYLICOS VALLEJO, S.L.
+08800 Vilanova i la Geltrú
+Barcelona (Spain)
+Tel. +34 93 893 60 12
+info@acrylicosvallejo.com
+© Maschinen Krieger
+Follow us:
+/vallejocolors
+www.acrylicosvallejo.com
+WATER BASED ACRYLIC AIRBRUSH
+COLORS FOR PAINTING MECHA’S
+Introduction: Mecha Color, a range of acrylic airbrush colors, has been designed 
+especially for painting Robots, Gundam, Transformer and action figures. The inno-
+vative formulation of the colors, although water based, guarantees a maximum resistance 
+to manipulation, impacts, friction, scratches and overall extreme wear. Once dry, the color 
+appears the same as the injected plastic color, respecting all the kit’s surface details.
+Mecha Color: The colors of the range have been carefully selected to provide the modeler 
+with the shades most frequently used for painting all kinds of Mecha figures. The colors 
+can be mixed with one another and diluted with Airbrush Thinner or Flow Improver. The 
+range includes a series of metallic and fluorescent colors, weathering effects and auxiliary 
+products such as primers, thinners, chipping Medium and varnishes.
+Safety/Toxicity: Mecha Color has 
+the following international safety cer-
+tificate ASTM D-4236. This indepen-
+dent certification guarante that no 
+harmful substances are used which 
+could pose a risk to the health of both 
+the user and the environment.
+Surfaces: Mecha Colors have excep-
+tional adherence on all surfaces, and 
+has been tested on resin, plastics, 
+steel and white metal The colors can 
+be used directly, without the need for 
+a primer. Incase of a dark surface, a 
+first application of primer will increase 
+the luminosity of the finish.
+How to use: Shake well before 
+using. Pour the paint directly into the 
+airbrush, either undiluted or previously diluted with Thinner. The colors are self-leveling, dry 
+rapidly, and permit immediate application of weathering effects; 24 hours after application 
+maximum resistance is achieved. Mecha Color can also be applied with a brush to highlight 
+small details.
+Mecha Primer: The Mecha Primers are waterbased and self-leveling and dry rapidly to a 
+satin finish of extraordinary strength, so that the painting process can continue immediately. 
+The primers are perfect for preparing surfaces of resin, plastic, brass or white metal, and 
+can be mixed with one another or diluted with Airbrush Thinner or Flow Improver.
+Mecha Weathering: A range of waterbased acrylics, consisting of washes, dirt and engine 
+effects and rust textures, ideal for the creation of dirt and wear on all kinds of robots.
+Washes: Very fluid transparent colors, for use both with brush as well as airbrush. The 
+washes flow into the smallest details, are perfect for the enhancing of panel lines, rivets, 
+bolts and screws, and provide volume with shadow and contrast to the model. The wash-
+es dry in approximately 20 minutes, although it is recommended to allow for 40 minutes 
+intervals between the application of various layers. It is recommended to remove excess 
+Wash with a brush moistened with Thinner to avoid the formation of edges which might 
+appear while drying.
+Weathering Oil Stains (69.813): These are applied by traces, spattering or dripping to 
+create the oil stains of the robot engine. The shiny dark brown color gives a realistic finish.
+Weathering Petrol Spills (69.817): The product has a blue-black finish, perfect for the 
+splatters of heavy lubricant.
+Weathering Fuel Stains (69.814): Shiny red brown fluid to reproduce fuel stains.
+Weathering Brown Engine Soot (69.818): A mat brown color which reproduces accumu-
+lated dirt and remnants of lubricant and dust.
+Weathering Rust Texture (69.821): A dark brown mat color to reproduce the rough dry 
+look of rusted metal.
+Varnishes: The varnishes have been formulated especially for airbrushing. Drying is very 
+fast. Varnishes can be applied directly or diluted with distilled water or Airbrush Thinner. In 
+some cases, a layer of varnish is enough but if more layers are required, an interval of 5 
+minutes is suggested between each coat. Once protected by the varnish, the colors resist 
+the application of oils, glazes, and even pure turpentine and light washes with alcohol.
+Airbrush Thinner: The Airbrush Thinner can give more flexibility to the color without caus-
+ing a loss of adhesion, opacity and covering properties. The product also helps to delay 
+the drying of paint inside the airbrush mechanism, so that is advisable to add a few drops 
+of Thinner while working. For dilution with Thinner, the recommended proportion is 1 part 
+Thinner to 3 parts paint.
+Airbrush Flow Improver: A medium designed to improve the flow and delay the drying of 
+paint on the needle while airbrushing. It is recommended to ad 1 drop of Flow Improver to 
+5 drops of paint in the cup of the airbrush.
+Decal Softener: Decal Softener is a medium which protects the decal and smoothes its 
+edges so that they blend with the surface of the model. Decal Softener also softens the 
+decal to adapt it to surface details such as recessed lines, raised edges, screws or bolts. 
+The amount of Decal Softener coats needed depends on the quality and thickness of the 
+decal. Final varnish can be applied to the Decal if desired.
+Chipping Medium: A product which can be used by brush or airbrush to create effects of 
+wear, rubbing and chipping on acrylics.
+Airbrush Cleaner: Airbrush Cleaner is the solution for cleaning the airbrush between one 
+color and another. The product quickly removes the remains of the old paint and also lubri-
+cates the airbrush without damaging its mechanism. While painting, the tip of the airbrush 
+should be cleaned occasionally with a cloth moistened with cleaner to remove traces of 
+dried color; this will prevent splattering or the clogging of the airbrush. Airbrush cleaner 
+can also be used on the model as a stripper to remove paint or to correct errors in the 
+application of the colors.
+Airbrush and compressor: The viscosity of Mecha Color lets you work with airbrushes as 
+small as 0.2 mm without diluting the colors. Environmental conditions can alter the visco-
+sity of the product and cause the need for further dilution. We recommend working with a 
+compressor pressure between PSI 10-15, 0.75-1.10 Bar, (0.5-1 kgs).
+简介：机甲色系列是一个特别为机器人、高达、变形金刚和活动人偶上色而设计
+的水溶性喷涂用丙烯颜料。虽然是水溶性，颜料革命性的配方保证了最大的耐操作
+性，耐冲击，耐摩擦，耐刮和整体极端磨损。一旦干燥，颜色呈现出与注塑的颜色一样，
+尊重所有套件的表现细节。
+机甲颜色：系列颜色系列是为模型爱好者提供最常用于涂所有种类的机甲人物色调而精心
+挑选的。系列颜色可以相互混合调色，并用喷涂专用稀释剂或喷笔防堵剂（缓干剂）稀
+释。系列包括一系列的金属和荧光颜色，旧化效果液和如补土，稀释剂，掉漆效果液和清
+漆等辅料产品。
+安全性/毒性：机甲颜色系列通过了估计安全规范ASTM D-4236的认证。这些认证可以确保
+产品内不含任何人体健康或环境造成危害的物质。
+上色表面：机甲颜色系列在任何材料表面上的表现都很优秀，而且已经在树脂、塑料、钢
+或者其他白色金属上做过测试。系列颜色可以直接使用，不需要上水补土。如果是深色表
+面，首先涂一层水补土会增加漆面的发色。
+使用方法：使用前摇匀。不管是没稀释过或者事先用稀释剂稀释过的，直接滴入喷笔壶即
+可使用。颜料是自流平，干燥速度快，允许立即进行旧化效果操作；涂色24小时之后，达
+到最大的抗力。机甲颜色也可以用于笔涂，突出细节。
+机甲水补土：机甲水补土是水性的，自流平且干燥速度快，会形成一层附着力很强的绸缎
+漆面，可以立即继续上色流程。水补土完美地用于树脂、塑料、铜或者白色金属表面，
+可以相互混合调色或者用喷涂稀释剂或者喷笔防堵剂（缓干剂）稀释。配有17ml, 60ml和
+200ml瓶装选择。
+机甲旧化液：一个水性的丙烯系列，包含渍洗液，污垢和引擎效果表现液及铁锈痕表现
+液，在各类机械人上能创造理想的污垢和磨损效果。
+渍洗液：流动非常强的透明颜色，可用于手涂和喷涂。渍洗液可以流动到最小的细节，是
+完美地加强面板线、铆钉、螺栓和螺丝，以及给模型提供阴影体积和对比。渍洗液大概在
+20分钟干燥，但建议在各层之间上色的间隔40分钟。建议用一个蘸有稀释剂的毛笔除去多
+余的渍洗液，以避免干燥时可能出现边缘。
+通用油污旧化表现液（69.813）：通过运用痕迹，飞溅或滴落的技法给机器人的引擎创造
+油污效果。闪亮的深棕色呈现出逼真的效果。
+引擎油污旧化表现液（69.817）：该产品具有蓝黑色漆面，适合制作重型润滑油飞溅效果。
+燃油污渍旧化表现液（69.814）：闪亮的红棕色液体，再现燃油污渍效果。
+棕色引擎灰烬旧化表现液（69.818）：一种消光的棕色，再现积累的污垢和润滑油及灰尘
+残留的效果。
+铁锈纹理旧化表现液（69.821）：一种消光的深棕色，再现生锈金属的粗糙外观。
+清漆：清漆是专门为喷涂设计的。干燥得非常快。清漆可以直接使用，也可以用蒸馏水或
+喷漆稀释剂稀释后使用。在某些情况下，涂一层清漆就够了，单如果你想多涂几层，建议
+每一层涂完后等待5分钟左右。一旦涂上清漆，油、釉料、甚至松节油或少量的酒精都无法
+伤到漆面。配有17ml, 60ml和200ml瓶装选择。
+喷涂专用稀释剂：喷涂专用稀释剂可以在不损失、不透明度、遮盖力的情况下增强漆面的
+流动性。另外，稀释剂也有助于减少漆在喷笔内部干燥堵笔的情况。因此建议喷涂前现在
+笔壶里加几滴稀释剂。关于稀释比例，我们推荐一份稀释剂兑3份漆。
+喷笔防堵剂（缓干剂）：这种添加剂是用来使喷涂更顺畅，可以延长喷涂时颜料在喷针上
+干燥的时间。建议没5滴漆里添加1滴喷笔防堵剂（缓干剂）。
+水贴软化剂：水贴软化剂可以保护水贴并平滑它的边缘，令水贴能与模型的表面融合。水
+贴软化剂也能软化水贴，令水贴能适应模型的表面细节，如凹线，抬高的边缘，螺钉或螺
+栓。贴纸软化剂的用量取决于水贴的质量和厚度。如果需要最后可以涂上清漆。
+掉漆效果液：这个产品可以用笔涂或喷涂，可以在丙烯漆面上做出磨损、擦碰和剥落的效
+果。
+喷笔清洗液：喷笔洗笔液是在更换颜色时清洗喷笔用的。它会迅速溶解喷笔内残留的用过
+的油漆，也润滑喷笔机械结构且不伤笔。喷涂作业时，建议偶尔用沾过清洗液的布擦一下
+干燥在笔尖的漆；这样可以有效减少堵笔或喷出大漆粒的情况。
+喷笔和空气压缩机：机甲颜色的粘度可以使用0.2毫米这样小的喷笔作业，且颜色无需稀
+释。环境条件可以改变产品的沾度，并导致需要进一步稀释。我们建议使用压力为PSI 
+10-15之间，压力0.75-1.10巴（bar）,（0.5-1公斤）的空气压缩机一起工作。
+紹介: メカ・カラーとは、ロ
+ボットのプラスチックモデ
+ル、アクションフィギュアの塗装の
+ために開発されたエアブラシ専用ア
+クリル系塗料の一種です。塗料の革
+新的な配合により、水性でありなが
+ら、接触、衝撃、摩擦、傷、激しい
+風化にも強い塗膜となります。塗装
+が乾いたら、キット表面のディテー
+ルも塗装を流し込んだような仕上が
+りになります。
+メカ・カラー: この塗料は、あらゆ
+るメカ系フィギュアの塗装によく使
+われているカラーをモデラーにお届
+けするために厳選されました。混色
+も、エアブラシ・シンナーやフロー
+インプルーバーで薄めることもでき
+ます。メタルカラー、蓄光カラー、ウェザリングエフェクト、またプライマー、シンナ
+ー、チッピングミディアム、バーニッシュのような関連品もこれに含まれます。
+安全・毒性: メカ・カラーはASTM D-4236という国際安全規格を取得しました。本規格
+は環境及び使用者の健康に有害な物質が本商品に使われていないことを保証します。
+表面: メカ・カラーは、レジン、プラスチック、鋼鉄、ホワイトメタル、あらゆる表面へ
+完璧に定着することを確認ずみです。プライマーを使用せず、直接塗ってもOKです。暗
+い表面の場合は、プライマーを先に塗ると、仕上がりの光度が高まります。
+使用方法: 使用前によく振ってください。エアブラシに塗料を直接入れていただくか、シ
+ンナーで薄めて入れてください。自己水平性が高い塗料のため素早く乾き、乾燥後すぐ
+ウェザリング・エフェクトを使用できます。使用から２４時間後には、非常に強固な塗
+膜が出来上がります。細部を強調するために、メカ・カラーは筆でも使用できます。
+メカ・プライマー: メカ・プライマーは水性で自己水平性が高く、素早く乾燥して塗膜が
+強いサテン風の仕上がりとなるため、塗装工程をすぐに進めることができます。メカ・
+プライマーを使えば、レジン、プラスチック、真鍮、ホワイトメタルなどに塗装する際
+の下地処理は完璧です。そのままよく混ぜて使うか、エアブラシ・シンナーやフローイ
+ンプルーバーで薄めてもOKです。17,60ミリボトルと200 ミリボトルがあります。
+メカ・ウェザリング: 洗われたような表面、汚れ、あるいはエンジンエフェクト、錆を表
+現できる水性アクリル系塗料の一種です。あらゆる種類のロボットの汚れや風化を再現
+できるのでおすすめです。
+ウォッシュ: 筆でもエアブラシでも使用できる、非常に薄くて透明な塗料です。ウォッシ
+ュは細かなディテールに流れ込むため、パネルライン、リベット、ボルト、スクリュー
+を強調できるほか、明暗のあるボリューム感を与ます。ウォッシュはおよそ２０分で乾
+きますが、塗り重ねる際は４０分間
+を空けるようおすすめいたします。
+乾燥中に縁が形成されるのを防ぐた
+めに、ウォッシュの余りはシンナー
+含ませた筆で取り除くことが望まし
+いです。
+ウェザリング・オイル染み(69.813): 
+ロボットエンジンのオイル染みを再
+現するために、雫や痕跡や泥はねの
+ように塗ってください。明るいダー
+クブラウンによって、リアルな仕上
+がりになります。
+ウェザリング・石油漏れ(69.817): 本
+品の仕上がりは青黒で、濃い潤滑剤
+の痕跡を完璧に再現できます。
+ウェザリング・燃料染み(69.814): 燃
+料染みを再現する明るい赤茶色の液
+体です。
+ウェザリング・ブラウン・エンジン・スート(69.818): 溜まった汚れ、潤滑剤の余り、ホ
+コリを再現するつや消しブラウンです。
+ウェザリング・ラスト・テキスチャー(69.821): 錆びた金属の荒れた見た目を再現するつ
+や消しダーク・ブラウンです。
+バーニッシュ: バーニッシュはエアブラシ専用製品として開発されました。非常に素早
+く乾燥します。バーニッシュを塗料に直接入れていただくか、エアブラシ・シンナーあ
+るいは蒸留水で薄めて入れてください。バーニッシュ一層だけで充分な場合もあります
+が、さらなる層数が必要な場合は５分ごとに一層ずつ塗り重ねてください。バーニッシ
+ュに護られている塗膜は油、つや出し剤、純粋なテレビン油やアルコールによる軽いウ
+ォッシュに耐性があります。17,60ミリボトルと200 ミリボトルがあります。
+エアブラシ・シンナー: エアブラシ・シンナーは、食いつきを悪くしたり、透明度が上
+がってしまったり、特性を損ねたりせずに、塗料に柔軟性を与えることができます。本
+品はエアブラシ機器の中での塗料の乾燥を防ぐことに役立つので、作業中にシンナー数
+滴を加えると便利です。塗料をシンナーで薄める際は、塗料３に対してシンナー１がお
+すすめです。
+エアブラシ・フローインプルーバー: 塗料の流動性を改良し、ニードルに付く塗料の乾燥
+を遅くするために開発された添加剤です。エアブラシのカップに塗料5に対してフロー・
+インプルーバー1を入れることをおすすめいたします。
+デカール・ソフトナー: デカール・ソフトナーとは、デカールを護り、モデルの表面と一
+体になるまでデカールの縁を平滑にする添加剤です。凹んだ線、上がった縁、スクリュ
+ー、ボルトなどのような表面ディテールになじむように、デカールを柔らかくします。
+デカール・ソフトナーの必要な層数はデカールの質と厚みによって変わります。
+チッピングメディアム: 筆かエアブラシで風化、摩擦、削り取られた跡を再現するアク
+リル系塗料です。
+エアブラシ・クリーナー: エアブラシ・クリーナーは、吹き付ける塗料を変える際のエア
+ブラシ清掃に使う製品です。本品によって古い塗料の残りを簡単に取り除き、機器を傷
+めずにエアブラシをキレイにできます。塗装中、乾いた塗料を取り除くために、時々エ
+アブラシの先をクリーナーで湿らせた布で拭くのがおすすめです。こうする事で、エア
+ブラシの飛散や詰まりを防ぎます。
+エアブラシとコンプレッサー: メカ・カラーは、塗料を薄めずに0.2ミリのような小さな
+エアブラシでも作業出来ます。但し、環境や状況によって商品の粘度が変わる場合もあ
+るので、薄める必要が出る可能性があります。作業する際にはコンプレッサーの圧力を
+PSI 10-15, 0.75-1.10 bar, (0.5-1 kgs)に設定することをお勧めいたします。
+EN
+Pictures courtesy by: Andrés Castillo (Ordo Architectum).
+ZH
+JA

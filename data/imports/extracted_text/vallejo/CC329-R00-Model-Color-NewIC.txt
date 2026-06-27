@@ -1,0 +1,2365 @@
+
+
+--- PAGE 1 ---
+
+Ref. 
+MC
+Model Color
+Ref. 
+MA
+Model Air
+RAL
+RLM
+FS
+ANA
+70.951 White
+71.001 White
+21
+70.820 Offwhite
+71.279 Insignia White
+37875
+601
+70.766 Cream White
+71.270 Off-White
+9001
+70.915 Deep Yellow
+71.002 Medium Yellow
+505
+70.953 Flat Yellow
+71.078 Yellow RLM04
+04
+506
+70.956 Clear Orange
+508
+70.908 Carmine Red
+71.084 Fire Red
+70.947 Dark Vermilion
+71.003 Red RLM23
+23
+70.957 Flat Red
+71.269 Red 
+3000
+11136
+619
+70.859 Black Red
+71.402 UK BSC 49 Light Purple Brown
+70.965 Prussian Blue
+71.266 Dark Blue RLM24
+24
+70.899 Dark Prussian Blue
+71.090 Deep Sky
+70.901 Pastel Blue
+71.108 UK Azure Blue
+609
+70.925 Blue
+71.088 French Blue
+15102
+501
+70.752 Infantry Blue
+71.091 Signal Blue
+15044
+502
+70.961 Sky Blue
+71.317 AII SV. Gol Light Blue
+70.898 Dark Sea Blue
+71.300 Glossy Sea Blue
+15042
+623
+70.980 Black Green
+71.256 Green RLM73
+73
+70.895 Gunship Green
+71.014 Gunship Green
+70.920 German Uniform
+71.124 USAF Green
+34092
+612
+70.897 Bronze Green
+71.021 Black Green RLM70
+6006
+70
+70.979 Cam. Dark Green
+71.019 Camouflage Dark Green
+6007
+70.967 Olive Green
+71.006 Light Green Chromate
+503
+70.850 Medium Olive
+71.094 Green Zinc Chromate
+70.823 Luftwaffe Green
+71.022 Light Green RLM82
+82
+34094
+70.975 Military Green
+71.265 Olive Green RLM80
+6031
+80
+70.885 Pastel Green
+71.321 IJA Light Grey Green
+610
+70.886 Green Grey
+71.044 Grey RLM02
+02
+70.830 Ger. Fieldgrey WWII
+71.292 US Loam
+34086
+634
+70.759 German Tank Crew
+71.258 Grey Green RLM74
+74
+70.896 Extra Dark Green
+71.263 Green RLM72
+72
+70.760 Light Mud
+71.284 UK Light Mud
+70.893 US Dark Green
+71.289 US Dark Green
+34102
+70.890 Refractive Green
+71.092 Medium Olive
+6003
+34082
+70.888 Olive Grey
+71.294 US Forest Green
+34079
+631
+70.894 Cam. Olive Green
+71.011 Dark Green RLM83
+83
+70.987 Medium Grey
+71.141
+IDF Sand Grey 73
+70.821 German Beige WWII
+71.023 Hemp
+34201
+70.988 Khaki
+71.138 US Sand
+30277
+70.762 Grey Brown
+71.116 Camouflage Grey Green
+7008
+70.763 Canvas
+71.264 Brown Violet RLM81
+81
+34088
+613
+70.941 Burnt Umber
+71.249 NATO Brown
+8027
+30051
+70.806 German Yellow
+71.106 Ivory RLM05
+05
+70.881 Green Yellow
+71.137 US Light Green
+34151
+70.887 US Olive Drab
+71.015 Dark Green RLM71
+71
+34087
+70.976 Buff
+71.288 UK BSC 64 Portland Stone
+33717
+Ref. 
+MC
+Model Color
+Ref. 
+MA
+Model Air
+RAL
+RLM
+FS
+ANA
+70.764 Military Yellow
+71.025 Dark Yellow
+7028
+70.879 Green Brown
+71.272 German Yellow Brown
+8000
+70.921 English Uniform
+71.139 US Field Drab
+30118
+617
+70.889 Olive Brown
+71.282 6K Russian Brown 
+70.917 Beige
+71.074 Beige
+33695
+507
+70.914 Green Ochre
+71.031 Middle Stone
+30266
+615
+70.847 Dark Sand
+71.075 Ivory
+1001
+70.767 Desert Brown
+71.117
+Camouflage Brown
+8020
+30400
+70.761 Old Wood
+71.118 Camouflage Grey
+7027
+70.765 Desert Tan
+71.122 US Desert Armour 686
+33446
+70.874 Tan Earth
+71.140 US Desert Sand
+30279
+616
+70.873 US Field Drab
+71.323 BS Dark Earth
+70.768 BC Dark Brown
+71.035 Camouflage Pale Brown
+30140
+70.871 Leather Brown
+71.290 US Earth Brown
+30099
+70.822 Cam. Black Brown
+71.042 Dark Brown RLM61
+61
+70.977 Desert Yellow
+71.291 US Earth Yellow
+30257
+70.769 Mustard Brown
+71.278 Sand Yellow RLM79
+79
+70.875 Beige Brown
+71.293 US Earth Red
+30117
+70.940 Saddle Brown
+71.080 Rust
+30111
+70.913 Yellow Ochre
+71.107 US Interior Yellow
+70.856 Ochre Brown
+71.033 Yellow Ochre
+1006
+70.818 Red Leather
+71.034 Sand Brown
+70.982 Cavalry Brown
+71.105 Brown RLM26
+26
+618
+70.814 Burnt Red
+71.271 German Red Brown
+8012
+70.985 Hull Red
+71.041 Armour Brown
+8017
+70.883 Silver Grey
+71.119 White Grey
+9002
+36622
+70.971 Light Green Grey
+71.103 Grey Blue RLM84
+84
+36440
+610
+70.906 Pale Blue
+71.257 Light Blue RLM76
+76
+36473
+70.972 Light Green Blue
+71.101 Light Blue RLM78
+78
+70.772 Medium Grey Blue
+71.255 Light Blue RLM65
+65
+70.816 Luftwaffe Uniform
+71.005 Grey Blue
+70.994 Dark Grey
+71.295 USN Sea Blue
+35042
+607
+70.989 Sky Grey
+71.407 Sky Grey
+36375
+70.990 Light Grey
+71.307 BS Medium Sea Grey
+70.905 Blue Grey Pale
+71.114 Medium Gray
+36173
+70.867 Dark Blue Grey
+71.055 Black Grey RLM66
+66
+70.870 Medium Sea Grey
+71.277 Dark Gull Gray
+36231
+621
+70.773 Violet Grey
+71.259 Grey Violet RLM75
+75
+70.866 Grey Green
+71.123 Dark Grey RLM42
+42
+70.869 Basalt Grey
+71.097 Medium Gunship Gray
+36118
+603
+70.868 Dark Sea Green
+71.115
+Blue Grey
+7016
+70.995 German Grey
+71.056 Panzer Dark Grey
+7021
+37030
+513
+70.950 Black
+71.057 Black
+9005
+22
+37038
+604
+70.861 Gloss Black
+71.057 Black
+622
+70.997 Silver
+71.063 Silver RLM01 (Metallic)
+01
+70.951
+70.820
+70.918
+70.959
+70.810
+70.751
+70.954
+70.827
+70.922
+70.767
+70.874
+70.768
+70.918
+70.986
+70.821
+70.750
+70.811
+70.960
+70.827
+70.922
+70.975
+70.873
+70.871
+70.822
+70.835
+70.803
+70.745
+70.902
+70.965
+70.899
+70.758
+70.967
+70.823
+70.765
+70.761
+70.768
+70.928
+70.835
+70.805
+70.901
+70.962
+70.965
+70.901
+70.930
+70.752
+70.885
+70.760
+70.924
+70.916
+70.977
+70.770
+70.815
+70.876
+70.746
+70.961
+70.844
+70.963
+70.886
+70.759
+70.896
+70.977
+70.875
+70.983
+70.928
+70.845
+70.843
+70.809
+70.925
+70.752
+70.924
+70.890
+70.894
+70.846
+70.984
+70.771
+70.845
+70.860
+70.929
+70.962
+70.930
+70.899
+70.893
+70.892
+70.741
+70.982
+70.814
+70.985
+70.766
+70.837
+70.858
+70.902
+70.807
+70.752
+70.885
+70.886
+70.830
+70.877
+70.981
+70.814
+70.858
+70.949
+70.948
+70.753
+70.840
+70.966
+70.986
+70.884
+70.988
+70.913
+70.856
+70.818
+70.948
+70.911
+70.851
+70.840
+70.966
+70.898
+70.987
+70.740
+70.941
+70.907
+70.943
+70.816
+70.911
+70.851
+70.956
+70.753
+70.808
+70.966
+70.986
+70.821
+70.763
+70.993
+70.907
+70.964
+70.851
+70.909
+70.926
+70.747
+70.947
+70.946
+70.755
+70.838
+70.754
+70.806
+70.978
+70.881
+70.989
+70.992
+70.867
+70.908
+70.926
+70.946
+70.969
+70.970
+70.980
+70.921
+70.826
+70.889
+70.870
+70.773
+70.862
+70.829
+70.817
+70.947
+70.974
+70.756
+70.970
+70.976
+70.764
+70.921
+70.836
+70.868
+70.950
+70.957
+70.946
+70.859
+70.757
+70.895
+70.897
+70.976
+70.879
+70.826
+70.774
+70.866
+70.950
+70.748
+70.958
+70.945
+70.758
+70.968
+70.980
+70.917
+70.914
+70.880
+70.802
+70.812
+70.749
+70.758
+70.891
+70.979
+70.880
+70.872
+70.822
+(H)
+(B)
+(S)
+(H)
+(B)
+(S)
+(H)
+(B)
+(S)
+(H)
+(B)
+(S)
+(H)  Highlight / Luces
+(B)  Basecolor / Color base
+(S)  Shadow / Sombras
+Due to the printing process, the colors reproduced in this colorchart are to be considered as approximate only and may not correspond exactly to the originals.
+Debido a la impresión en cuatricromía, los colores en esta carta de colores pueden variar de los colores originales, y su reproducción es tan solo orientativa.
+Model Color combinations
+Model Color equivalences
+Model Color Chart
+70.951
+White
+Blanco
+70.881
+Green Yellow
+Verde Amarillo
+70.928
+Light Flesh
+Carne Clara
+70.764
+Military Yellow
+Amarillo Militar
+70.820
+Off-White
+Blanco Pergamino
+70.976
+Buff
+Amarillo Caqui
+70.835
+Salmon Rose
+Rosa Salmón
+70.879
+Green Brown
+Marrón Verde
+70.919
+Cold White
+Blanco Frío
+70.887
+US Olive Drab
+US Verde Oliva
+70.815
+Basic Skin Tone
+Carne Base
+70.923
+Japan. Unif. WWII
+Unif. Japonés WWII
+70.918
+Ivory
+Hueso
+70.882
+Middle Stone
+Amarillo Piedra
+70.805
+German Orange
+Naranja Alemán
+70.921
+English Uniform
+Uniforme Inglés
+70.944
+Old Rose
+Rosa Antiguo
+70.826
+Medium Brown
+Pardo Medio
+70.803
+Brown Rose
+Rosa Marrón
+70.889
+Olive Brown
+Pardo Oliva
+70.930
+Dark Blue
+Azul Oscuro
+70.870
+Medium Sea Grey
+Gris Marina Medio
+70.844
+Deep Sky Blue
+Azul Profundo
+70.862
+Black Grey
+Gris Negro
+70.752
+Infantry Blue
+Azul Infantería
+70.773
+Violet Grey
+Gris Violeta
+70.963
+Medium Blue
+Azul Medio
+70.869
+Basalt Grey
+Gris Basalto
+70.925
+Blue
+Azul Intenso
+70.991
+Dark Sea Grey
+Gris Marina
+70.841
+Andrea Blue
+Azul Andrea
+70.836
+London Grey
+Gris Londres
+70.961
+Sky Blue
+Azul Cielo
+70.866
+Grey Green
+Gris Verde
+70.753
+Light Blue Green
+Azul Verde Claro
+70.868
+Dark Sea Green
+Verde Marina Osc.
+70.808
+Blue Green
+Azul Verde
+70.995
+German Grey
+Gris Alemán
+70.840
+Light Turquoise
+Turquesa Claro
+70.774
+Lavender Grey
+Gris Lavanda
+70.757
+Pacific Green
+Verde Pacífico
+70.997
+Silver
+Plata
+70.758
+Bright Green
+Verde Claro
+70.996
+Gold
+Oro
+70.920
+German Uniform
+Uniforme Alemán
+70.864
+Natural Steel
+Acero Natural
+70.833
+Fern Green
+Verde Helecho
+70.998
+Bronze
+Bronce
+70.895
+Gunship Green
+Verde Acorazado
+70.865
+Oily Steel
+Acero Engrasado
+70.891
+Intermediate Green
+Verde Medio
+70.878
+Old Gold
+Oro Viejo
+70.897
+Bronze Green
+Verde Bronce
+70.863
+Gunmetal
+Gris Metalizado
+70.968
+Flat Green
+Verde Oliva Osc.
+70.801
+Brass
+Latón
+70.979
+Cam. Dark Green
+Cam. Verde Osc.
+70.999
+Copper
+Cobre
+70.954
+Yellow Green
+Amarillo Verde
+70.800
+Gunmetal Blue
+Metal Azul
+70.859
+Black Red
+Rojo Negro
+70.818
+Red Leather
+Cuero Rojo
+70.802
+Sunset Red
+Rojo Sunset
+70.993
+White Grey
+Gris Blanco
+70.958
+Pink
+Rosa
+70.814
+Burnt Red
+Rojo Tostado
+70.959
+Purple
+Púrpura
+70.971
+Light Green Grey
+Verde Gris Pálido
+70.748
+Light Pink
+Rosa Claro
+70.982
+Cavalry Brown
+Marrón Rojo
+70.812
+Violet Red
+Rojo Violeta
+70.883
+Silver Grey
+Gris Plateado
+70.945
+Magenta
+Magenta
+70.985
+Hull Red
+Marrón Rojizo
+70.810
+Royal Purple
+Púrpura Real
+70.907
+Pale Grey Blue
+Azul Gris Claro
+70.749
+Dark Purple
+Púrpura Oscuro
+70.906
+Pale Blue
+Azul Pálido
+70.750
+Light Violet
+Violeta Claro
+70.972
+Light Green Blue
+Verde Azul Pálido
+70.956
+Clear Orange
+Naranja
+70.983
+Flat Earth
+Tierra Mate
+70.747
+Faded Red
+Rojo Desgastado
+70.984
+Flat Brown
+Marrón Mate
+70.908
+Carmine Red
+Rojo Carmín
+70.940
+Saddle Brown
+Marrón Cuero
+70.817
+Scarlet
+Escarlata
+70.913
+Yellow Ochre
+Ocre Amarillo
+70.909
+Vermilion
+Bermellón
+70.825
+Pale Brown
+Pardo Claro
+70.829
+Amaranth Red
+Rojo Amaranth
+70.771
+Dark Rust
+Óxido Oscuro
+70.926
+Red
+Rojo
+70.846
+Mahogany Brown
+Marrón Caoba
+70.947
+Dark Vermilion
+Bermellón Oscuro
+70.877
+Gold Brown
+Marrón Dorado
+70.957
+Flat Red
+Rojo Mate
+70.856
+Ochre Brown
+Ocre Marrón
+70.946
+Dark Red
+Rojo Oscuro
+70.981
+Orange Brown
+Marrón Naranja
+70.766
+Cream White
+Blanco Crema
+70.874
+Tan Earth
+Tierra Oscura
+70.952
+Lemon Yellow
+Amarillo Limón
+70.822
+Cam. Black Brown
+Cam. Pardo Negro
+70.858
+Ice Yellow
+Amarillo Hielo
+70.768
+BC Dark Brown
+BC Marrón Oscuro
+70.953
+Flat Yellow
+Amarillo Mate
+70.977
+Desert Yellow
+Amarillo Desierto
+70.837
+Pale Sand
+Arena Clara
+70.873
+US Field Drab
+Tierra
+70.915
+Deep Yellow
+Amarillo Intenso
+70.916
+Sand Yellow
+Amarillo Arena
+70.949
+Light Yellow
+Amarillo Claro
+70.871
+Leather Brown
+Cuero Oscuro
+70.948
+Golden Yellow
+Amarillo Dorado
+70.769
+Mustard Brown
+Marrón Mostaza
+70.911
+Light Orange
+Naranja Claro
+70.770
+New Wood
+Madera Nueva
+70.851
+Bright Orange
+Naranja Intenso
+70.875
+Beige Brown
+Marrón Beige
+70.827
+Lime Green
+Verde Lima
+70.540
+Matt Base
+Base Mate
+70.823
+Luftwaffe Green
+Verde Luftwaffe
+70.510
+Gloss Varnish
+Barniz Brillante
+70.922
+Uniform Green
+Verde Uniforme
+70.521
+Metal Medium
+Medium Metálico
+70.885
+Pastel Green
+Verde Pastel
+70.596
+Glaze Medium
+Medium Veladuras
+70.967
+Olive Green
+Verde Oliva
+70.470
+Gloss Medium
+Medium Brillante
+70.975
+Military Green
+Verde Militar
+70.522
+Satin Varnish
+Barniz Satinado
+70.850
+Medium Olive
+Oliva Medio
+70.520
+Matt Varnish
+Barniz Mate
+70.886
+Green Grey
+Gris Verdoso
+70.597
+Retarder Medium
+Retardante Secado
+70.830
+Ger. Fieldgrey WWII
+Verde Alemán WWII
+70.523
+Liquid Mask
+Máscara Líquida
+70.759
+German Tank Crew
+Carrista Alemán
+70.400
+Plastic Putty
+Masilla Plástica
+70.745
+Dark Rose
+Rosa Oscuro
+70.917
+Beige
+Beige
+70.876
+Brown Sand
+Arena Marrón
+70.872
+Chocolate Brown
+Marrón Chocolate
+70.804
+Beige Red
+Rojo Beige
+70.824
+Orange Ochre
+Ocre Naranja
+70.955
+Flat Flesh
+Carne Mate
+70.819
+Iraqi Sand
+Arena Iraquí
+70.845
+Sunny Skin Tone
+Carne Dorada
+70.914
+Green Ochre
+Ocre Verde
+70.746
+Chestnut Brown
+Marrón Castaño
+70.847
+Dark Sand
+Arena Oscura
+70.843
+Cork Brown
+Marrón Corcho
+70.880
+Khaki Grey
+Gris Caqui
+70.927
+Dark Flesh
+Carne Oscura
+70.767
+Desert Brown
+Marrón Desierto
+70.860
+Med. Flesh Tone
+Carne Medio
+70.761
+Old Wood
+Madera Vieja
+70.929
+Light Brown
+Marrón Claro
+70.765
+Desert Tan
+Arena Tostada
+70.811
+Blue Violet
+Violeta Azul
+70.772
+Medium Grey Blue
+Azul Gris Medio
+70.902
+Azure
+Azul Azur
+70.994
+Dark Grey
+Gris Oscuro
+70.960
+Violet
+Violeta
+70.964
+Field Blue
+Azul Militar
+70.899
+Dark Prussian Blue
+Azul de Prusia Osc.
+70.990
+Light Grey
+Gris Pálido
+70.807
+Oxford Blue
+Azul Oxford
+70.943
+Grey Blue
+Azul Gris
+70.965
+Prussian Blue
+Azul de Prusia
+70.989
+Sky Grey
+Gris Cielo
+70.751
+Black Violet
+Violeta Negro
+70.816
+Luftwaffe Uniform
+Uniforme Luftwaffe
+70.901
+Pastel Blue
+Azul Pastel
+70.905
+Blue Grey Pale
+Gris Azul Claro
+70.962
+Flat Blue
+Azul Mate
+70.992
+Neutral Grey
+Gris Neutral
+70.809
+Royal Blue
+Azul Real
+70.867
+Dark Blue Grey
+Azul Gris Oscuro
+70.966
+Turquoise
+Turquesa
+70.950
+Black
+Negro
+70.838
+Emerald
+Esmeralda
+70.754
+Continental Blue
+Azul Continental
+70.828
+Mahogany Ink
+Tinta Caoba
+70.756
+Splinter Green
+Verde Splinter
+70.898
+Dark Sea Blue
+Azul Marina Osc.
+70.861
+Gloss Black
+Negro Brillante
+70.974
+Green Sky
+Verde Azul
+70.755
+Light Emerald
+Esmeralda Claro
+70.939
+Smoke Ink
+Tinta Humo
+70.969
+Park Green Flat
+Verde
+70.970
+Deep Green
+Verde Oscuro
+70.980
+Black Green
+Verde Negro
+70.892
+Yellow Olive
+Oliva Amarillo
+70.524
+Thinner Medium
+Diluyente
+70.893
+US Dark Green
+Verde Americano
+73.213
+Decal Fix
+Fijador de Calcas
+70.760
+Light Mud
+Lodo Claro
+71.262
+Airbrush
+Flow Improver
+70.888
+Olive Grey
+Gris Oliva
+70.896
+Extra Dark Green
+Verde Extra Osc.
+71.261
+Airbrush Thinner
+Diluyente Aerógrafo
+70.890
+Refractive Green
+Verde Refractario
+73.214
+Chipping Medium
+Medium Desgaste
+70.924
+Russian Unif. WWII
+Unifor. Ruso WWII
+73.212
+Decal Softener
+Ablandador Calcas
+70.894
+Cam. Olive Green
+Cam. Verde Oliva
+70.741
+Cam. Black Green
+Cam. Verde Negro
+70.986
+Deck Tan
+Marrón Cubierta
+70.884
+Stone Grey
+Gris Piedra
+70.762
+Grey Brown
+Marrón Grisáceo
+70.821
+Germ. Beige WWII
+Beige Alem. WWII
+70.740
+Cam. Middle Brown
+Cam. Marrón Medio
+70.987
+Medium Grey
+Gris Medio
+70.763
+Canvas
+Lona
+70.988
+Khaki
+Marrón Caqui
+70.941
+Burnt Umber
+Sombra Tostada
+70.806
+German Yellow
+Amarillo Lasur
+70.978
+Dark Yellow
+Amarillo Camuflaje
+Model Color Metallic
+Auxiliary Products
+COLOR CHARTS
+LIQUID METAL
+MODEL COLOR
+&
+Acrylicos Vallejo, S.L.U.
+Eusebio Millán, 14
+08800 Vilanova i la Geltrú
+Barcelona | Spain
+Tel. +34 93 893 60 12
+info@acrylicosvallejo.com
+CC329 - Rev. 00
+Liquid Metal Color Chart
+70.790
+Silver
+Plata
+70.794
+Red Gold
+Oro Rojo
+70.792
+Old Gold
+Oro Viejo
+70.796
+White Gold
+Oro Blanco
+70.791
+Gold
+Oro
+70.795
+Green Gold
+Oro Verde
+70.793
+Rich Gold
+Oro Rico
+70.797
+Copper
+Cobre
+1
+11
+21
+31
+41
+51
+61
+71
+81
+91
+101
+111
+121
+131
+141
+151
+161
+171
+181
+191
+195
+2
+12
+22
+32
+42
+52
+62
+72
+82
+92
+102
+112
+122
+132
+142
+152
+162
+172
+182
+192
+196
+3
+13
+23
+33
+43
+53
+63
+73
+83
+93
+103
+113
+123
+133
+143
+153
+163
+173
+183
+193
+197
+4
+14
+24
+34
+44
+54
+64
+74
+84
+94
+104
+114
+124
+134
+144
+154
+164
+174
+184
+194
+198
+5
+15
+25
+35
+45
+55
+65
+75
+85
+95
+105
+115
+125
+135
+145
+155
+165
+175
+185
+199
+6
+16
+26
+36
+46
+56
+66
+76
+86
+96
+106
+116
+126
+136
+146
+156
+166
+176
+186
+200
+7
+17
+27
+37
+47
+57
+67
+77
+87
+97
+107
+117
+127
+137
+147
+157
+167
+177
+187
+201
+8
+18
+28
+38
+48
+58
+68
+78
+88
+98
+108
+118
+128
+138
+148
+158
+168
+178
+188
+202
+9
+19
+29
+39
+49
+59
+69
+79
+89
+99
+109
+119
+129
+139
+149
+159
+169
+179
+189
+203
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150
+160
+170
+180
+190
+204
+
+
+
+--- PAGE 2 ---
+
+Te presentamos la nueva Model Color, la gama de referencia para 
+todos los aficionados a la pintura de figuras y maquetas. Ahora, ¡la 
+hemos mejorado para que siga siendo tu opción preferida!
+Estamos encantados de compartir con todos vosotros los cambios 
+que hemos realizado en Model Color, nuestra gama más icónica y 
+versátil.
+En este proceso hemos estado asesorados por reconocidos pintores 
+y modelistas, que nos han ayudado a diseñar los colores de la gama 
+para que dispongas del tono exacto con el que pintar tus figuras y 
+maquetas.
+La gama se compone de 220 referencias de los cuales 192 son colores 
+opacos, 10 metalizados, 2 transparentes y 16 productos auxiliares 
+presentados en el nuevo envase de plástico r-PET (reciclado/
+reciclable) totalmente transparente y más sostenible.
+Y si te estás preguntando si la nueva Model Color es igual que antes, 
+la respuesta es NO, no es igual, ¡es mejor!
+Présentation de la nouvelle gamme Model Color, la gamme de 
+référence pour tous les passionnés de peinture de figurines et de 
+maquettes. Nous l’avons améliorée pour qu’elle reste votre option 
+préférée!
+Nous sommes heureux de partager avec vous tous les changements 
+que nous avons apportés à Model Color, notre gamme emblématique 
+et polyvalente.
+Tout au long de ce processus, nous avons été conseillés par des 
+peintres et des modélistes renommés qui nous ont aidés à concevoir 
+les couleurs de la gamme afin que vous disposiez du ton exact pour 
+peindre vos figurines et vos maquettes.
+La gamme se compose de 220 références, comprenant 192 couleurs 
+très opaques, 10 métalliques, 2 transparentes et 16 produits 
+auxiliaires, présentés dans le nouveau flacon stilligoute r-PET de 18 
+ml (recyclée/recyclable), complètement transparent et plus durable.
+Et si vous vous demandez si la nouvelle Model Color a changé, la 
+réponse est OUI, ce n’est pas la même, c’est mieux!
+Introducing the new Model Color, the range that sets the standard 
+for all figure and model kits painting enthusiasts, now improved to 
+remain your favorite paint!
+We are pleased to share with all of you the changes we have made to 
+Model Color, our most iconic and versatile range.
+Throughout this process, we have been advised by renowned painters 
+and modelers who have helped us design the colors of the range so 
+that you have the exact tone to paint your figures and models.
+The range consists of 220 references, including 192 very opaque 
+colors, 10 metallics, 2 transparent, and 16 auxiliary products, 
+presented in the new 18 ml r-PET (recycled/recyclable) bottle, 
+completely transparent and more sustainable.
+And if you’re wondering if the new Model Color it’s the same as 
+before, the answer is NO, it’s not the same, it’s better!
+Vorstellung der neuen Model Color, der Palette, die den Standard für 
+alle Figuren- und Modellbau-Enthusiasten setzt und nun verbessert 
+wurde, um Ihre Lieblingsfarbe zu bleiben!
+Wir freuen uns, mit Ihnen allen die Änderungen zu teilen, die wir 
+an Model Color vorgenommen haben, unserer ikonischsten und 
+vielseitigsten Palette.
+Während dieses Prozesses wurden wir von renommierten Malern und 
+Modellbauern beraten, die uns geholfen haben, die Farben der Palette 
+so zu gestalten, dass Sie den genauen Ton haben, um Ihre Figuren und 
+Modelle zu bemalen.
+Die Palette besteht aus 220 Referenzen, darunter 192 sehr deckende 
+Farben, 10 Metallic-Farben, 2 transparente und 16 Hilfsprodukte, 
+präsentiert in der neuen 18 ml r-PET (recycelbaren) Flasche, 
+vollständig transparent und nachhaltiger.
+Und wenn Sie sich fragen, ob die neue Model Color dieselbe ist wie 
+zuvor, lautet die Antwort NEIN, es ist nicht dasselbe, es ist besser!
+MODEL COLOR
+NEW
+MODEL COLOR
+AUXILIARY PRODUCTS
+EN|
+DE|
+ES|
+FR|
+Hemos introducido una nueva formulación que te sorprenderá por su 
+asombrosa fluidez, excelente opacidad y un acabado mucho más mate.
+Podrás comprobar que los colores secan rápidamente, formando una 
+capa homogénea y autonivelante, que respeta el más mínimo detalle 
+presente en tu modelo. Te recomendamos aplicarlos sobre una 
+superficie previamente imprimada.
+También podrás encontrar los tonos equivalentes a la gran mayoría 
+de colores incluidos en las codificaciones militares empleadas 
+durante la WWII y posteriores conflictos bélicos (RAL, RLM, FS, etc.).
+Además, hemos ordenado la gama cromáticamente en función 
+del sistema de pintura Vallejo BSL (Base, Sombra, Luz), lo que te 
+permitirá localizar fácilmente los tonos adecuados para iluminar y 
+sombrear un color base determinado.
+Se han mantenido la gran mayoría de colores de la gama original, 
+con el mismo nombre y número de referencia. ¡Tus colores preferidos 
+siguen existiendo!
+We have introduced a new formulation that will surprise you with its 
+amazing brushability, excellent opacity and superb matt finish.
+You will notice that the colors dry quickly, forming a homogeneous 
+and self-leveling layer that respects the smallest detail present in 
+your model. In fact, we recommend applying them on a previously 
+primed surface.
+You will also find equivalent shades to the main colors used in 
+military codifications during WWII and subsequent conflicts (RAL, 
+RLM, FS, etc.).
+Additionally, we have arranged the display chromatically, based on 
+the Vallejo BSL (Base, Shade, Light) painting system, allowing you to 
+easily locate the appropriate tones for highlighting and shading a 
+specific base color.
+The majority of colors from the original range have been maintained, 
+with the same name and reference number. Your favorite colors still 
+exist!
+Wir haben eine neue Formulierung eingeführt, die Sie mit ihrer 
+erstaunlichen Pinselbarkeit, hervorragenden Deckkraft und 
+ausgezeichneten matten Oberfläche überraschen wird.
+Sie werden feststellen, dass die Farben schnell trocknen und eine 
+homogene und selbstnivellierende Schicht bilden, die das kleinste 
+Detail Ihres Modells respektiert.
+Tatsächlich empfehlen wir, sie auf einer zuvor grundierten Oberfläche 
+aufzutragen. Sie werden auch äquivalente Schattierungen zu den 
+Hauptfarben finden, die während des Zweiten Weltkriegs und 
+nachfolgender Konflikte verwendet wurden (RAL, RLM, FS, etc.).
+Darüber hinaus haben wir die Anzeige chromatisch angeordnet, 
+basierend auf dem Vallejo BSL (Base, Shade, Light) Mal-System, 
+sodass Sie die entsprechenden Töne zum Hervorheben und 
+Schattieren einer bestimmten Basisfarbe leicht finden können.
+Die Mehrheit der Farben aus dem Originalsortiment wurde 
+beibehalten, mit demselben Namen und der gleichen 
+Referenznummer. Ihre Lieblingsfarben existieren weiterhin!
+Nous avons introduit une nouvelle formulation qui vous surprendra 
+par sa remarquable facilité d’application au pinceau, son excellente 
+opacité et son superbe fini mat.
+Vous remarquerez que les couleurs sèchent rapidement, formant une 
+couche homogène et auto nivelante qui respecte le moindre détail de 
+votre modèle. Nous nous vous recommandons de les appliquer sur 
+une surface préalablement apprêtée.
+Vous trouverez également des nuances équivalentes aux principales 
+couleurs utilisées dans les codifications militaires pendant la 
+Seconde Guerre mondiale et les conflits ultérieurs (RAL, RLM, FS...).
+De plus, nous avons organisé l’affichage de manière chromatique, 
+en nous basant sur le système de peinture Vallejo BSL (Base, Shade, 
+Light), ce qui vous permet de localiser facilement les tons appropriés 
+pour mettre en valeur et ombrer une couleur de base spécifique.
+La majorité des couleurs de la gamme d’origine ont été conservées, 
+avec le même nom et le même numéro de référence. Vos couleurs 
+préférées existent toujours!
+EN|
+ES|
+DE|
+FR|
+En la gama Model Color encontrarás diversos productos auxiliares y 
+mediums que te permitirán modificar las propiedades de nuestros colores.
+•	Base Mate 70.540: Medium de nueva formulación, que mezclado 
+con cualquier pintura acrílica asegura un acabado totalmente mate. 
+Aconsejamos la siguiente proporción de mezcla: una gota de base mate 
+por dos gotas de pintura.
+•	Medium Brillante 70.470: ¿Quieres satinar o generar un reflejo brillante en 
+un color? Diluye con este médium para aumentar el brillo, transparencia y 
+la fluidez del color.
+•	Medium Metálico 70.521: Mezclado con los colores generas efectos 
+plateados e iridiscentes. Usado directamente, el producto seca con un 
+acabado de tono blanco nacarado.
+•	Medium Veladuras 70.596: Si quieres realizar transparencias como efectos 
+de lavados o veladuras, aconsejamos mezclar hasta un 50% de Medium 
+Veladuras con cualquier color.
+•	Retardante de Secado 70.597: Incrementa el tiempo de secado de los 
+colores. Es perfecto para realizar fundidos de tonos en fresco. Mézclalo en 
+una proporción de cuatro partes de pintura por una de retardante.
+•	Medium de Desgaste 73.214: ¿Conoces la técnica de Chipping? Si deseas 
+simular desgastes, como desconchones o arañazos en una maqueta o en 
+un diorama, aplícalo entre dos capas de pintura, espera unos 30 minutos 
+y luego, usa un pincel de pelo corto y duro, humedecido en agua, para 
+retirar la parte superior de la pintura y… ¡la magia aparecerá!
+•	 Diluyente 70.524: Si precisas diluir la pintura en tus trabajos a pincel, úsalo para 
+mantener intactas las propiedades de adhesión y resistencia de la pintura.
+•	Máscara Líquida 70.523: Si deseas proteger una parte determinada de la 
+figura o maqueta, el producto te permite resguardarla. Es importante que 
+la pintura que deseas proteger esté bien seca, con el fin de evitar dañarla 
+al retirar la máscara líquida.
+•	 Masilla Plástica 70.400 en formato de 18 ml o, en tubo 20 ml con aplicador 
+ref. 70.401. Puedes corregir defectos de encaje, generar pequeños relieves 
+o usarla para adherir pequeños elementos a un soporte o diorama.
+¿Barnizas?
+•	 Dispones de tres barnices por si deseas unificar el acabado de tus figuras o 
+maquetas. Las referencias son: Barniz Mate 70.520, Barniz Brillante 70.510 
+y Barniz Satinado 70.522, ¡y los puedes usar a pincel o con aerógrafo!
+¿Te apetece usar Model Color con aerógrafo?...
+•	 Nuestro Diluyente de Aerógrafo 71.261 te diluye el color. Aconsejamos una 
+proporción de una parte de Diluyente por tres de pintura. Mézclalo en la 
+copa del aerógrafo y dispara regulando tu compresor a una presión de entre 
+1 y 1.5 kg o 15 PSI. Nuestro Diluyente está disponible en varios formatos.
+•	Airbrush Flow Improver 71.262 retarda el secado de la pintura al usarla 
+con aerógrafo. Las proporciones de mezcla recomendadas son, tres gotas 
+de pintura por una de Flow Improver. Te sugerimos regular tu compresor 
+a una presión de entre 1 y 1.5 kg o 15 PSI. Nuestro Airbrush Flow Improver 
+está disponible en varios formatos.
+•	Para limpiar el aerógrafo tras su uso, nuestro Limpiador de Aerógrafo 
+71.199 eliminará los restos de pintura y te dejará el aerógrafo en perfectas 
+condiciones para la siguiente sesión.
+¿Añadimos unas calcas a la maqueta? 
+•	Nuestro Fijador de Calcas 73.213 te permite preparar la superficie antes 
+de ubicar la calca. Incrementa la adherencia y además previene la 
+formación de burbujas.
+•	El Ablandador de Calcas 73.212 reblandece la calca para que puedas 
+adaptarla a la superficie del modelo. Las capas a aplicar dependen de la 
+calidad y el grosor de la calca.
+La gamme Model Color comprend une variété de produits auxiliaires et 
+de mediums qui peuvent être utilisés pour modifier les propriétés de 
+nos couleurs.
+•	Matt Base 70.540: Médium de nouvelle formulation, lorsqu’il est 
+mélangé avec n’importe quelle peinture acrylique, il assure une finition 
+totalement mate. La proportion de mélange recommandée est de 1 
+goutte de Médium Mat pour 2 gouttes de peinture.
+•	Gloss Medium 70.470: Vous souhaitez satiner ou créer un reflet brillant 
+sur vos couleurs? Utilisez ce médium pour intensifier la brillance, la 
+transparence et la fluidité de la couleur.
+•	Metal Medium 70.521: Mélangé aux couleurs, vous obtiendrez un effet 
+nacré ou argenté. S’il est utilisé directement, il sèchera avec un fini irisé 
+blanc semi-transparent.
+•	Glaze Medium 70.596: Si vous cherchez à créer des effets transparents 
+tels que des lavis ou des glacis, mélangez jusqu’à 50% de Médium Glacis 
+à votre couleur.
+•	Retarder Medium 70.597: Augmente le temps de séchage de la couleur, 
+ce qui est idéal pour les techniques de fondus dans le frais. Le rapport 
+de mélange recommandé est de 4 volumes de peinture pour 1 volume de 
+retardateur de séchage.
+•	Chipping Medium 73.214: Connaissez-vous la technique de l’écaillage? Si 
+vous souhaitez simuler l’usure, des éclats, des rayures sur une maquette 
+ou un diorama, appliquez-le entre deux couches de peinture, attendez 
+environ 30 minutes, puis utilisez un pinceau court à poils rigides 
+humecté d’eau pour enlever la couche de peinture supérieure, et... la 
+magie opère.
+•	Thinner Medium 70.524: Si vous avez besoin de diluer la peinture 
+pendant votre processus de peinture, ce diluant préserve les propriétés 
+d’adhérence et de résistance de la peinture.
+•	Liquid Mask 70.523: Si vous souhaitez protéger une zone spécifique de 
+la figurine ou du modèle, ce produit vous permet de la préserver. Il est 
+important que la peinture que vous avez l’intention de protéger soit 
+parfaitement sèche pour éviter les dommages lors du retrait du Masque 
+Liquide.
+•	Plastic Putty 70.400: Le produit est disponible en flacon de 18 ml ou en 
+tube de 20 ml avec un applicateur pointe fine (ref. 70.401). Il corrige les 
+défauts d’ajustement, crée de petits reliefs et fixe de petits éléments à 
+une base ou à un diorama avec facilité et précision.
+Vous vernissez?
+•	3 vernis sont disponibles. Si vous souhaitez unifier la finition de vos 
+figurines ou de vos maquettes. Les références sont le Matt Varnish 
+70.520, le Gloss Varnish 70.510 et le Satin Varnish 70.522. Vous pouvez 
+les appliquer au pinceau ou à l’aérographe!
+Vous souhaitez appliquer la Model Color à l’aérographe?
+•	Notre Airbrush Thinner 71.261 dilue la couleur, selon un ratio 
+recommandé de 1/4 de Diluant pour Aérographe pour 3/4 de peinture. 
+Réalisez le mélange dans le godet de l’aérographe et ajustez votre 
+compresseur à une pression comprise entre 1 et 1,5 bar. Notre diluant 
+est également disponible en grandes bouteilles.
+•	Airbrush Flow Improver 71.262 retarde le temps de séchage de la 
+peinture lorsqu’il est utilisé avec un aérographe. Le ratio de mélange 
+recommandé est de 3 gouttes de peinture pour 1 goutte de Flow 
+improver. Nous suggérons d’ajuster votre compresseur à une pression 
+entre 1 et 1,5 Bar. Notre Flow improver est également disponible en 
+grandes bouteilles.
+•	Pour nettoyer l’aérographe après utilisation, notre Airbrush Cleaner 
+71.199 éliminera les résidus de peinture et laissera votre aérographe en 
+parfait état pour la prochaine session.
+Poser des décalcomanies sur une maquette?
+•	Decal Fix 73.213 vous permet de préparer la surface avant de placer la 
+décalcomanie, améliorant l’adhérence tout en prévenant la formation 
+de bulles.
+•	Le Decal Softener 73.212 prépare la décalcomanie afin que vous puissiez 
+l’adapter à la surface de votre pièce. Le nombre de couches à appliquer 
+dépend de la qualité et de l’épaisseur de la décalcomanie.
+The Model Color range includes a variety of auxiliary products and 
+mediums that can be used to modify the properties of our colors.
+•	Matt Base 70.540: Newly formulated medium, when mixed with any 
+acrylic paint ensures a totally matt finish. The recommended mixing ratio 
+is 1 drop of Matt Base to 2 drops of paint.
+•	Gloss Medium 70.470: Do you wish to modify the color from matt 
+to a satin or glossy finish? Use this medium to enhance gloss and 
+transparency.
+•	Metal Medium 70.521: Mixed with colors, you will achieve a pearlescent 
+or silvery effect. If used directly, it will dry as a semi-transparent white 
+iridescent effect.
+•	Glaze Medium 70.596: If you are looking to create transparent effects such 
+as washes or glazes, the recommended mixing ratio is any color for up to 
+50% Glaze Medium.
+•	Retarder Medium 70.597: Increases color drying time, which is ideal for 
+wet blending techniques. The recommended mixing ratio is 4 parts paint 
+to 1 part Retarder Medium.
+•	Chipping Medium 73.214: Do you know about the chipping technique? If 
+you wish to simulate wear and tear such as chips or scratches on a model 
+or diorama, apply it between two layers of paint, wait about 30 minutes, 
+and then use a short, stiff-bristled brush dampened with water to remove 
+the top layer of paint, and... the magic happens.
+•	Thinner Medium 70.524: If you need to thin the paint during your painting 
+process, this Thinner Medium preserves the adhesion and resistance 
+properties of the paint.
+•	Liquid Mask 70.523: If you want to protect a specific area of the figure 
+or model, this product allows you to preserve it. It is important that the 
+paint you intend to protect is thoroughly dried to avoid damage when 
+removing the Liquid Mask.
+•	Plastic Putty 70.400: The product is available in an 18 ml bottle or a 20 
+ml tube with a fine applicator tip (ref. 70.401). It corrects fitting defects, 
+creates small reliefs and bonds small elements to a base or diorama with 
+ease and precision.
+Do you need varnishes?
+•	You have 3 available varnishes if you wish to unify the finish of your 
+figures or models. The references are Matt Varnish 70.520, Gloss Varnish 
+70.510 and Satin Varnish 70.522, and you can use them with either a brush 
+or an airbrush!
+Are you interested in using Model Color with an airbrush?
+•	Our Airbrush Thinner 71.261 dilutes the color, at a recommended ratio 
+of 1 part Airbrush Thinner to 3 parts paint. Mix it in the airbrush cup and 
+adjust your compressor to a pressure between 1 and 1.5 kg or 15 PSI. Our 
+Thinner is also available in bigger bottles.
+•	Airbrush Flow Improver 71.262 delays the drying time of the paint when 
+used with an airbrush. The recommended mixing ratio is 3 drops of paint 
+to 1 part of Flow Improver, and we suggest adjusting your compressor 
+to a pressure between 1 and 1.5 kg or 15 PSI. Our Flow Improver is also 
+available in bigger bottles.
+•	 To clean the airbrush after use, our Airbrush Cleaner 71.199 will remove paint 
+residues and leave your airbrush in perfect condition for the next session.
+Shall we add some decals to the model?
+•	 Our Decal Fix 73.213 allows you to prepare the surface before placing the 
+decal, enhancing adhesion while also preventing the formation of bubbles.
+•	The Decal Softener 73.212 softens the decal so you can adapt it to the 
+model’s surface. The number of layers to apply depends on the quality 
+and thickness of the decal.
+Die Model Color Palette umfasst eine Vielzahl von Hilfsprodukten und 
+Medien, die verwendet werden können, um die Eigenschaften unserer 
+Farben zu modifizieren.
+•	Matt Base 70.540: Ein neu formuliertes Medium, das, wenn es mit 
+jeder Acrylfarbe gemischt wird, einen vollständig matten Finish-Effekt 
+gewährleistet. Das empfohlene Mischverhältnis beträgt 1 Tropfen Matt 
+Base zu 2 Tropfen Farbe.
+•	Gloss Medium 70.470: Möchten Sie die Farbe von matt auf ein satin- oder 
+glänzendes Finish ändern? Verwenden Sie dieses Medium, um Glanz und 
+Transparenz zu verbessern.
+•	Metal Medium 70.521: Wenn mit Farben gemischt, erzielen Sie einen 
+perlmuttartigen oder silbernen Effekt. Bei direkter Anwendung trocknet 
+es als halbtransparenter weißer Schimmer.
+•	Glaze Medium 70.596: Wenn Sie transparente Effekte wie Waschungen 
+oder Glasuren erzeugen möchten, beträgt das empfohlene 
+Mischverhältnis beliebige Farbe bis zu 50 % Glaze Medium.
+•	Retarder Medium 70.597: Verlängert die Trockenzeit der Farbe, was ideal 
+für Nass-in-Nass-Mischtechniken ist. Das empfohlene Mischverhältnis 
+beträgt 4 Teile Farbe zu 1 Teil Retarder Medium.
+•	Chipping Medium 73.214: Kennen Sie die Chip-Technik? Wenn Sie 
+Abnutzung wie Abplatzer oder Kratzer auf einem Modell oder Diorama 
+simulieren möchten, tragen Sie es zwischen zwei Farbschichten auf, 
+warten Sie etwa 30 Minuten und verwenden Sie dann einen kurzen, 
+steifen Pinsel, der mit Wasser angefeuchtet ist, um die obere Farbschicht 
+zu entfernen, und... die Magie passiert.
+•	Thinner Medium 70.524: Wenn Sie die Farbe während Ihres Malprozesses 
+verdünnen müssen, bewahrt dieses Verdünnungsmittel die Haftungs- 
+und Widerstandseigenschaften der Farbe.
+•	Liquid Mask 70.523: Wenn Sie einen bestimmten Bereich der Figur oder 
+des Modells schützen möchten, ermöglicht Ihnen dieses Produkt, ihn 
+zu erhalten. Es ist wichtig, dass die Farbe, die Sie schützen möchten, 
+gründlich trocken ist, um Beschädigungen beim Entfernen der Liquid 
+Mask zu vermeiden.
+•	Plastic Putty 70.400: Das Produkt ist in einer 18 ml Flasche oder einer 
+20 ml Tube mit einer feinen Applikatorspitze (Ref. 70.401) erhältlich. Es 
+korrigiert Passformfehler, erzeugt kleine Reliefstrukturen und verbindet 
+kleine Elemente mit einer Basis oder einem Diorama mit Leichtigkeit und 
+Präzision.
+Brauchen Sie Lacke?
+•	Sie haben 3 verfügbare Lacke, wenn Sie das Finish Ihrer Figuren oder 
+Modelle vereinheitlichen möchten. Die Referenzen sind Matt Varnish 
+70.520, Gloss Varnish 70.510 und Satin Varnish 70.522, und Sie können 
+sie entweder mit einem Pinsel oder einer Airbrushverwenden!
+Sind Sie daran interessiert, Model Color mit einer Airbrush zu verwenden? 
+•	Unser Airbrush Thinner 71.261 verdünnt die Farbe im Verhältnis von 1 Teil 
+Airbrush-Verdünner zu 3 Teilen Farbe. Mischen Sie es in der Airbrush-
+Tasse und stellen Sie Ihren Kompressor auf einen Druck zwischen 1 und 
+1,5 kg oder 15 PSI ein. Unser Verdünner ist auch in größeren Flaschen 
+erhältlich.
+•	Der Airbrush Flow Improver 71.262 verzögert die Trockenzeit der 
+Farbe, wenn er mit einer Airbrush verwendet wird. Das empfohlene 
+Mischverhältnis beträgt 3 Tropfen Farbe zu 1 Teil Fließverbesserer, und 
+wir empfehlen, Ihren Kompressor auf einen Druck zwischen 1 und 1,5 kg 
+oder 15 PSI einzustellen. Unser Fließverbesserer ist ebenfalls in größeren 
+Flaschen erhältlich.
+•	Um die Airbrush nach Gebrauch zu reinigen, entfernt unser Airbrush 
+Cleaner 71.199 Farbreste und hinterlässt Ihre Airbrush in perfektem 
+Zustand für die nächste Sitzung.
+Sollen wir dem Modell einige Abziehbilder hinzufügen? 
+•	Unser Decal Fix 73.213 ermöglicht es Ihnen, die Oberfläche vor dem 
+Aufbringen des Abziehbildes vorzubereiten, wodurch die Haftung 
+verbessert wird und gleichzeitig die Bildung von Blasen verhindert wird.
+•	Der Decal Softener 73.212 macht das Abziehbild weich, sodass Sie 
+es an die Oberfläche des Modells anpassen können. Die Anzahl der 
+aufzutragenden Schichten hängt von der Qualität und Dicke des 
+Abziehbildes ab.
+EN|
+DE|
+ES|
+FR|
+Scan for more
+information
+and languages
+Safety/Toxicity: Model Color is manufactured in accordance with European 
+regulations and “Conforms to ASTM D-4236”, an American standard for art 
+materials which declares the raw materials present in the products have 
+been evaluated by a toxicologist to determine if any harmful substance or 
+component could potentially pose a chronic health hazard risk and all of the 
+potentially hazardous components along with safe use precautions have been 
+clearly labeled on the product packaging.
+Sicherheit/Giftigkeit: Model Color wird gemäß den europäischen Vorschriften 
+hergestellt und entspricht “ASTM D-4236”, einem amerikanischen Standard 
+für Kunstmaterialien, der erklärt, dass die in den Produkten enthaltenen 
+Rohstoffe von einem Toxikologen bewertet wurden, um festzustellen, ob 
+irgendeine schädliche Substanz oder Komponente potenziell ein chronisches 
+Gesundheitsrisiko darstellen könnte, und alle potenziell gefährlichen 
+Komponenten sowie sichere Verwendungshinweise wurden klar auf der 
+Produktverpackung gekennzeichnet.
+Seguridad/Toxicidad: Model Color se elabora conforme normativa europea y 
+cuenta con la certificación “Conforms to ASTM D-4236”, normativa americana 
+especifica para materiales de arte donde un toxicólogo evalúa de forma teórica 
+las materias primas y la concentración de estas en el producto para establecer 
+si su contenido tiene potencial de producir un efecto adverso crónico para la 
+salud y se debe advertir de la presencia y precauciones a tomar durante el uso 
+establecido en la etiqueta del producto.
+Sécurité/Toxicité: Model Color est fabriqué conformément aux réglementations 
+européennes et “Conforme à ASTM D-4236”, une norme américaine pour les 
+matériaux artistiques qui déclare que les matières premières présentes dans 
+les produits ont été évaluées par un toxicologue pour déterminer si une 
+substance ou composant nocif pourrait potentiellement poser un risque de 
+danger pour la santé chronique, et toutes les composantes potentiellement 
+dangereuses ainsi que les précautions d’utilisation sécuritaire ont été 
+clairement étiquetées sur l’emballage du produit.
+Los colores metalizados se han reformulado para mejorar sus propiedades de 
+opacidad, fluidez y autonivelación. Se extienden con gran facilidad y pueden 
+mezclarse entre ellos para conseguir nuevos tonos.
+Hemos empleado novedosos pigmentos metálicos de partícula ultra fina, que 
+aportan un acabado de gran realismo.
+Además, dispones de dos colores transparentes que puedes usar para sombrear y 
+modificar los tonos de tus metalizados.
+Liquid Metal, 8 colores metalizados con formulación de base alcohol isopropílico, te 
+ofrecen un acabado excepcionalmente realista y de alto brillo. Puedes mezclar los 
+colores entre sí para modificar la tonalidad y secan rápidamente.
+Te recomendamos utilizar únicamente alcohol isopropílico tanto para diluir los 
+colores, como para limpiar tus pinceles y el aerógrafo.
+Liquid Metal es inflamable por la naturaleza de su fórmula. Se presenta en frascos 
+de 35 ml/1.18 fl oz con tapón de seguridad.
+The metallic colors have been reformulated to improve their opacity, fluidity and 
+self-leveling properties. They spread very easily and we have used new metallic 
+pigments with ultrafine particles that provide a very realistic finish.
+Metallic colors can be mixed together to obtain new shades.
+Additionally, there are two transparent colors available for shading and modifying 
+metallic tones.
+Liquid Metal, 8 metallic colors with an isopropyl alcohol-based formulation, offer 
+an exceptionally realistic finish with a high gloss. They dry quickly and can be mixed 
+together to obtain different shades.
+We recommend using only isopropyl alcohol to dilute the colors and also to clean 
+your brushes or airbrush.
+Liquid Metal is flammable due to the nature of its formula and is available in 
+bottles of 35 ml/1.18 fl oz with a safety cap.
+Die metallischen Farben wurden neu formuliert, um ihre Deckkraft, Fließfähigkeit 
+und selbstnivellierenden Eigenschaften zu verbessern.
+Sie verteilen sich sehr leicht, und wir haben neue metallische Pigmente mit ultrafeinen 
+Partikeln verwendet, die einen sehr realistischen Finish-Effekt erzeugen. Metallische 
+Farben können miteinander gemischt werden, um neue Schattierungen zu erhalten.
+Zusätzlich gibt es zwei transparente Farben zur Verfügung, um metallische Töne zu 
+schattieren und zu modifizieren.
+Liquid Metal, 8 metallische Farben mit einer auf Isopropylalkohol basierenden 
+Formulierung, bieten ein außergewöhnlich realistisches Finish mit einem hohen 
+Glanz. Sie trocknen schnell und können gemischt werden, um verschiedene 
+Schattierungen zu erhalten.
+Wir empfehlen, nur Isopropylalkohol zu verwenden, um die Farben zu verdünnen, 
+und auch zum Reinigen Ihrer Pinsel oder Airbrush.
+Liquid Metal ist aufgrund seiner Formulierung entflammbar und ist in Flaschen zu 
+35 ml/1.18 fl oz erhältlich, mit einem Sicherheitsverschluss.
+Les couleurs métalliques ont été reformulées pour améliorer leur opacité, leur 
+fluidité et leurs propriétés autonivelantes.
+Elles s’apliquent très facilement et nous avons utilisé de nouveaux pigments 
+métalliques avec des particules ultrafines qui offrent un fini très réaliste.
+Les couleurs métalliques peuvent être mélangées entre elles pour obtenir de 
+nouvelles nuances. De plus, il existe deux couleurs transparentes disponibles pour 
+ombrer et modifier les tons métalliques.
+Liquid Metal est une gamme composée de 8 couleurs métalliques à base d’alcool 
+isopropylique, qui offre une finition exceptionnellement réaliste et ultra brillante. Ces 
+teintes  sèchent rapidement et peuvent être mélangées pour obtenir différentes nuances.
+Nous recommandons d’utiliser uniquement de l’alcool isopropylique pour diluer les 
+couleurs et également pour nettoyer vos pinceaux ou votre aérographe.
+Le Liquid Metal est inflammable en raison de la nature de sa formule et est 
+disponible en bouteilles de 35 ml/1.18 fl oz avec un bouchon de sécurité.
+EN|
+EN|
+ES|
+ES|
+DE|
+DE|
+FR|
+FR|
+METALLIC COLORS
+LIQUID
+METAL
+MC position by reference
+MC 
+reference Pos.
+70.740
+117
+70.741
+109
+70.745
+11
+70.746
+16
+70.747
+35
+70.748
+42
+70.749
+49
+70.750
+50
+70.751
+54
+70.752
+63
+70.753
+68
+70.754
+73
+70.755
+74
+70.756
+77
+70.757
+81
+70.758
+85
+70.759
+100
+70.760
+103
+70.761
+139
+70.762
+115
+70.763
+116
+70.764
+125
+70.765
+140
+70.766
+21
+70.767
+138
+70.768
+143
+MC 
+reference Pos.
+70.769
+148
+70.770
+149
+70.771
+156
+70.772
+171
+70.773
+183
+70.774
+190
+70.800
+204
+70.801
+202
+70.802
+45
+70.803
+10
+70.804
+13
+70.805
+8
+70.806
+119
+70.807
+52
+70.808
+69
+70.809
+60
+70.810
+48
+70.811
+51
+70.812
+46
+70.814
+163
+70.815
+6
+70.816
+174
+70.817
+37
+70.818
+161
+70.819
+137
+70.820
+3
+MC 
+reference Pos.
+70.821
+113
+70.822
+145
+70.823
+95
+70.824
+133
+70.825
+152
+70.826
+129
+70.827
+91
+70.828
+193
+70.829
+36
+70.830
+99
+70.833
+87
+70.835
+7
+70.836
+186
+70.837
+22
+70.838
+75
+70.840
+70
+70.841
+66
+70.843
+14
+70.844
+65
+70.845
+12
+70.846
+154
+70.847
+136
+70.850
+94
+70.851
+30
+70.856
+159
+70.858
+23
+MC 
+reference Pos.
+70.859
+41
+70.860
+19
+70.861
+192
+70.862
+185
+70.863
+198
+70.864
+197
+70.865
+196
+70.866
+184
+70.867
+180
+70.868
+188
+70.869
+187
+70.870
+181
+70.871
+144
+70.872
+135
+70.873
+142
+70.874
+141
+70.875
+150
+70.876
+15
+70.877
+158
+70.878
+200
+70.879
+127
+70.880
+134
+70.881
+121
+70.882
+124
+70.883
+166
+70.884
+111
+MC 
+reference Pos.
+70.885
+97
+70.886
+98
+70.887
+122
+70.888
+107
+70.889
+130
+70.890
+106
+70.891
+86
+70.892
+101
+70.893
+105
+70.894
+108
+70.895
+82
+70.896
+102
+70.897
+84
+70.898
+72
+70.899
+57
+70.901
+58
+70.902
+55
+70.905
+178
+70.906
+169
+70.907
+168
+70.908
+33
+70.909
+32
+70.911
+29
+70.913
+157
+70.914
+132
+70.915
+26
+MC 
+reference Pos.
+70.916
+146
+70.917
+131
+70.918
+4
+70.919
+2
+70.920
+83
+70.921
+128
+70.922
+93
+70.923
+126
+70.924
+104
+70.925
+62
+70.926
+34
+70.927
+18
+70.928
+5
+70.929
+20
+70.930
+61
+70.939
+194
+70.940
+153
+70.941
+118
+70.943
+172
+70.944
+9
+70.945
+44
+70.946
+40
+70.947
+38
+70.948
+28
+70.949
+24
+70.950
+191
+MC 
+reference Pos.
+70.951
+1
+70.952
+25
+70.953
+27
+70.954
+90
+70.955
+17
+70.956
+31
+70.957
+39
+70.958
+43
+70.959
+47
+70.960
+53
+70.961
+64
+70.962
+59
+70.963
+67
+70.964
+173
+70.965
+56
+70.966
+71
+70.967
+92
+70.968
+88
+70.969
+78
+70.970
+79
+70.971
+167
+70.972
+170
+70.974
+76
+70.975
+96
+70.976
+123
+70.977
+147
+MC 
+reference Pos.
+70.978
+120
+70.979
+89
+70.980
+80
+70.981
+160
+70.982
+162
+70.983
+151
+70.984
+155
+70.985
+164
+70.986
+110
+70.987
+112
+70.988
+114
+70.989
+176
+70.990
+177
+70.991
+182
+70.992
+179
+70.993
+165
+70.994
+175
+70.995
+189
+70.996
+199
+70.997
+195
+70.998
+201
+70.999
+203

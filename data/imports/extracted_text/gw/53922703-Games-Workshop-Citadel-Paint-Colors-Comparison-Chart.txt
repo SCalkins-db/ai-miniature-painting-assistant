@@ -1,0 +1,662 @@
+
+
+--- PAGE 1 ---
+
+GAMES WORKSHOP/CITADEL COLOURS (REVISED) 
+COLOUR 
+RGB 
+HEX 
+COLOUR 
+RGB 
+HEX 
+COLOUR 
+RGB 
+HEX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAOS BLACK 
+0:21:34 
+#001522 
+ 
+BLAZING ORANGE 
+230:89:37 
+#E65925 
+ 
+CAMO GREEN 
+135:141:82 
+#878D52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CODEX GREY 
+128:130:133 
+#808285 
+ 
+FIERY ORANGE 
+244:121:32 
+#F47920 
+ 
+COMMANDO KHAKI 
+154:140:123 
+#9A8C7B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORTRESS GREY 
+188:189:192 
+#BCBDC0 
+ 
+GOLDEN YELLOW 
+255:194:14 
+#FFC20E 
+ 
+DARK FLESH 
+104:59:49 
+#683631 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SKULL WHITE 
+255:255:255 
+ 
+#FFFFFF
+ 
+SUNBURST YELLOW 
+255:212:0 
+#FFD400 
+ 
+TERRACOTTA 
+ 
+121:55:33 
+#793721
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SHADOW GREY 
+16:105:147 
+#106993 
+ 
+BADMOON YELLOW 
+255:242:0 
+ 
+#FFF200
+ 
+VERMIN FUR 
+144:79:46 
+#904F2E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPACE WOLF GREY 
+145:191:220 
+#91BFDC 
+ 
+SCORCHED BROWN 
+90:66:47 
+#5A422F 
+ 
+TANNED FLESH 
+169:92:62 
+#A95C3E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LICHE PURPLE 
+44:45:139 
+#2C2D8B 
+ 
+GRAVEYARD EARTH 
+102:82:56 
+#665238 
+ 
+DWARF FLESH 
+218:147:130 
+#DA9382 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WARLOCK PURPLE 
+164:62:139 
+#A43E8B 
+ 
+BESTIAL BROWN 
+123:74:57 
+#7B4A39 
+ 
+BRONZED FLESH 
+236:154:54 
+#EC9A36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TENTACLE PINK 
+220:157:198 
+#DC9DC6 
+ 
+SNAKEBITE LEATHER 
+140:108:64 
+#8C6C40 
+ 
+ELF FLESH 
+237:174:116 
+#EDAE74 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MIDNIGHT BLUE 
+0:37:97 
+#002561 
+ 
+DESERT YELLOW 
+156:136:85 
+#9C8855 
+ 
+ROTTING FLESH 
+184:195:158 
+#B8C39E 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGAL BLUE 
+0:63:112 
+#003F70 
+ 
+BUBONIC BROWN 
+184:145:66 
+#B89142 
+ 
+BOLTGUN METAL 
+136:135:137 
+#888791 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ULTRAMARINE BLUE 
+0:102:179 
+#0066B3 
+ 
+VOMIT BROWN 
+206:139:60 
+#CE8B3C 
+ 
+CHAINMAIL 
+ 
+142:140:145 
+#8E8C91
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENCHANTED BLUE 
+0:113:183 
+#0071B7 
+ 
+BLEACHED BONE 
+238:213:172 
+#EED5AC 
+ 
+MITHRIL SILVER 
+183:190:197 
+#B7BEC5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICE BLUE 
+129:211:235 
+#81D3EB 
+ 
+CATACHAN GREEN 
+69:84:64 
+#455440 
+ 
+TIN BITZ 
+71:63:57 
+#473F39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HAWK TURQUOISE 
+0:129:148 
+#008194 
+ 
+DARK ANGEL GREEN 
+25:85:60 
+#19553C 
+ 
+BRAZEN BRASS 
+150:103:71 
+ 
+#966747
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCAB RED 
+144:38:61 
+#90263D 
+ 
+SNOT GREEN 
+0:111:69 
+#006F45 
+ 
+SHINING GOLD 
+239:183:54 
+#EFB736 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RED GORE 
+157:43:63 
+#9D2B3F 
+ 
+SCORPION GREEN 
+101:179:69 
+#65B345 
+ 
+BURNISHED GOLD 
+224:192:104 
+#E0C068 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLOOD RED 
+210:34:62 
+#D2223E 
+ 
+SCALY GREEN 
+0:96:99 
+#006063 
+ 
+DWARF BRONZE 
+162:104:64 
+#A26840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GOBLIN GREEN 
+61:147:83 
+#3D9353 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOUNDATION COLOURS 
+ 
+KNARLOC GREEN 
+72:86:60 
+#48563C 
+ 
+147:171:175 
+ 
+#93ABAF
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MECHRITE RED 
+168:32:20 
+#A82014 
+ 
+TALLARN FLESH 
+178:123:103 
+#B27B67 
+ 
+ASTRONOMICAN  
+GREY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHENEB STONE 
+184:172:160 
+#B8ACA0 
+ 
+HORMAGAUNT PURPLE 
+84:73:107 
+#54496B 
+ 
+KHEMRI BROWN 
+115:97:77 
+#73614D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TAUSEPT OCHRE 
+160:110:59 
+#A06E3B 
+ 
+MORDIAN BLUE 
+36:72:130 
+#244882 
+ 
+CALTHAN BROWN 
+122:66:49 
+#7A4231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+185:64:35 
+ 
+#B94023
+ 
+NECRON ABYSS 
+26:33:61 
+#1A213D 
+ 
+CHARADON GRANITE 
+70:63:57 
+ 
+#463F39
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MACHARIUS SOLAR 
+ORANGE 
+ 
+ 
+ 
+FENRIS GREY 
+44:67:99 
+#2C4363 
+ 
+ORKHIDE SHADE 
+38:55:45 
+#26372D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IYANDEN DARKSUN 
+173:133:46 
+#AD852E 
+ 
+ADEPTUS BATTLEGREY 
+74:76:88 
+#4A4C58 
+ 
+GRETCHIN GREEN 
+126:105:48 
+#7E6930 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This chart is based on the colour swatches given on GW’s online store. 

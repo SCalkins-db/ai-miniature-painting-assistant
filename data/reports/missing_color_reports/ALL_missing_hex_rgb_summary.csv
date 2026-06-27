@@ -1,0 +1,6 @@
+Company,Total_Rows,Missing,Workbook,Sheet,Excel_Report,Markdown_Report,CSV_Report
+Army Painter,440,168,Army_Painter_registry_26.0.14_speedpaint_doc_enriched.xlsx,ArmyPainter_All,Army_Painter_missing_hex_rgb_report.xlsx,Army_Painter_missing_hex_rgb_report.md,Army_Painter_missing_hex_rgb_report.csv
+Games Workshop,489,4,GW_registry_26.0.11.xlsx,GW_All,Games_Workshop_missing_hex_rgb_report.xlsx,Games_Workshop_missing_hex_rgb_report.md,Games_Workshop_missing_hex_rgb_report.csv
+Vallejo,739,33,Vallejo_registry_26.0.9.xlsx,Vallejo_All,Vallejo_missing_hex_rgb_report.xlsx,Vallejo_missing_hex_rgb_report.md,Vallejo_missing_hex_rgb_report.csv
+AK Interactive,219,0,AK_Interactive_registry_26.0.6.xlsx,AK_All,,,
+Pro Acryl,100,0,Pro_Acryl_registry_26.0.7.xlsx,ProAcryl_All,,,

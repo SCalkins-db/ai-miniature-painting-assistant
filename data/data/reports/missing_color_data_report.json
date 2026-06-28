@@ -1,0 +1,14 @@
+{
+    "report_name": "Missing Hex/RGB Registry Audit",
+    "registry_directory": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\data\\registries_csv",
+    "total_registries_checked": 0,
+    "registries": [],
+    "overall_summary": {
+        "total_rows": 0,
+        "complete": 0,
+        "missing_hex_only": 0,
+        "missing_rgb_only": 0,
+        "missing_hex_and_rgb": 0,
+        "total_problem_rows": 0
+    }
+}

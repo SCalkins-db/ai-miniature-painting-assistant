@@ -4,13 +4,21 @@ import pandas as pd
 
 from src.utils.normalization import build_key
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-REGISTRY_DIR = PROJECT_ROOT / "data" / "registries_csv"
-REPORTS_DIR = PROJECT_ROOT / "data" / "reports"
+DATA_DIR = PROJECT_ROOT / "data"
+REGISTRY_DIR = DATA_DIR / "registries_csv"
+REPORTS_DIR = DATA_DIR / "reports"
 
 OUTPUT_FILE = REPORTS_DIR / "missing_color_data_report.json"
 
+REGISTRIES = [
+    "AK_Interactive_registry_26.0.6.csv",
+    "Army_Painter_registry_26.0.16_air_inheritance_enriched.csv",
+    "GW_registry_26.0.11.csv",
+    "Pro_Acryl_registry_26.0.7.csv",
+    "Vallejo_registry_26.0.9.csv",
+]
 
 REQUIRED_COLUMNS = [
     "Paint_ID",
@@ -122,7 +130,10 @@ def audit_registry(file_path: Path) -> dict:
 def main():
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    registry_files = sorted(REGISTRY_DIR.glob("*.csv"))
+    registry_files = [
+        REGISTRY_DIR / filename
+        for filename in REGISTRIES
+    ]
 
     full_report = {
         "report_name": "Missing Hex/RGB Registry Audit",

@@ -1,0 +1,13 @@
+{
+    "registry_file": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_csv\\Army_Painter_registry_26.0.16_air_inheritance_enriched.csv",
+    "mapping_file": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\mappings\\army_painter_air_to_fanatic.csv",
+    "output_file": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_csv\\Army_Painter_registry_26.0.17_air_mapping_enriched.csv",
+    "report_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\reports\\army_painter_air_mapping_enrichment_report.csv",
+    "filled_count": 2,
+    "already_complete_count": 19,
+    "air_not_found_count": 12,
+    "main_not_found_or_missing_color_count": 53,
+    "conflict_count": 0,
+    "mapping_rows_checked": 86,
+    "report_rows": 86
+}

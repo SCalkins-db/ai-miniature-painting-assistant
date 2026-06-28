@@ -1,0 +1,98 @@
+Row_Index,Paint_ID,Air_Paint_Name,Air_Product_Line,Air_Paint_Type,Original_Hex,Original_RGB,Match_Status,Matched_Paint_ID,Matched_Product_Line,Matched_Paint_Name,Inherited_Hex,Inherited_RGB,Action
+90,AP_AIR_AIRBRUSH_CLEANER,Airbrush Cleaner,Air,Auxiliary,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+91,AP_AIR_AIRBRUSH_MEDIUM,Airbrush Medium,Air,Auxiliary,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+94,AP_AIR_ARCHANGEL_RED,Archangel Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+96,AP_AIR_AZURE_MAGIC,Azure Magic,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+98,AP_AIR_BARREN_YELLOW,Barren Yellow,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+100,AP_AIR_BLUE_FLUX,Blue Flux,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+101,AP_AIR_BOGEY_GREEN,Bogey Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+102,AP_AIR_BRETHIL_BLUSH,Brethil Blush,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+103,AP_AIR_BRIGHT_GOLD,Bright Gold,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+104,AP_AIR_BROODMOTHER_PURPLE,Broodmother Purple,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+105,AP_AIR_BULLWHACK_BROWN,Bullwhack Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+106,AP_AIR_CADRE_GREY,Cadre Grey,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+107,AP_AIR_CANOPY_GREEN,Canopy Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+109,AP_AIR_CHARRED_BONE,Charred Bone,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+110,AP_AIR_CHIMERA_RED,Chimera Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+111,AP_AIR_CONSUL_BLUE,Consul Blue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+112,AP_AIR_COSMIC_DUST,Cosmic Dust,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+113,AP_AIR_COVEN_PURPLE,Coven Purple,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+114,AP_AIR_CROW_HUE,Crow Hue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+116,AP_AIR_CYPRESS_BROWN,Cypress Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+120,AP_AIR_DRAB_GREEN,Drab Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+123,AP_AIR_ELVEN_ARMOUR,Elven Armour,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+125,AP_AIR_ENCARMINE_RED,Encarmine Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+126,AP_AIR_EVIL_CHROME,Evil Chrome,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+127,AP_AIR_EXILE_GREEN,Exile Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+128,AP_AIR_FAIRY_DUST,Fairy Dust,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+129,AP_AIR_FAIRY_PINK,Fairy Pink,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+130,AP_AIR_FERAL_GREEN,Feral Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+131,AP_AIR_FEY_PINK,Fey Pink,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+132,AP_AIR_FEYWILD_GLOW,Feywild Glow,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+134,AP_AIR_GAUSS_GREEN,Gauss Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+135,AP_AIR_GEMSTONE_RED,Gemstone Red,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+136,AP_AIR_GLITTERING_GREEN,Glittering Green,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+137,AP_AIR_GLOSS_VARNISH,Gloss Varnish,Air,Auxiliary,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+138,AP_AIR_GNOME_CHEEKS,Gnome Cheeks,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+140,AP_AIR_GREEDY_GOLD,Greedy Gold,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+142,AP_AIR_GREMLIN_GREEN,Gremlin Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+144,AP_AIR_HAZARDOUS_SMOG,Hazardous Smog,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+145,AP_AIR_HOBGOBLIN_HUE,Hobgoblin Hue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+146,AP_AIR_HOT_PINK,Hot Pink,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+147,AP_AIR_HUSK_BROWN,Husk Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+149,AP_AIR_IMP_YELLOW,Imp Yellow,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+150,AP_AIR_INCURSION_ORANGE,Incursion Orange,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+151,AP_AIR_IONIC_BLUE,Ionic Blue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+152,AP_AIR_IRON_WOLF,Iron Wolf,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+157,AP_AIR_LEVIATHAN_LIGHT,Leviathan Light,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+158,AP_AIR_MAGNOLIA_BROWN,Magnolia Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+159,AP_AIR_MAJESTIC_FORTRESS,Majestic Fortress,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+161,AP_AIR_MATT_BLACK_PRIMER,Matt Black Primer,Air,Primer,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+162,AP_AIR_MATT_GREY_PRIMER,Matt Grey Primer,Air,Primer,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+163,AP_AIR_MATT_VARNISH,Matt Varnish,Air,Auxiliary,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+165,AP_AIR_MATT_WHITE_PRIMER,Matt White Primer,Air,Primer,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+166,AP_AIR_METEOR_ROCK,Meteor Rock,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+167,AP_AIR_MILITIA_GREEN,Militia Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+168,AP_AIR_MOLTEN_ORANGE,Molten Orange,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+171,AP_AIR_NEON_YELLOW,Neon Yellow,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+172,AP_AIR_NIGHT_SCALES,Night Scales,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+173,AP_AIR_NOMAD_FLESH,Nomad Flesh,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+175,AP_AIR_OCEAN_DEPTHS,Ocean Depths,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+176,AP_AIR_OMEGA_BLUE,Omega Blue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+177,AP_AIR_ORANGE_MAGMA,Orange Magma,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+178,AP_AIR_PESTILENT_FLESH,Pestilent Flesh,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+179,AP_AIR_PHANTASMAL_BLUE,Phantasmal Blue,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+181,AP_AIR_PLATE_MAIL_METAL,Plate Mail Metal,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+182,AP_AIR_POTION_GREEN,Potion Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+183,AP_AIR_PSYCHIC_SHOCK,Psychic Shock,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+185,AP_AIR_RAVEN_BLACK,Raven Black,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+186,AP_AIR_RAWHIDE_BROWN,Rawhide Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+187,AP_AIR_REBEL_RED,Rebel Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+188,AP_AIR_REGIMENT_GREY,Regiment Grey,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+189,AP_AIR_ROUGH_IRON,Rough Iron,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+191,AP_AIR_RUINOUS_SPELL,Ruinous Spell,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+192,AP_AIR_SAFETY_ORANGE,Safety Orange,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+193,AP_AIR_SAPPHIRE_GEM,Sapphire Gem,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+194,AP_AIR_SATIN_VARNISH,Satin Varnish,Air,Auxiliary,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+195,AP_AIR_SAVAGE_GREEN,Savage Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+196,AP_AIR_SHARK_WHITE,Shark White,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+197,AP_AIR_SHINING_SILVER,Shining Silver,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+199,AP_AIR_STORM_WOLF,Storm Wolf,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+200,AP_AIR_TAINTED_GOLD,Tainted Gold,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+201,AP_AIR_TALISMAN_PURPLE,Talisman Purple,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+202,AP_AIR_THUNDER_STORM,Thunder Storm,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+204,AP_AIR_TRAITOR_RED,Traitor Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+205,AP_AIR_TRUE_COPPER,True Copper,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+206,AP_AIR_TWILIGHT_SKY,Twilight Sky,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+208,AP_AIR_UNDERGROWTH_GREEN,Undergrowth Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+209,AP_AIR_UNFORGIVEN_GREEN,Unforgiven Green,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+211,AP_AIR_VIOLET_VOLT,Violet Volt,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+212,AP_AIR_VIPER_BROWN,Viper Brown,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+214,AP_AIR_WEAPON_BRONZE,Weapon Bronze,Air,Air Metallic/Effect,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+215,AP_AIR_WILDLING_FLESH,Wildling Flesh,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+216,AP_AIR_WITCHBANE_PLUM,Witchbane Plum,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+219,AP_AIR_WYRMLING_RED,Wyrmling Red,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+220,AP_AIR_YELLOW_DUNE,Yellow Dune,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+221,AP_AIR_YETI_WHITE,Yeti White,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+222,AP_AIR_ZEPHYR_PINK,Zephyr Pink,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review
+223,AP_AIR_ZOMBIE_FLESH,Zombie Flesh,Air,Air,,,NO_MAIN_PAINT_NAME_MATCH,,,,,,Needs review

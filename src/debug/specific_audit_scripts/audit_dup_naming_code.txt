@@ -1,0 +1,17 @@
+    problem_names = ["BLUE_GREEN", "EMPERORS_CHILDREN", "NURGLES_ROT"]
+
+    print("\nSpecific Duplicate Investigation")
+    for name in problem_names:
+        print(f"\n{name}")
+        print(
+            df[df["Paint_ID"].str.contains(name, case=False, na=False)]
+            [["Paint_ID", "Company", "Brand", "Product_Line", "Paint_Name", "Hex", "RGB", "Paint_Type", "Status",
+              "Source", "Notes"]]
+        )
+
+    print(df[df["Canonical_Paint_Key"] == "games workshop|layer|emperors children"])
+    print(df[df["Canonical_Paint_Key"] == "games workshop|technical|nurgles rot"])
+
+    if df["Paint_ID"].duplicated().sum() > 0:
+        # show duplicate investigation
+        pass

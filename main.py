@@ -1,4 +1,5 @@
 from src.core.paint_database import PaintDatabase
+from src.core.inventory import InventoryManager
 
 
 def main():
@@ -15,6 +16,7 @@ def main():
 
     print("\nSearch Example: Kantor Blue")
     print(db.search_by_paint_name("Kantor Blue"))
+
 
 
 if __name__ == "__main__":

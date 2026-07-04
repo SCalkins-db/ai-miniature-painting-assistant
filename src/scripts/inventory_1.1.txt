@@ -1,6 +1,14 @@
+import sys
+from pathlib import Path
+
 import pandas as pd
 
-from src.core.paths import DATA_DIR, PROJECT_ROOT
+from src.core.paths import PROJECT_ROOT, DATA_DIR
+from src.utils.normalization import canonicalize
+
+from pathlib import Path
+import pandas as pd
+
 from src.utils.normalization import canonicalize
 
 
@@ -32,6 +40,7 @@ class InventoryManager:
 
     def add_paint(self, paint_id, qty=1):
         paint_id = str(paint_id).strip()
+
         existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
 
         if existing.any():
@@ -44,6 +53,7 @@ class InventoryManager:
                 "Wishlist": False,
                 "Qty": qty,
             }
+
             self.inventory_df = pd.concat(
                 [self.inventory_df, pd.DataFrame([new_row])],
                 ignore_index=True,
@@ -51,24 +61,44 @@ class InventoryManager:
 
         self.save_inventory()
 
+    def has_paint(self, paint_id):
+        paint_id = str(paint_id).strip()
+
+        existing = (
+                self.inventory_df["Paint_ID"]
+                .astype(str)
+                .str.strip()
+                == paint_id
+        )
+
+        if not existing.any():
+            return False
+
+        return bool(self.inventory_df.loc[existing, "Owned"].iloc[0])
+
     def remove_paint(self, paint_id):
         paint_id = str(paint_id).strip()
-        existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
+
+        existing = (
+                    self.inventory_df["Paint_ID"]
+                    .astype(str)
+                    .str.strip()
+                    == paint_id
+        )
+
+    def validate_inventory_ids(self, master_df):
+        valid_ids = set(master_df["Paint_ID"].astype(str).str.strip())
+        inventory_ids = self.inventory_df["Paint_ID"].astype(str).str.strip()
+
+        invalid_df = self.inventory_df[~inventory_ids.isin(valid_ids)].copy()
+
+        return invalid_df
 
         if existing.any():
             self.inventory_df.loc[existing, "Owned"] = False
             self.inventory_df.loc[existing, "Qty"] = 0
 
         self.save_inventory()
-
-    def has_paint(self, paint_id):
-        paint_id = str(paint_id).strip()
-        existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
-
-        if not existing.any():
-            return False
-
-        return bool(self.inventory_df.loc[existing, "Owned"].iloc[0])
 
     def update_quantity(self, paint_id, qty):
         paint_id = str(paint_id).strip()
@@ -80,35 +110,6 @@ class InventoryManager:
 
         self.save_inventory()
 
-    def add_to_wishlist(self, paint_id):
-        paint_id = str(paint_id).strip()
-        existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
-
-        if existing.any():
-            self.inventory_df.loc[existing, "Wishlist"] = True
-        else:
-            new_row = {
-                "Paint_ID": paint_id,
-                "Owned": False,
-                "Wishlist": True,
-                "Qty": 0,
-            }
-            self.inventory_df = pd.concat(
-                [self.inventory_df, pd.DataFrame([new_row])],
-                ignore_index=True,
-            )
-
-        self.save_inventory()
-
-    def remove_from_wishlist(self, paint_id):
-        paint_id = str(paint_id).strip()
-        existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
-
-        if existing.any():
-            self.inventory_df.loc[existing, "Wishlist"] = False
-
-        self.save_inventory()
-
     def toggle_owned(self, paint_id):
         paint_id = str(paint_id).strip()
         existing = self.inventory_df["Paint_ID"].astype(str).str.strip() == paint_id
@@ -116,13 +117,6 @@ class InventoryManager:
         if existing.any():
             current_value = bool(self.inventory_df.loc[existing, "Owned"].iloc[0])
             self.inventory_df.loc[existing, "Owned"] = not current_value
-
-            if not current_value:
-                self.inventory_df.loc[existing, "Qty"] = max(
-                    int(self.inventory_df.loc[existing, "Qty"].iloc[0]), 1
-                )
-            else:
-                self.inventory_df.loc[existing, "Qty"] = 0
         else:
             new_row = {
                 "Paint_ID": paint_id,
@@ -130,6 +124,7 @@ class InventoryManager:
                 "Wishlist": False,
                 "Qty": 1,
             }
+
             self.inventory_df = pd.concat(
                 [self.inventory_df, pd.DataFrame([new_row])],
                 ignore_index=True,
@@ -151,6 +146,7 @@ class InventoryManager:
                 "Wishlist": True,
                 "Qty": 0,
             }
+
             self.inventory_df = pd.concat(
                 [self.inventory_df, pd.DataFrame([new_row])],
                 ignore_index=True,
@@ -163,28 +159,6 @@ class InventoryManager:
 
     def get_wishlist(self):
         return self.inventory_df[self.inventory_df["Wishlist"] == True]
-
-    def validate_inventory_ids(self, master_df):
-        valid_ids = set(master_df["Paint_ID"].astype(str).str.strip())
-        inventory_ids = self.inventory_df["Paint_ID"].astype(str).str.strip()
-
-        return self.inventory_df[~inventory_ids.isin(valid_ids)].copy()
-
-    def get_missing_paints(self, paint_id_list):
-        missing_rows = []
-
-        for paint_id in paint_id_list:
-            paint_id = str(paint_id).strip()
-
-            if not self.has_paint(paint_id):
-                missing_rows.append(
-                    {
-                        "Paint_ID": paint_id,
-                        "Owned": False,
-                    }
-                )
-
-        return pd.DataFrame(missing_rows)
 
     def get_inventory_details(self, master_df):
         return self.inventory_df.merge(

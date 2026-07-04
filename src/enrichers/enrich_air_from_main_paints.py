@@ -1,19 +1,28 @@
+# Allow direct execution from project root
+import sys
 from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 import json
 import re
 import pandas as pd
 
+from src.core.paths import PROJECT_ROOT, SRC_DIR, DATA_DIR, REGISTRIES_CSV_DIR, REGISTRIES_XLSX_DIR, MAPPINGS_DIR, REPORTS_DIR, SOURCE_DOCUMENTS_DIR, AUDIT_DIR, CSV_DIR, XLSX_DIR, SOURCE_DOCS_DIR
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+ARCHIVE_DIR = REGISTRIES_CSV_DIR / "archive"
 
-CSV_DIR = PROJECT_ROOT / "data" / "registries_csv"
-XLSX_DIR = PROJECT_ROOT / "data" / "registries_xlsx"
-REPORTS_DIR = PROJECT_ROOT / "data" / "reports"
+INPUT_CSV = REGISTRIES_CSV_DIR / "archive" / "Army_Painter_registry_26.0.11_aligned.csv"
 
-INPUT_CSV = CSV_DIR / "Army_Painter_registry_26.0.11_aligned.csv"
-
-OUTPUT_CSV = CSV_DIR / "Army_Painter_registry_26.0.16_air_inheritance_enriched.csv"
-OUTPUT_XLSX = XLSX_DIR / "Army_Painter_registry_26.0.16_air_inheritance_enriched.xlsx"
+OUTPUT_CSV = REGISTRIES_CSV_DIR / "Army_Painter_registry_26.0.16_air_inheritance_enriched.csv"
+OUTPUT_XLSX = REGISTRIES_XLSX_DIR / "Army_Painter_registry_26.0.16_air_inheritance_enriched.xlsx"
 
 REPORT_CSV = REPORTS_DIR / "army_painter_air_inheritance_report.csv"
 REPORT_JSON = REPORTS_DIR / "army_painter_air_inheritance_report.json"
@@ -141,7 +150,7 @@ def choose_best_match(matches):
 
 def main():
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)
-    XLSX_DIR.mkdir(parents=True, exist_ok=True)
+    REGISTRIES_XLSX_DIR.mkdir(parents=True, exist_ok=True)
 
     if not INPUT_CSV.exists():
         raise FileNotFoundError(f"Missing input CSV: {INPUT_CSV}")

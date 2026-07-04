@@ -1,7 +1,21 @@
+import json
+# Allow direct execution from project root or with python -m
+import sys
+from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 from pathlib import Path
 import pandas as pd
 
 from src.utils.normalization import build_key
+from src.core.paths import REGISTRY_MANIFEST
 
 
 FINAL_COLUMNS = [
@@ -19,11 +33,10 @@ FINAL_COLUMNS = [
 ]
 
 
-def load_registries(registry_folder="data/registries_csv"):
-    project_root = Path(__file__).resolve().parent.parent
+def load_registries(registry_folder: str = "data/registries_csv"):
+    project_root = Path(__file__).resolve().parents[2]
     registry_path = project_root / registry_folder
-
-    csv_files = sorted(registry_path.glob("*.csv"))
+    csv_files = sorted([p for p in registry_path.glob("*.csv") if not _manifest_active_csv_names() or p.name in _manifest_active_csv_names()])
 
     if not csv_files:
         raise FileNotFoundError(
@@ -67,3 +80,20 @@ def load_registries(registry_folder="data/registries_csv"):
     )
 
     return master_df
+
+
+
+def _manifest_active_csv_names() -> set[str]:
+    if not REGISTRY_MANIFEST.exists():
+        return set()
+    try:
+        manifest = json.loads(REGISTRY_MANIFEST.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+
+    active = set()
+    for company_data in manifest.values():
+        filename = company_data.get("active_csv")
+        if filename:
+            active.add(filename)
+    return active

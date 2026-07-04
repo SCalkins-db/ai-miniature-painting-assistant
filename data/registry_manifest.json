@@ -1,0 +1,27 @@
+{
+    "AK Interactive": {
+        "version": "26.0.6",
+        "active_csv": "AK_Interactive_registry_26.0.6.csv",
+        "active_xlsx": "AK_Interactive_registry_26.0.6.xlsx"
+    },
+    "Army Painter": {
+        "version": "26.0.17",
+        "active_csv": "Army_Painter_registry_26.0.17.csv",
+        "active_xlsx": "Army_Painter_registry_26.0.17.xlsx"
+    },
+    "Games Workshop": {
+        "version": "26.0.11",
+        "active_csv": "Games_Workshop_registry_26.0.11.csv",
+        "active_xlsx": "Games_Workshop_registry_26.0.11.xlsx"
+    },
+    "Monument Hobbies": {
+        "version": "26.0.7",
+        "active_csv": "Monument_Hobbies_registry_26.0.7.csv",
+        "active_xlsx": "Monument_Hobbies_registry_26.0.7.xlsx"
+    },
+    "Vallejo": {
+        "version": "26.0.9",
+        "active_csv": "Vallejo_registry_26.0.9.csv",
+        "active_xlsx": "Vallejo_registry_26.0.9.xlsx"
+    }
+}

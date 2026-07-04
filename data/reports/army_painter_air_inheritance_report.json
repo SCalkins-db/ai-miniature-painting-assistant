@@ -1,6 +1,6 @@
 {
     "script": "enrich_air_from_main_paints.py",
-    "input_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_csv\\Army_Painter_registry_26.0.11_aligned.csv",
+    "input_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_csv\\archive\\Army_Painter_registry_26.0.11_aligned.csv",
     "output_csv": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_csv\\Army_Painter_registry_26.0.16_air_inheritance_enriched.csv",
     "output_xlsx": "C:\\Users\\DEVBOXSC\\ai-miniature-painting-assistant\\data\\registries_xlsx\\Army_Painter_registry_26.0.16_air_inheritance_enriched.xlsx",
     "air_rows_filled": 0,

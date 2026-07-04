@@ -1,17 +1,30 @@
+# Allow direct execution from project root
+import sys
 from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 import json
 import re
 import pandas as pd
 
+from src.core.registry_versions import get_active_registry, make_output_paths, set_active_registry
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+from src.core.paths import PROJECT_ROOT, SRC_DIR, DATA_DIR, REGISTRIES_CSV_DIR, REGISTRIES_XLSX_DIR, MAPPINGS_DIR, REPORTS_DIR, SOURCE_DOCUMENTS_DIR, AUDIT_DIR, CSV_DIR, XLSX_DIR, SOURCE_DOCS_DIR
 
-REGISTRY_FILE = PROJECT_ROOT / "data" / "registries_csv" / "Army_Painter_registry_26.0.16_air_inheritance_enriched.csv"
-MAPPING_FILE = PROJECT_ROOT / "data" / "mappings" / "army_painter_air_to_fanatic.csv"
+REGISTRY_FILE = get_active_registry("Army Painter", "csv")
+MAPPING_FILE = MAPPINGS_DIR / "army_painter_air_to_fanatic.csv"
 
-OUTPUT_FILE = PROJECT_ROOT / "data" / "registries_csv" / "Army_Painter_registry_26.0.17_air_mapping_enriched.csv"
-REPORT_CSV = PROJECT_ROOT / "data" / "reports" / "army_painter_air_mapping_enrichment_report.csv"
-REPORT_JSON = PROJECT_ROOT / "data" / "reports" / "army_painter_air_mapping_enrichment_report.json"
+OUTPUT_FILE, OUTPUT_XLSX = make_output_paths("Army Painter")
+REPORT_CSV = REPORTS_DIR / "army_painter_air_mapping_enrichment_report.csv"
+REPORT_JSON = REPORTS_DIR / "army_painter_air_mapping_enrichment_report.json"
 
 
 def is_blank(value) -> bool:
@@ -227,13 +240,26 @@ def main():
 
     df.to_csv(OUTPUT_FILE, index=False)
 
+    with pd.ExcelWriter(OUTPUT_XLSX, engine="openpyxl") as writer:
+        df.to_excel(writer, index=False, sheet_name="Registry")
+
+        report_df = pd.DataFrame(report_rows)
+        report_df.to_excel(
+            writer,
+            index=False,
+            sheet_name="Mapping_Report"
+        )
+
     report_df = pd.DataFrame(report_rows)
     report_df.to_csv(REPORT_CSV, index=False)
+
+    set_active_registry("Army Painter", OUTPUT_FILE, OUTPUT_XLSX, archive_previous=True)
 
     summary = {
         "registry_file": str(REGISTRY_FILE),
         "mapping_file": str(MAPPING_FILE),
         "output_file": str(OUTPUT_FILE),
+        "output_xlsx": str(OUTPUT_XLSX),
         "report_csv": str(REPORT_CSV),
         "filled_count": filled_count,
         "already_complete_count": already_complete_count,
@@ -257,7 +283,9 @@ def main():
     print(f"Conflicts: {conflict_count}")
     print()
     print(f"Output: {OUTPUT_FILE}")
-    print(f"Report CSV: {REPORT_CSV}")
+    print(f"Output CSV : {OUTPUT_FILE}")
+    print(f"Output XLSX: {OUTPUT_XLSX}")
+    print(f"Report CSV : {REPORT_CSV}")
     print(f"Report JSON: {REPORT_JSON}")
 
 

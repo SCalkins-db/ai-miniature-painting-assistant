@@ -1,10 +1,34 @@
+# Allow direct execution from project root or with python -m
+import sys
+from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
+# Allow direct execution from the project root, e.g. python src/debug/script.py
+import sys
+from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 from pathlib import Path
 import re
 import pandas as pd
 from docx import Document
+from src.core.paths import PROJECT_ROOT, SRC_DIR, DATA_DIR, REGISTRIES_CSV_DIR, REGISTRIES_XLSX_DIR, MAPPINGS_DIR, REPORTS_DIR, SOURCE_DOCUMENTS_DIR, AUDIT_DIR, CSV_DIR, XLSX_DIR, SOURCE_DOCS_DIR
 
 
-PROJECT_ROOT = Path(__file__).parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 REGISTRY_DIR = DATA_DIR / "registries_xlsx"
 DOC_DIR = DATA_DIR / "comparison_docs"

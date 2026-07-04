@@ -1,6 +1,6 @@
 # Army Painter Air Inheritance Report
 
-Input CSV: `C:\Users\DEVBOXSC\ai-miniature-painting-assistant\data\registries_csv\Army_Painter_registry_26.0.11_aligned.csv`
+Input CSV: `C:\Users\DEVBOXSC\ai-miniature-painting-assistant\data\registries_csv\archive\Army_Painter_registry_26.0.11_aligned.csv`
 Output CSV: `C:\Users\DEVBOXSC\ai-miniature-painting-assistant\data\registries_csv\Army_Painter_registry_26.0.16_air_inheritance_enriched.csv`
 Output XLSX: `C:\Users\DEVBOXSC\ai-miniature-painting-assistant\data\registries_xlsx\Army_Painter_registry_26.0.16_air_inheritance_enriched.xlsx`
 

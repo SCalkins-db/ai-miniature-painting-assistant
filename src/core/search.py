@@ -1,3 +1,15 @@
+# Allow direct execution from project root or with python -m
+import sys
+from pathlib import Path
+
+_project_root = Path(__file__).resolve()
+while _project_root.parent != _project_root:
+    if (_project_root / "src").exists() and (_project_root / "data").exists():
+        break
+    _project_root = _project_root.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
 import pandas as pd
 
 from src.utils.normalization import canonicalize

@@ -1,0 +1,26 @@
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+SRC_DIR = PROJECT_ROOT / "src"
+DATA_DIR = PROJECT_ROOT / "data"
+DOCS_DIR = PROJECT_ROOT / "docs"
+EXPORTS_DIR = PROJECT_ROOT / "exports"
+
+REGISTRIES_CSV_DIR = DATA_DIR / "registries_csv"
+REGISTRIES_XLSX_DIR = DATA_DIR / "registries_xlsx"
+CSV_ARCHIVE_DIR = REGISTRIES_CSV_DIR / "archive"
+XLSX_ARCHIVE_DIR = REGISTRIES_XLSX_DIR / "archive"
+
+MAPPINGS_DIR = DATA_DIR / "mappings"
+REPORTS_DIR = DATA_DIR / "reports"
+SOURCE_DOCUMENTS_DIR = DATA_DIR / "source_documents"
+
+REGISTRY_MANIFEST = DATA_DIR / "registry_manifest.json"
+
+# Backward-compatible aliases
+REGISTRY_CSV = REGISTRIES_CSV_DIR
+REGISTRY_XLSX = REGISTRIES_XLSX_DIR
+CSV_DIR = REGISTRIES_CSV_DIR
+XLSX_DIR = REGISTRIES_XLSX_DIR
+SOURCE_DOCS_DIR = SOURCE_DOCUMENTS_DIR

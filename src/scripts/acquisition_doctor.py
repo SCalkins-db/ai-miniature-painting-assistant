@@ -8,8 +8,11 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 REQUIRED_PATHS = [
     PROJECT_ROOT / "src" / "acquisition",
+    PROJECT_ROOT / "incoming" / "zips",
     PROJECT_ROOT / "incoming" / "videos",
     PROJECT_ROOT / "incoming" / "screenshots",
+    PROJECT_ROOT / "incoming" / "extracted",
+    PROJECT_ROOT / "archive" / "zips",
     PROJECT_ROOT / "archive" / "videos",
     PROJECT_ROOT / "archive" / "screenshots",
     PROJECT_ROOT / "review",
@@ -34,16 +37,18 @@ def main():
         status = "PASS" if exists else "FAIL"
         print(f"{status:<6} {path}")
 
-    print("\nSCAN CHECK")
+    print("\nINGESTION CHECK")
     print("-" * 60)
 
     manager = ImportManager()
     results = manager.run()
 
-    print(f"Files found:        {results['found']}")
-    print(f"New queued:         {results['new']}")
-    print(f"Duplicates skipped: {results['duplicates']}")
-    print(f"Review queued:      {results['queued_for_review']}")
+    print(f"ZIPs extracted:      {results['zips_extracted']}")
+    print(f"Media files found:   {results['found']}")
+    print(f"New queued:          {results['new']}")
+    print(f"Duplicates skipped:  {results['duplicates']}")
+    print(f"Review queued:       {results['queued_for_review']}")
+    print(f"Archived copies:     {results['archived']}")
 
     print("\n" + "=" * 60)
 

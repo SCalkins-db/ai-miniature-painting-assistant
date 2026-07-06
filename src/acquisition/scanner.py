@@ -34,4 +34,4 @@ class MediaScanner:
                 "file_type": file_type,
             })
 
-        return files
+        return sorted(files, key=lambda item: str(item["path"]).lower())

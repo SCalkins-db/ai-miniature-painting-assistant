@@ -1,0 +1,2 @@
+Workflow_ID,Superfaction,Faction,Unit,Character,Workflow_File,Status,Verified,Notes
+UM_INTERCESSORS_TEST,Imperium,Ultramarines,Intercessors,,data/workflows/imperium/ultramarines/intercessors_test.csv,Draft,No,Test workflow

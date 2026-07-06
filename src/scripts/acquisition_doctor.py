@@ -1,10 +1,33 @@
 from pathlib import Path
+import pandas as pd
 
-from src.acquisition.import_manager import ImportManager
+
+# ============================================================
+# ACQUISITION DOCTOR
+# ============================================================
+#
+# PURPOSE
+# -------
+# Performs a READ-ONLY health check of the acquisition system.
+#
+# IMPORTANT
+# ---------
+# This script MUST NEVER:
+#
+#   - Extract ZIP files
+#   - Process videos
+#   - Hash files
+#   - Queue files
+#   - Run OCR
+#   - Archive files
+#   - Modify CSVs
+#
+# It ONLY reports the current health of the acquisition system.
+#
+# ============================================================
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-
 
 REQUIRED_PATHS = [
     PROJECT_ROOT / "src" / "acquisition",
@@ -20,42 +43,123 @@ REQUIRED_PATHS = [
     PROJECT_ROOT / "data" / "imports",
 ]
 
+IMPORT_LOG = PROJECT_ROOT / "data" / "imports" / "import_log.csv"
+REVIEW_QUEUE = PROJECT_ROOT / "review" / "review_queue.csv"
+
+MEDIA_TYPES = {
+    ".zip": "zip",
+    ".mp4": "video",
+    ".mov": "video",
+    ".m4v": "video",
+    ".avi": "video",
+    ".png": "image",
+    ".jpg": "image",
+    ".jpeg": "image",
+    ".webp": "image",
+}
+
+
+def count_media(folder: Path):
+
+    counts = {
+        "zip": 0,
+        "video": 0,
+        "image": 0,
+        "other": 0,
+    }
+
+    if not folder.exists():
+        return counts
+
+    for item in folder.rglob("*"):
+
+        if not item.is_file():
+            continue
+
+        counts[
+            MEDIA_TYPES.get(item.suffix.lower(), "other")
+        ] += 1
+
+    return counts
+
+
+def csv_rows(path):
+
+    if not path.exists():
+        return 0
+
+    try:
+        return len(pd.read_csv(path))
+    except Exception:
+        return 0
+
 
 def main():
+
     print("=" * 60)
     print("ACQUISITION DOCTOR")
     print("=" * 60)
 
-    path_results = []
-
     print("\nPATH CHECKS")
     print("-" * 60)
 
-    for path in REQUIRED_PATHS:
-        exists = path.exists()
-        path_results.append(exists)
-        status = "PASS" if exists else "FAIL"
-        print(f"{status:<6} {path}")
+    ok = True
 
-    print("\nINGESTION CHECK")
+    for path in REQUIRED_PATHS:
+
+        exists = path.exists()
+
+        print(f'{"PASS" if exists else "FAIL":<6} {path}')
+
+        ok &= exists
+
+    print("\nREAD ONLY SOURCE COUNTS")
     print("-" * 60)
 
-    manager = ImportManager()
-    results = manager.run()
+    total = {
+        "zip": 0,
+        "video": 0,
+        "image": 0,
+        "other": 0,
+    }
 
-    print(f"ZIPs extracted:      {results['zips_extracted']}")
-    print(f"Media files found:   {results['found']}")
-    print(f"New queued:          {results['new']}")
-    print(f"Duplicates skipped:  {results['duplicates']}")
-    print(f"Review queued:       {results['queued_for_review']}")
-    print(f"Archived copies:     {results['archived']}")
+    for folder in [
+        PROJECT_ROOT / "incoming",
+        PROJECT_ROOT / "archive",
+    ]:
+
+        print(f"\n{folder}")
+
+        counts = count_media(folder)
+
+        print(f'ZIP Files     : {counts["zip"]}')
+        print(f'Video Files   : {counts["video"]}')
+        print(f'Image Files   : {counts["image"]}')
+        print(f'Other Files   : {counts["other"]}')
+
+        for key in total:
+            total[key] += counts[key]
+
+    print("\nIMPORT STATE")
+    print("-" * 60)
+
+    print(f"Import Log Rows : {csv_rows(IMPORT_LOG)}")
+    print(f"Review Queue    : {csv_rows(REVIEW_QUEUE)}")
+
+    print("\nTOTAL MEDIA")
+    print("-" * 60)
+
+    print(f'ZIP Files     : {total["zip"]}')
+    print(f'Video Files   : {total["video"]}')
+    print(f'Image Files   : {total["image"]}')
+    print(f'Other Files   : {total["other"]}')
 
     print("\n" + "=" * 60)
 
-    if all(path_results):
-        print("ACQUISITION STATUS: PASS")
+    if ok:
+        print("ACQUISITION STATUS : PASS")
     else:
-        print("ACQUISITION STATUS: FAIL")
+        print("ACQUISITION STATUS : FAIL")
 
     print("=" * 60)
 

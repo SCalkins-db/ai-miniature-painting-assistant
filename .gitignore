@@ -217,3 +217,30 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .idea/
+
+# Pipeline runtime data
+incoming/
+archive/
+
+# Workflow processing output
+data/workflows/imported/
+data/workflows/resolver/
+
+# Generated reports
+exports/reports/
+
+# Runtime logs
+data/imports/image_processing_log.csv
+data/imports/video_processing_log.csv
+
+# Local database changes
+database/miniature_painting.db
+
+# Generated review files
+review/review_queue.csv
+
+# Generated imports
+data/imports/import_log.csv
+
+# Temporary accidental files
+tatus --short

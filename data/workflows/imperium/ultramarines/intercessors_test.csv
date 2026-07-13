@@ -1,4 +1,0 @@
-Workflow_ID,Superfaction,Faction,Unit,Model_Area,Area_Order,Step_Order,Technique,Paint_ID,Paint_Name,Purpose,Optional,Notes
-UM_INTERCESSORS_TEST,Imperium,Ultramarines,Intercessors,Armor,1,1,Basecoat,GW_BASE_MACRAGGE_BLUE,Macragge Blue,Main armor,No,Test
-UM_INTERCESSORS_TEST,Imperium,Ultramarines,Intercessors,Armor,1,2,Shade,GW_SHADE_NULN_OIL,Nuln Oil,Recess shade,No,Test
-UM_INTERCESSORS_TEST,Imperium,Ultramarines,Intercessors,Armor,1,3,Highlight,GW_LAYER_CALGAR_BLUE,Calgar Blue,Edge highlight,Yes,Test

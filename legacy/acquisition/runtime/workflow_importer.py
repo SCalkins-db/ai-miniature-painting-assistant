@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-from src.database.database_manager import DatabaseManager
+from src.gui.database import DatabaseManager
 
 
 class WorkflowImporter:

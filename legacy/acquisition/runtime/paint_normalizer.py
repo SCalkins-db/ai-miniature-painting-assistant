@@ -1,7 +1,7 @@
 import difflib
 import pandas as pd
 
-from src.database.database_paths import PROJECT_ROOT
+from src.gui.database.database_paths import PROJECT_ROOT
 
 
 REGISTRY_CSV_DIR = PROJECT_ROOT / "data" / "registries_csv"

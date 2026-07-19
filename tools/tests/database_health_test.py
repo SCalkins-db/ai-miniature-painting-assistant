@@ -1,5 +1,5 @@
-from src.database.database_statistics import get_table_counts
-from src.database.database_integrity import run_integrity_checks
+from src.gui.database.database_statistics import get_table_counts
+from src.gui.database import run_integrity_checks
 
 
 print("=" * 60)

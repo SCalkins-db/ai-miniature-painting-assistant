@@ -7,7 +7,7 @@ from tkinter import messagebox, ttk
 from typing import Any
 
 from src.database.workflow_repository import WorkflowRepository
-from src.gui.workflow_widgets import BreadcrumbBar, PaintPopup, WorkflowView
+from src.gui.workflow_widgets import BreadcrumbBar, InventoryWindow, PaintInspector, WorkflowView
 
 
 class PaintingAssistantApp(tk.Tk):
@@ -47,6 +47,8 @@ class PaintingAssistantApp(tk.Tk):
 
         self.workflow_display_to_id: dict[str, str] = {}
         self.workflow_id_to_record: dict[str, dict[str, Any]] = {}
+        self.paint_inspector: PaintInspector | None = None
+        self.inventory_window: InventoryWindow | None = None
 
         self._configure_styles()
         self._build_layout()
@@ -81,6 +83,18 @@ class PaintingAssistantApp(tk.Tk):
         style.configure("PopupValue.TLabel", background=p["panel"], foreground=p["text"], font=("Segoe UI", 10))
         style.configure("AreaHeader.TButton", background=p["panel"], foreground=p["text"], font=("Segoe UI", 12, "bold"), anchor="w", padding=(12, 10), borderwidth=0)
         style.map("AreaHeader.TButton", background=[("active", p["field"])], foreground=[("active", p["text"])])
+        style.configure("InspectorCard.TFrame", background=p["card"], relief="solid", borderwidth=1)
+        style.configure("AreaTitleCard.TLabel", background=p["card"], foreground=p["text"], font=("Segoe UI", 12, "bold"))
+        style.configure("InspectorKey.TLabel", background=p["card"], foreground=p["muted"], font=("Segoe UI", 10, "bold"))
+        style.configure("InspectorValue.TLabel", background=p["card"], foreground=p["text"], font=("Segoe UI", 10))
+        style.configure("InspectorValueCard.TLabel", background=p["card"], foreground=p["text"], font=("Segoe UI", 10))
+        style.configure("InspectorMutedCard.TLabel", background=p["card"], foreground=p["muted"], font=("Segoe UI", 10))
+        style.configure("Primary.TButton", background=p["accent"], foreground="#101216", font=("Segoe UI", 10, "bold"), padding=(14, 8), borderwidth=0)
+        style.map("Primary.TButton", background=[("active", "#A2B8CD"), ("pressed", "#7894AF")])
+        style.configure("Secondary.TButton", background=p["field"], foreground=p["text"], font=("Segoe UI", 10), padding=(14, 8), borderwidth=1)
+        style.map("Secondary.TButton", background=[("active", p["card"]), ("pressed", p["background"])])
+        style.configure("Toolbar.TButton", background=p["field"], foreground=p["text"], font=("Segoe UI", 10, "bold"), padding=(13, 8), borderwidth=1)
+        style.map("Toolbar.TButton", background=[("active", p["card"]), ("pressed", p["background"])])
         style.configure("Dark.TCombobox", fieldbackground=p["field"], background=p["field"], foreground=p["text"], arrowcolor=p["text"], bordercolor=p["border"], padding=7)
         style.map("Dark.TCombobox", fieldbackground=[("readonly", p["field"]), ("disabled", p["panel"])], foreground=[("readonly", p["text"]), ("disabled", "#6F747C")])
         self.option_add("*TCombobox*Listbox.background", p["field"])
@@ -118,13 +132,38 @@ class PaintingAssistantApp(tk.Tk):
     def _build_selector_panel(self, parent: ttk.Frame) -> None:
         panel = ttk.Frame(parent, padding=18, style="Panel.TFrame")
         panel.grid(row=1, column=0, sticky="ew", pady=(0, 18))
-        for column in range(5):
-            panel.columnconfigure(column, weight=1)
+
+        # The selector row stays compact and yields space to application tools.
+        panel.columnconfigure(0, weight=1, minsize=125)
+        panel.columnconfigure(1, weight=1, minsize=145)
+        panel.columnconfigure(2, weight=1, minsize=135)
+        panel.columnconfigure(3, weight=2, minsize=220)
+        panel.columnconfigure(4, weight=1, minsize=145)
+        panel.columnconfigure(5, weight=0, minsize=220)
+
         self.superfaction_combo = self._create_selector(panel, 0, "Superfaction", self.superfaction_var, True)
         self.faction_combo = self._create_selector(panel, 1, "Faction", self.faction_var, False)
         self.subfaction_combo = self._create_selector(panel, 2, "Subfaction", self.subfaction_var, False)
         self.unit_combo = self._create_selector(panel, 3, "Unit", self.unit_var, False)
         self.workflow_combo = self._create_selector(panel, 4, "Workflow", self.workflow_var, False)
+
+        tools = ttk.Frame(panel, style="Panel.TFrame")
+        tools.grid(row=0, column=5, sticky="se", padx=(14, 0))
+        ttk.Label(tools, text="Tools", style="FieldLabel.TLabel").pack(anchor="w", pady=(0, 6))
+        button_row = ttk.Frame(tools, style="Panel.TFrame")
+        button_row.pack(fill="x")
+        ttk.Button(
+            button_row,
+            text="Browse Paints",
+            style="Toolbar.TButton",
+            command=self._browse_paints,
+        ).pack(side="left", padx=(0, 8))
+        ttk.Button(
+            button_row,
+            text="Inventory",
+            style="Toolbar.TButton",
+            command=self._show_inventory,
+        ).pack(side="left")
 
     def _create_selector(self, parent: ttk.Frame, column: int, label: str, variable: tk.StringVar, enabled: bool) -> ttk.Combobox:
         container = ttk.Frame(parent, style="Panel.TFrame")
@@ -227,29 +266,83 @@ class PaintingAssistantApp(tk.Tk):
         display_name = self.workflow_var.get().strip()
         workflow_id = self.workflow_display_to_id.get(display_name)
         unit = self.unit_var.get().strip()
+
         self._update_breadcrumb()
+
         if not workflow_id:
             self.workflow_title_var.set("Select a workflow to begin.")
             self.workflow_view.show_placeholder()
             return
+
         self.workflow_title_var.set(unit)
+
         try:
-            self.workflow_view.display_steps(self.repository.get_workflow_steps(workflow_id))
+            steps = self.repository.get_workflow_steps(workflow_id)
+            self.workflow_view.display_steps(steps)
+
+            # Move focus away from the combobox.
+            self.workflow_view.focus_set()
+
         except Exception as error:
-            self._show_error(f"Unable to load workflow steps for {display_name}.", error)
+            self._show_error(
+                f"Unable to load workflow steps for {display_name}.",
+                error,
+            )
 
     def _open_paint_popup(self, step: dict[str, Any]) -> None:
         paint_name = str(step.get("paint_name") or "Unknown paint").strip()
         paint_id = step.get("paint_id")
         try:
             paint = self.repository.get_paint_details(paint_id=paint_id, paint_name=paint_name) or {}
-            equivalents = self.repository.get_paint_equivalents(paint_id=paint_id or paint.get("paint_id"), paint_name=paint_name)
+            equivalents = self.repository.get_paint_equivalents(
+                paint_id=paint_id or paint.get("paint_id"),
+                paint_name=paint_name,
+            )
         except Exception as error:
             self._show_error("Paint details could not be loaded.", error)
             return
         paint.setdefault("paint_name", paint_name)
         paint.setdefault("paint_hex", step.get("paint_hex"))
-        PaintPopup(self, paint=paint, equivalents=equivalents, palette=self.PALETTE)
+        inspector = self._get_paint_inspector()
+        inspector.open_paint(paint, equivalents)
+
+    def _get_paint_inspector(self) -> PaintInspector:
+        if self.paint_inspector is None or not self.paint_inspector.winfo_exists():
+            self.paint_inspector = PaintInspector(
+                self,
+                palette=self.PALETTE,
+                repository=self.repository,
+                on_destroyed=self._clear_paint_inspector,
+            )
+        return self.paint_inspector
+
+    def _clear_paint_inspector(self) -> None:
+        self.paint_inspector = None
+
+    def _browse_paints(self) -> None:
+        inspector = self._get_paint_inspector()
+        inspector.deiconify()
+        inspector.lift()
+        inspector.open_search()
+
+    def _show_inventory(self) -> None:
+        if self.inventory_window is None or not self.inventory_window.winfo_exists():
+            self.inventory_window = InventoryWindow(
+                self,
+                palette=self.PALETTE,
+                repository=self.repository,
+                on_open_paint=self._open_inventory_paint,
+                on_destroyed=self._clear_inventory_window,
+            )
+        self.inventory_window.deiconify()
+        self.inventory_window.lift()
+
+    def _open_inventory_paint(self, paint: dict[str, Any]) -> None:
+        inspector = self._get_paint_inspector()
+        inspector.open_paint(paint)
+
+    def _clear_inventory_window(self) -> None:
+        self.inventory_window = None
 
     def _update_breadcrumb(self) -> None:
         parts = [self.superfaction_var.get(), self.faction_var.get()]

@@ -29,12 +29,12 @@ import sqlite3
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Iterable, Sequence
+from typing import Any, Sequence
 
 from openpyxl import load_workbook
 
 try:
-    from src.database.database_manager import DatabaseManager
+    from src.gui.database import DatabaseManager
 except ImportError:  # Allows direct execution during isolated testing.
     DatabaseManager = None  # type: ignore[assignment,misc]
 

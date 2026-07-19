@@ -2,7 +2,7 @@ import difflib
 import re
 import pandas as pd
 
-from src.database.database_paths import PROJECT_ROOT
+from src.gui.database.database_paths import PROJECT_ROOT
 
 
 CATALOG_PATH = PROJECT_ROOT / "data" / "workflow_catalog" / "workflow_catalog.csv"

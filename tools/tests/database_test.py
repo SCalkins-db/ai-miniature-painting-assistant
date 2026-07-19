@@ -1,5 +1,5 @@
-from src.database.database_manager import DatabaseManager
-from src.database.database_queries import DatabaseQueries
+from src.gui.database import DatabaseManager
+from src.gui.database.database_queries import DatabaseQueries
 
 
 print("=" * 60)

@@ -379,9 +379,7 @@ class PaintBrowser(ttk.Frame):
         self.owned_column_button = ttk.Button(column_bar, text="Owned", style="Tiny.TButton", command=lambda: self._toggle_column("owned"))
         self.owned_column_button.pack(side="left", padx=4)
 
-        self.tree = ttk.Treeview(self, columns=("name", "type", "owned"), show="tree headings", selectmode="browse", style="Paint.Treeview")
-        self.tree.heading("#0", text="", anchor="w")
-        self.tree.column("#0", width=30, minwidth=30, stretch=False, anchor="w")
+        self.tree = ttk.Treeview(self, columns=("name", "type", "owned"), show="headings", selectmode="browse", style="Paint.Treeview")
         self.tree.heading("name", text="Paint Name", anchor="w")
         self.tree.heading("type", text="Type", anchor="w")
         self.tree.heading("owned", text="Owned", anchor="w")
@@ -485,24 +483,6 @@ class PaintBrowser(ttk.Frame):
         words = haystack.split()
         return all(any(word.startswith(token) or difflib.SequenceMatcher(None, token, word).ratio() >= 0.78 for word in words) for token in tokens)
 
-    def _swatch_image(self, colour: str, size: int = 20) -> tk.PhotoImage:
-        """Return a cached paint-pot icon, with a safe legacy fallback."""
-        if self.icon_factory is not None:
-            return self.icon_factory.get(colour, size=size, variant="pot")
-        pad = 4
-        scale = 3
-        image = Image.new("RGBA", ((size + pad) * scale, size * scale), self.palette["panel"])
-        draw = ImageDraw.Draw(image)
-        draw.rounded_rectangle(
-            (pad * scale, 0, (pad + size - 1) * scale, (size - 1) * scale),
-            radius=3 * scale,
-            fill=normalize_hex(colour),
-            outline=self.palette["border"],
-            width=scale,
-        )
-        image = image.resize((size + pad, size), Image.Resampling.LANCZOS)
-        return ImageTk.PhotoImage(image)
-
     def _fit_columns(self) -> None:
         import tkinter.font as tkfont
         font = tkfont.nametofont("TkDefaultFont")
@@ -530,18 +510,18 @@ class PaintBrowser(ttk.Frame):
         self._visible_paints = visible
         self.tree.delete(*self.tree.get_children())
         self._swatch_images.clear()
-        swatch_size = 22
-        self.tree.column("#0", width=34, minwidth=34, stretch=False, anchor="w")
         self.tree.configure(height=max(8, self.tree.cget("height")))
+
+        # Browse Paints deliberately uses text-only rows. Creating nearly two
+        # thousand PhotoImage objects during startup and every filter refresh
+        # severely blocks Tkinter's single UI thread.
         for index, paint in enumerate(visible):
             paint_name = display_text(paint.get("paint_name"), "Unknown")
             paint_type_value = display_text(paint.get("paint_type"), "")
             if paint_type_value.casefold() == "acrylic paint":
                 paint_type_value = "Acrylic Paint"
             owned = "" if self.view_mode == "swatches" else int(paint.get("quantity") or 0)
-            image = self._swatch_image(str(paint.get("hex") or paint.get("paint_hex") or "#777777"), swatch_size)
-            self._swatch_images.append(image)
-            self.tree.insert("", "end", iid=str(index), image=image, values=(paint_name, paint_type_value, owned))
+            self.tree.insert("", "end", iid=str(index), values=(paint_name, paint_type_value, owned))
         self._fit_columns()
         self.count_var.set(f"{len(visible):,} paints found")
 
@@ -623,7 +603,14 @@ class DetailsPane(ScrollableFrame):
         if self.icon_factory is not None:
             image = self.icon_factory.get(colour, size=size, variant="pot")
             self._icon_refs.append(image)
-            return ttk.Label(parent, image=image, style="DetailValue.TLabel")
+            return tk.Label(
+                parent,
+                image=image,
+                bg=self.palette["panel"],
+                bd=0,
+                highlightthickness=0,
+                relief="flat",
+            )
         canvas = tk.Canvas(parent, width=size, height=size, bg=self.palette["panel"], highlightthickness=0)
         canvas.create_oval(2, 2, size - 2, size - 2, fill=colour, outline=self.palette["border"])
         return canvas
@@ -793,7 +780,15 @@ class NearMatchRow(ttk.Frame):
         self._icon_image: tk.PhotoImage | None = None
         if self.icon_factory is not None:
             self._icon_image = self.icon_factory.get(colour, size=38, variant="pot")
-            swatch: tk.Misc = ttk.Label(self, image=self._icon_image, style="Section.TLabel", cursor="hand2")
+            swatch: tk.Misc = tk.Label(
+                self,
+                image=self._icon_image,
+                bg=palette["section"],
+                bd=0,
+                highlightthickness=0,
+                relief="flat",
+                cursor="hand2",
+            )
         else:
             fallback = tk.Canvas(self, width=38, height=38, bg=palette["section"], highlightthickness=0, cursor="hand2")
             fallback.create_oval(3, 3, 35, 35, fill=colour, outline=palette["border"])
@@ -832,7 +827,14 @@ class PaintDocument(ScrollableFrame):
         if self.icon_factory is not None:
             image = self.icon_factory.get(colour, size=size, variant="pot")
             self._icon_refs.append(image)
-            return ttk.Label(parent, image=image, style="Panel.TLabel")
+            return tk.Label(
+                parent,
+                image=image,
+                bg=self.palette["panel"],
+                bd=0,
+                highlightthickness=0,
+                relief="flat",
+            )
         canvas = tk.Canvas(parent, width=size, height=size, bg=self.palette["panel"], highlightthickness=0)
         canvas.create_oval(2, 2, size - 2, size - 2, fill=colour, outline=self.palette["border"])
         return canvas
@@ -962,7 +964,15 @@ class WorkflowStepRow(ttk.Frame):
         self._icon_image: tk.PhotoImage | None = None
         if self.icon_factory is not None:
             self._icon_image = self.icon_factory.get(colour, size=38, variant="pot")
-            swatch: tk.Misc = ttk.Label(self, image=self._icon_image, style="WorkflowRow.TLabel", cursor="hand2")
+            swatch: tk.Misc = tk.Label(
+                self,
+                image=self._icon_image,
+                bg=palette["card"],
+                bd=0,
+                highlightthickness=0,
+                relief="flat",
+                cursor="hand2",
+            )
         else:
             fallback = tk.Canvas(self, width=38, height=38, bg=palette["card"], highlightthickness=0, cursor="hand2")
             fallback.create_oval(3, 3, 35, 35, fill=colour, outline=palette["border"])

@@ -248,7 +248,7 @@ class PaintIconFactory:
         # so very dark colors still show the pot's contours at small sizes.
         highlight_mask = base_luma.point(lambda value: max(0, min(255, (value - 150) * 2)))
         highlight_mask = ImageChops.multiply(highlight_mask, base.getchannel("A"))
-        highlight_layer = Image.new("RGBA", base.size, (255, 255, 255, 0))
+        highlight_layer = Image.new("RGBA", base.size, (0, 0, 0, 0))
         highlight_layer.putalpha(highlight_mask.point(lambda value: int(value * 0.22)))
         composited = Image.alpha_composite(composited, highlight_layer)
 

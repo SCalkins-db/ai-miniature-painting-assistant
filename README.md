@@ -1,174 +1,202 @@
 # AI Miniature Painting Assistant
 
+<p align="center">
+
+<img src="docs/images/app-icon.png" width="128">
+
+**A Python desktop application for miniature painters featuring workflow exploration, paint management, inventory tracking, cross-brand paint matching, and intelligent recommendation tools.**
+
+</p>
+
+---
+
 ## Overview
 
-The AI Miniature Painting Assistant is a software development project focused on helping miniature painters select paints, find cross-brand color equivalents, manage inventory, and receive painting recommendations.
+The AI Miniature Painting Assistant is a desktop application designed to simplify miniature painting by bringing paint management, workflow organization, and paint recommendations together in a single interface.
 
-This project is being developed as part of a Software Development internship and serves as a portfolio project demonstrating:
+Originally developed during a Software Development internship, the project evolved into a full-stack desktop application focused on backend architecture, structured data management, recommendation systems, and future AI-assisted painting guidance.
 
-* Python development
-* Data management
-* GUI design
-* AI integration
-* Software architecture
-* Recommendation systems
-* Containerization
+---
 
-## Current Project Status
+# Screenshots
 
-Current Development Phase: MVP Development
+## Workflow Explorer
 
-Completed:
+![Workflow Explorer](docs/images/workflow-explorer.png)
 
-* Registry-first architecture design
-* Paint database schema design
-* Multi-registry loading system
-* Master DataFrame generation
-* Search system
-* Data auditing tools
-* Docker containerization
-* Podman containerization support
+Browse professionally organized painting workflows by superfaction, faction, subfaction, unit, and workflow style.
 
-Current Database Statistics:
+---
 
-* Total Paint Records: 1,987
-* Manufacturers Supported: 5
+## Paint Browser & Recommendation Engine
 
-Supported Manufacturers:
+![Paint Browser](docs/images/paint-browser.png)
 
-* Games Workshop / Citadel
-* Army Painter
-* Vallejo
-* AK Interactive
-* Monument Hobbies / Pro Acryl
+Search nearly 2,000 paints, compare manufacturers, preview colors, manage inventory, and discover similar paints using RGB-based matching.
 
-## Current Architecture
+---
 
-Manufacturer Registries
+## Inventory Manager
 
-* Games Workshop Registry
-* Army Painter Registry
-* Vallejo Registry
-* AK Interactive Registry
-* Pro Acryl Registry
+![Inventory](docs/images/inventory.png)
 
-Registry CSV Files
-↓
-Registry Loader
-↓
-Master DataFrame
-↓
-Paint Database
-↓
-Search
-Swatches
-Inventory
-Recommendations
+Track owned paints and wishlist items while integrating inventory directly into recommendation workflows.
 
-Registry tables are responsible only for storing paint information.
+---
 
-Relationship systems such as equivalents, recommendations, workflows, and inventory tracking are intentionally separated from registry data.
+# Features
 
-## Planned Features
+### Workflow Explorer
 
-### MVP
+- Organized by Superfaction
+- Faction navigation
+- Subfaction support
+- Unit selection
+- Multiple workflow variants
+- Step-by-step paint recipes
+- Expandable workflow stages
+- Workflow metadata panel
 
-* Paint database
-* Cross-brand paint equivalents
-* Inventory tracking
-* Recommendation engine
-* Workflow suggestions
-* Basic Tkinter user interface
+---
 
-### Future Features
+### Paint Browser
 
-* SQLite database migration
-* Advanced color matching
-* Image analysis
-* AI painting assistant
-* Recipe generation
-* Cloud synchronization
+- Browse 1,984 paints
+- Manufacturer filtering
+- Product line filtering
+- Paint type filtering
+- Live search
+- Dynamic paint icons
+- Color previews
+- Exact paint equivalents
+- RGB similarity matching
 
-## Technology Stack
+---
 
-Current:
+### Inventory
 
-* Python
-* pandas
-* Tkinter
-* Excel
-* Docker
-* Podman
+- Owned paint tracking
+- Wishlist tracking
+- Inventory-aware recommendations
+- Integrated with workflow system
 
-Planned:
+---
 
-* SQLite
-* AI-assisted recommendation systems
+### Recommendation System
 
-## Running the Project
+- Exact equivalents
+- Near matches
+- Similarity percentages
+- Cross-brand recommendations
+- Registry-driven matching
 
-Main Application:
+---
 
-python main.py
+### Backend
 
-Database Audit:
+- SQLite database
+- Registry import pipeline
+- Data validation
+- Audit tools
+- Workflow database
+- Registry normalization
+- Modular architecture
 
-python -m src.audit
+---
 
-Install Requirements:
+# Supported Manufacturers
+
+- Games Workshop (Citadel)
+- Vallejo
+- Army Painter
+- AK Interactive
+- Monument Hobbies (Pro Acryl)
+
+---
+
+# Technology Stack
+
+Backend
+
+- Python
+- SQLite
+- pandas
+- openpyxl
+
+Desktop
+
+- Tkinter
+- Pillow
+
+Development
+
+- Git
+- GitHub
+- Docker
+- Podman
+
+---
+
+# Current Status
+
+Current Version
+
+**v2.1.8**
+
+Completed
+
+- Paint Registry
+- SQLite Backend
+- Workflow Explorer
+- Paint Browser
+- Inventory
+- Recommendation Engine Foundation
+- Paint Inspector
+- Dynamic Paint Rendering
+- Registry Auditing
+- Import Pipeline
+- Developer Tools
+
+Future Development
+
+- AI-assisted workflow recommendations
+- Recipe generation
+- Image recognition
+- Additional manufacturers
+- Community workflows
+
+---
+
+# Running
+
+```powershell
+python -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
 
-Build Docker Container:
+python main.py
+```
 
-docker build --load -t ai-miniature-painting-assistant .
+---
 
-Run Docker Container:
+# Why This Project Exists
 
-docker run --rm ai-miniature-painting-assistant
+Miniature painters often own paints from multiple manufacturers while following tutorials that use completely different paint ranges.
 
-## Adjustments to be Made Later
+This application bridges that gap by combining:
 
-### Paint ID Naming
+- inventory tracking
+- workflow management
+- paint equivalency
+- structured painting data
+- recommendation logic
 
-Current Paint_ID values include manufacturer and product line information.
+into one desktop application.
 
-Example:
+---
 
-GW_BASE_MACRAGGE_BLUE
+# License
 
-Future versions may use a revised naming convention.
-
-### Color Family Searching
-
-Future search functionality should include Color_Family searching.
-
-Current implementation performs name-based searches.
-
-Example:
-
-Searching for "blue" currently finds paints containing the word "blue" in the paint name.
-
-Future versions should return visually blue paints even when "blue" is not present in the paint name.
-
-## Known Data Limitations
-
-### Hex/RGB Audit Results
-
-Missing Hex Values: 408
-
-Breakdown:
-
-* Army Painter: 371
-* Vallejo: 33
-* Games Workshop: 4
-
-Most missing Army Painter values are located within:
-
-* Fanatic
-* Air
-* Speedpaint
-
-Database architecture, registry loading, search functionality, and schema validation are functioning correctly.
-
-Missing color data will be addressed during future registry auditing and data enrichment phases.
+MIT

@@ -1,8 +1,103 @@
+Skip to content
+SCalkins-db
+ai-miniature-painting-assistant
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+.gitignore
+LICENSE
+README.md
+ai-miniature-painting-assistant
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
 # AI Miniature Painting Assistant
 
 <p align="center">
 
-<img src="docs/images/app-icon.png" width="128">
+<img src="docs/images/app_icon.png" width="128">
 
 **A Python desktop application for miniature painters featuring workflow exploration, paint management, inventory tracking, cross-brand paint matching, and intelligent recommendation tools.**
 
@@ -22,7 +117,10 @@ Originally developed during a Software Development internship, the project evolv
 
 ## Workflow Explorer
 
-![Workflow Explorer](docs/images/workflow-explorer.png)
+![Workflow Explorer](docs/images/workflow_explorer.png)
+
+![Workflow Screenshot](docs/images/workflow_screenshot.png)
+
 
 Browse professionally organized painting workflows by superfaction, faction, subfaction, unit, and workflow style.
 
@@ -30,7 +128,7 @@ Browse professionally organized painting workflows by superfaction, faction, sub
 
 ## Paint Browser & Recommendation Engine
 
-![Paint Browser](docs/images/paint-browser.png)
+![Paint Search and Matching](docs/images/searches_screenshot.png)
 
 Search nearly 2,000 paints, compare manufacturers, preview colors, manage inventory, and discover similar paints using RGB-based matching.
 
@@ -38,7 +136,7 @@ Search nearly 2,000 paints, compare manufacturers, preview colors, manage invent
 
 ## Inventory Manager
 
-![Inventory](docs/images/inventory.png)
+![Inventory](docs/images/inventory_screenshot.png)
 
 Track owned paints and wishlist items while integrating inventory directly into recommendation workflows.
 
@@ -51,152 +149,7 @@ Track owned paints and wishlist items while integrating inventory directly into 
 - Organized by Superfaction
 - Faction navigation
 - Subfaction support
-- Unit selection
-- Multiple workflow variants
-- Step-by-step paint recipes
-- Expandable workflow stages
-- Workflow metadata panel
-
----
-
-### Paint Browser
-
-- Browse 1,984 paints
-- Manufacturer filtering
-- Product line filtering
-- Paint type filtering
-- Live search
-- Dynamic paint icons
-- Color previews
-- Exact paint equivalents
-- RGB similarity matching
-
----
-
-### Inventory
-
-- Owned paint tracking
-- Wishlist tracking
-- Inventory-aware recommendations
-- Integrated with workflow system
-
----
-
-### Recommendation System
-
-- Exact equivalents
-- Near matches
-- Similarity percentages
-- Cross-brand recommendations
-- Registry-driven matching
-
----
-
-### Backend
-
-- SQLite database
-- Registry import pipeline
-- Data validation
-- Audit tools
-- Workflow database
-- Registry normalization
-- Modular architecture
-
----
-
-# Supported Manufacturers
-
-- Games Workshop (Citadel)
-- Vallejo
-- Army Painter
-- AK Interactive
-- Monument Hobbies (Pro Acryl)
-
----
-
-# Technology Stack
-
-Backend
-
-- Python
-- SQLite
-- pandas
-- openpyxl
-
-Desktop
-
-- Tkinter
-- Pillow
-
-Development
-
-- Git
-- GitHub
-- Docker
-- Podman
-
----
-
-# Current Status
-
-Current Version
-
-**v2.1.8**
-
-Completed
-
-- Paint Registry
-- SQLite Backend
-- Workflow Explorer
-- Paint Browser
-- Inventory
-- Recommendation Engine Foundation
-- Paint Inspector
-- Dynamic Paint Rendering
-- Registry Auditing
-- Import Pipeline
-- Developer Tools
-
-Future Development
-
-- AI-assisted workflow recommendations
-- Recipe generation
-- Image recognition
-- Additional manufacturers
-- Community workflows
-
----
-
-# Running
-
-```powershell
-python -m venv .venv
-
-.\.venv\Scripts\Activate.ps1
-
-pip install -r requirements.txt
-
-python main.py
-```
-
----
-
-# Why This Project Exists
-
-Miniature painters often own paints from multiple manufacturers while following tutorials that use completely different paint ranges.
-
-This application bridges that gap by combining:
-
-- inventory tracking
-- workflow management
-- paint equivalency
-- structured painting data
-- recommendation logic
-
-into one desktop application.
-
----
-
-# License
-
-MIT
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+ 

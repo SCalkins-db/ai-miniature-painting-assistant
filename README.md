@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="docs/images/app-icon.png" width="128">
+<img src="docs/images/app_icon.png" width="128">
 
 **A Python desktop application for miniature painters featuring workflow exploration, paint management, inventory tracking, cross-brand paint matching, and intelligent recommendation tools.**
 
@@ -22,7 +22,10 @@ Originally developed during a Software Development internship, the project evolv
 
 ## Workflow Explorer
 
-![Workflow Explorer](docs/images/workflow-explorer.png)
+![Workflow Explorer](docs/images/workflow_explorer.png)
+
+![Workflow Screenshot](docs/images/workflow_screenshot.png)
+
 
 Browse professionally organized painting workflows by superfaction, faction, subfaction, unit, and workflow style.
 
@@ -30,7 +33,7 @@ Browse professionally organized painting workflows by superfaction, faction, sub
 
 ## Paint Browser & Recommendation Engine
 
-![Paint Browser](docs/images/paint-browser.png)
+![Paint Search and Matching](docs/images/searches_screenshot.png)
 
 Search nearly 2,000 paints, compare manufacturers, preview colors, manage inventory, and discover similar paints using RGB-based matching.
 
@@ -38,7 +41,7 @@ Search nearly 2,000 paints, compare manufacturers, preview colors, manage invent
 
 ## Inventory Manager
 
-![Inventory](docs/images/inventory.png)
+![Inventory](docs/images/inventory_screenshot.png)
 
 Track owned paints and wishlist items while integrating inventory directly into recommendation workflows.
 

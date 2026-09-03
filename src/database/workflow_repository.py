@@ -2,11 +2,31 @@ from __future__ import annotations
 
 import math
 import sqlite3
+import sys
 from pathlib import Path
 from typing import Any
 
-WORKFLOW_DATABASE_PATH = Path("data/database/painting_assistant.db")
-PAINT_DATABASE_PATH = Path("database/miniature_painting.db")
+####################################
+#pathblock
+####################################
+
+if getattr(sys, "frozen", False):
+    # PyInstaller bundle location:
+    # dist\AI Miniature Painting Assistant\_internal
+    PROJECT_ROOT = Path(sys._MEIPASS)
+else:
+    # Normal source-project location
+    PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+WORKFLOW_DATABASE_PATH = (
+    PROJECT_ROOT / "data" / "database" / "painting_assistant.db"
+)
+
+PAINT_DATABASE_PATH = (
+    PROJECT_ROOT / "database" / "miniature_painting.db"
+)
+
+
 
 class WorkflowRepository:
     """Read-only access layer for workflow and paint data stored in SQLite."""

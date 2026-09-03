@@ -1,6 +1,8 @@
 """Full desktop-shell redesign for the AI Miniature Painting Assistant."""
 
 from __future__ import annotations
+from pathlib import Path
+import tkinter as tk
 
 import threading
 import tkinter as tk
@@ -49,8 +51,17 @@ class PaintingAssistantApp(tk.Tk):
 
     def __init__(self) -> None:
         super().__init__()
+
+        print(icon_path)
+
+        icon_path = Path(__file__).resolve().parents[2] / "assets" / "icons" / "master_icon.png"
+
+        self.app_icon = tk.PhotoImage(file=str(icon_path))
+        self.iconphoto(True, self.app_icon)
+
         self.title(self.WINDOW_TITLE)
         self.geometry(self.WINDOW_GEOMETRY)
+
         self.minsize(self.WINDOW_MIN_WIDTH, self.WINDOW_MIN_HEIGHT)
         self.configure(bg=self.PALETTE["background"])
 

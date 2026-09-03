@@ -2,10 +2,10 @@
 
 
 a = Analysis(
-    ['src\\gui\\app.py'],
-    pathex=['.'],
+    ['main.py'],
+    pathex=[],
     binaries=[],
-    datas=[('.\\assets', 'assets'), ('.\\data', 'data'), ('.\\database', 'database')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
@@ -32,7 +32,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['assets\\icons\\citadel_bottle.ico'],
+    icon=['assets\\icons\\master_icon.ico'],
 )
 coll = COLLECT(
     exe,

@@ -1,23 +1,30 @@
-from src.core.paint_database import PaintDatabase
-from src.core.inventory import InventoryManager
+"""
+Diagnostic entry point for the AI Miniature Painting Assistant.
+"""
+
+import traceback
 
 
-def main():
-    db = PaintDatabase("data/registries_csv")
+def run():
+    print("[1] Starting main.py", flush=True)
 
-    print("=" * 50)
-    print("AI Miniature Painting Assistant")
-    print("=" * 50)
+    try:
+        print("[2] Importing GUI...", flush=True)
+        from src.gui.app import main as gui_main
 
-    print(f"Paints Loaded: {len(db.master_df):,}")
+        print("[3] GUI import succeeded", flush=True)
+        print("[4] Launching GUI...", flush=True)
 
-    print("\nPaints by Company:")
-    print(db.master_df["Company"].value_counts())
+        gui_main()
 
-    print("\nSearch Example: Kantor Blue")
-    print(db.search_by_paint_name("Kantor Blue"))
+        print("[5] GUI exited normally", flush=True)
 
+    except Exception:
+        print("\nAPPLICATION FAILED\n", flush=True)
+        traceback.print_exc()
+
+        input("\nPress Enter to close...")
 
 
 if __name__ == "__main__":
-    main()
+    run()
